@@ -1,0 +1,41 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "End Times Challenge",
+        "description": "A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience.",
+        "author": "Omni the Starspawn",
+        "maintainers": [
+            "github/OmniWildcard"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "Immersive",
+            "Survival",
+            "Overhaul"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://github.com/OmniWildcard/Omni-s_World/blob/44a5811c1c53fb19a04a7401e65d9066f9015c7e/Mod%20Lists/End%20Times%20Challenge/ETC%20Mod%20Page%20Thumbnail.png",
+            "readme": "https://www.mediafire.com/file_premium/jcrgyfoglggdhjp/Readme.txt/file",
+            "download": "https://authored-files.wabbajack.org/End%20Times%20Challenge.wabbajack_543d1f01-6168-4e56-a414-4b145c56cba1",
+            "machineURL": "Mod Lists/End Times Challenge",
+            "discordURL": "https://discord.gg/rMZKDNrZQS"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "eVMIG+QdQK8=",
+            "Size": 25929172925,
+            "NumberOfArchives": 1394,
+            "SizeOfArchives": 91378284413,
+            "NumberOfInstalledFiles": 219795,
+            "SizeOfInstalledFiles": 200337863732
+        },
+        "version": "1.0.4.3",
+        "dateCreated": "2025-02-17",
+        "dateUpdated": "2025-02-17",
+        "repositoryName": "Omni-s_World"
+    }
+]
