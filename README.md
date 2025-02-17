@@ -9,16 +9,16 @@ All of these mod lists make use of a similar base but have different modular gam
   https://www.patreon.com/posts/hdt-smp-new-robe-87610113
   
 - TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch
-  https://www.patreon.com/posts/hdt-smp-fitted-116498200
+https://www.patreon.com/posts/hdt-smp-fitted-116498200
   
 - Dint999's Combined CBBE+UUNP+TBD Sliders SE
-  https://www.patreon.com/posts/40715630
+https://www.patreon.com/posts/40715630
   
 - Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP
-  https://www.patreon.com/posts/aloy-outfit-from-44988117
+https://www.patreon.com/posts/aloy-outfit-from-44988117
 
 - Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE
-  https://www.patreon.com/posts/bdor-guardian-se-65369342
+https://www.patreon.com/posts/bdor-guardian-se-65369342
 
 # Want to see the Mod List's in action?
 If you want to see each individual mod list in action visit my YouTube channel or Twitch Channel. Links to both can be found below:
