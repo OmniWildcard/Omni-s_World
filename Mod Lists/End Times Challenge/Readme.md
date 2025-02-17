@@ -20,7 +20,7 @@ to help you on my Discord server. Simply submit a ticket and I'll get to you as 
 If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord
 server where I offer support for the mod list and post updates for when I go live or post videos.
 
-To join the discord use this link:
+To join the Discord use this link:
 https://discord.gg/rMZKDNrZQS
 
 To find my Twitch channel use this link:
