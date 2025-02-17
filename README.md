@@ -25,5 +25,8 @@ If you want to see each individual mod list in action visit my YouTube channel o
 You can find links to them under the corresponding game along with a brief description of the mod list!
 
 ## Skyrim SE/AE
-- [End Times Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/a65bd35e60f0cae2492e7d4524049fe3400bb0ac/Mod%20Lists/End%20Times%20Challenge) by Omni the Starspawn
+- [End Times Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/End%20Times%20Challenge) by Omni the Starspawn
+  - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience.
+
+- [Ad Mortem Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Ad%20Mortem%20Challenge) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience.
