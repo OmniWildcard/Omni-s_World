@@ -42,7 +42,7 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "Ad Mortem Challenge",
-        "description": "A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience.",
+        "description": "A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience. Features an extensive amount of additional spells and enchantments compared to vanilla Skyrim and the End Times Challenge list.",
         "author": "Omni the Starspawn",
         "maintainers": [
             "github/OmniWildcard"
@@ -63,6 +63,46 @@
             "readme": "https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Ad%20Mortem%20Challenge/Readme.md",
             "download": "",
             "machineURL": "Ad-Mortem-Challenge",
+            "discordURL": "https://discord.gg/rMZKDNrZQS"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "",
+            "Size": 0,
+            "NumberOfArchives": 0,
+            "SizeOfArchives": 0,
+            "NumberOfInstalledFiles": 0,
+            "SizeOfInstalledFiles": 0
+        },
+        "version": "1.0.0.0",
+        "dateCreated": "2025-02-17",
+        "dateUpdated": "2025-02-17",
+        "repositoryName": "Omni-s_World"
+    },
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "Chaos Mage Randomized Challenge",
+        "description": "A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience. It's very similar to the Ad Mortem Challenge list but with fewer restrictions to be found in the Modular Gameplay section.",
+        "author": "Omni the Starspawn",
+        "maintainers": [
+            "github/OmniWildcard"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "Immersive",
+            "Survival",
+            "Overhaul",
+            "Challenge Run"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://raw.githubusercontent.com/OmniWildcard/Omni-s_World/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/CMRC%20Mod%20Page%20Thumbnail.png",
+            "readme": "https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/Readme.md",
+            "download": "",
+            "machineURL": "Chaos-Mage-Randomized-Challenge",
             "discordURL": "https://discord.gg/rMZKDNrZQS"
         },
         "download_metadata": {
