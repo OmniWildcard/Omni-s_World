@@ -101,6 +101,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
     - Alternate Perspectives - Misc Patches.esp
     - Better Skyrim Parties - Misc Patches.esp
     - Bijin AIO - Misc Patches.esp
+    - CACO - Misc Patches.esp
     - Capital Windhelm Expansion - Misc Patches.esp
     - Chooey's Choice - Misc Patches.esp
     - COTN Falkreath - Misc Patches.esp
