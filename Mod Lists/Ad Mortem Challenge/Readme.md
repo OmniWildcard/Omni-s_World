@@ -1,17 +1,24 @@
 # Welcome to the Ad Mortem Challenge Mod List!
 ![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/db887a63-6833-490b-b783-7c4b080efec8)
 
+## Requirements
+These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
+- 11th Gen Intel(R) Core(TM) i9-11900k CPU or later CPU models
+- NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
+- 64GB RAM
+- 40GB Pagefile
+
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
 aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are a requirement for this mod list; so be sure to download them so that you have the
 tools to patch the list if you make any additions. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled
 off without issue.
 
-Download the latest version of xLODGen with this link and follow the install instructions:
-https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-129-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
+Download the latest version of xLODGen with the link below and follow the install instructions:
+- https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-129-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
 
-Download the latest version of DynDOLOD 3 with this link and follow the install instructions:
-https://www.nexusmods.com/skyrimspecialedition/mods/68518
+Download the latest version of DynDOLOD 3 with the link below and follow the install instructions:
+- https://www.nexusmods.com/skyrimspecialedition/mods/68518
 
 All the other tools you'll need are included in the Wabbajack install but may not always be the latest version. If they are ever out-of-date I suggest manually updating them within MO2 to avoid
 messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad
@@ -20,11 +27,11 @@ to help you on my Discord server. Simply submit a ticket and I'll get to you as 
 If you wanted to see the list in action you can visit my YouTube channel and watch the episodic series covering the challenge run this mod list is named after. I also have a Discord server where
 I offer support for the mod list and post updates for when I go live or post videos.
 
-To join the Discord use this link:
-https://discord.gg/rMZKDNrZQS
+To join the Discord use the link below:
+- https://discord.gg/rMZKDNrZQS
 
-And to find my YouTube channel use this link:
-https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
+And to find my YouTube channel use the link below:
+- https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
 
 # Install Instructions
 Now, before playing, you should do the following things:
@@ -42,19 +49,19 @@ Now, before playing, you should do the following things:
 	
 	 - Press Windows + R
 	 
-	 - Type in steam://open/console and press Enter
+	 - Input "steam://open/console" (without quotations) and press Enter
 	 
 	 - In the Steam Console copy and paste the following entries and click Enter after each:
-		  download_depot 1946180 1946182 926444740758492387
-		  download_depot 1946180 1946183 2725999750516785042
+		 - download_depot 1946180 1946182 926444740758492387
+		 - download_depot 1946180 1946183 2725999750516785042
 		  
 	 - Open the directory listed in the Steam Console. The default location is:
-		  C:\Program Files (x86)\Steam\steamapps\content\app_1946180
+		 - C:\Program Files (x86)\Steam\steamapps\content\app_1946180
 		  
 	 - Copy and Paste and the contents of the two folders into your Skyrim SE folder. The default location is:
-		  C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
+		 - C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
 		  
-	 - Find Skyrim Special Edition: Creation Kit in your steam library, right click it and go to Properties
+	 - Find Skyrim Special Edition: Creation Kit in your steam library, right-click it and go to Properties
 	 
 	 - Navigate to the Updates tab and ensure it's set to "Only update this game when I launch it"
 
@@ -87,11 +94,43 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-11) Put the various Misc Patch esp files at the bottom of the plugin load order, followed by the Crows and Ravens - NotWL Patch, the SDA - Consistency Patch, the LydiaRemake.esp,
-the LydiaRemake HDT Improved Follower Dialogue - Lydia.esp, the CS_Melana+DLH Patch, the Ciri Concept Art Armor - Consistency Tweak, Remove Weapon Glows,
-the RaSeaSky - NO RAVEN SPAWNS - Patch, the Whiterun Terrain Fix, the Falkreath Terrain Fix, the Rift Terrain Fix, the Shadowgreen Cavern Fix, the RemoveInteriorFog.esp, then the
-DynDOLOD.esp, the Occlusion.esp and finally the Quality World Map esp file. This is to ensure that these take precedence over anything that would be causing issues and so that the
-world map displays properly.
+11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+    - ParallaxGen.esp
+    - PG_1.esp
+    - Modern Brawl Bug Fix.esp
+    - Alternate Perspectives - Misc Patches.esp
+    - Better Skyrim Parties - Misc Patches.esp
+    - Bijin AIO - Misc Patches.esp
+    - Capital Windhelm Expansion - Misc Patches.esp
+    - Chooey's Choice - Misc Patches.esp
+    - COTN Falkreath - Misc Patches.esp
+    - Dark Elf Voices For Bandits - Misc Patches.esp
+    - Dawnguard Arsenal - Misc Patches.esp
+    - ESO Nord Weapons - Misc Patches.esp
+    - Immersive Jewelry - Misc Patches.esp
+    - Immersive Weapons - Misc Patches.esp
+    - JK's Winking Skeever - Misc Patches.esp
+    - Modpocalypse - Misc Patches.esp
+    - Orc Stalkers Fix - Misc Patches.esp
+    - Return Aegisbane - Misc Patches.esp
+    - Save the Ice-Runner - Misc Patches.esp
+    - Simple Children - Misc Patches.esp
+    - Crows and Ravens - NotWL Patch.esp
+    - SDA - Consistency Patch.esp
+    - LydiaRemake.esp
+    - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
+    - CS_Melana+DLH Patch.esp
+    - Ciri Concept Art Armor - Consistency Tweak.esp
+    - Remove Weapon Glows.esp
+    - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
+    - Whiterun Terrain Fix.esp
+    - Falkreath Terrain Fix.esp
+    - Rift Terrain Fix.esp
+    - Shadowgreen Cavern Fix.esp
+    - RemoveInteriorFog.esp
+    - DynDOLOD.esp
+    - Occlusion.esp
+    - IcePenguinWorldMap.esp
 
 # Known Issues
 
