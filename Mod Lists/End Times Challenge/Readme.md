@@ -15,10 +15,10 @@ tools to patch the list if you make any additions. Gameplay elements that aren't
 off without issue.
 
 Download the latest version of xLODGen with this link and follow the install instructions:
-https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-129-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
+- https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-129-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
 
 Download the latest version of DynDOLOD 3 with this link and follow the install instructions:
-https://www.nexusmods.com/skyrimspecialedition/mods/68518
+- https://www.nexusmods.com/skyrimspecialedition/mods/68518
 
 All the other tools you'll need are included in the Wabbajack install but may not always be the latest version. If they are ever out-of-date I suggest manually updating them within MO2 to avoid
 messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad
@@ -27,14 +27,14 @@ to help you on my Discord server. Simply submit a ticket and I'll get to you as 
 If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord
 server where I offer support for the mod list and post updates for when I go live or post videos.
 
-To join the Discord use this link:
-https://discord.gg/rMZKDNrZQS
+To join the Discord use the link below:
+- https://discord.gg/rMZKDNrZQS
 
-To find my Twitch channel use this link:
-https://twitch.tv/omnithestarspawn
+To find my Twitch channel use the link below:
+- https://twitch.tv/omnithestarspawn
 
-And to find my YouTube channel use this link:
-https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
+And to find my YouTube channel use the link below:
+- https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
 
 # Install Instructions
 Now, before playing, you should do the following things:
