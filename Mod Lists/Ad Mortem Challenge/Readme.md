@@ -1,5 +1,5 @@
 # Welcome to the Ad Mortem Challenge Mod List!
-![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/db887a63-6833-490b-b783-7c4b080efec8)
+![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/e3bd4f56-1313-4c28-bce1-200abc8d6e61)
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
