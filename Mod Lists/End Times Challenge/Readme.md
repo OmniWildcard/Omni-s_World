@@ -14,10 +14,10 @@ aspect; all-the-while striking a balance between realism and game-like convenien
 tools to patch the list if you make any additions. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled
 off without issue.
 
-Download the latest version of xLODGen with this link and follow the install instructions:
+Download the latest version of xLODGen with the link below and follow the install instructions:
 - https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-129-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
 
-Download the latest version of DynDOLOD 3 with this link and follow the install instructions:
+Download the latest version of DynDOLOD 3 with the link below and follow the install instructions:
 - https://www.nexusmods.com/skyrimspecialedition/mods/68518
 
 All the other tools you'll need are included in the Wabbajack install but may not always be the latest version. If they are ever out-of-date I suggest manually updating them within MO2 to avoid
