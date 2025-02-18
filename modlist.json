@@ -16,7 +16,7 @@
         ],
         "nsfw": false,
         "image_contains_title": true,
-        "force_down": false,
+        "force_down": true,
         "links": {
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/OmniWildcard/Omni-s_World/main/Mod%20Lists/End%20Times%20Challenge/ETC%20Mod%20Page%20Thumbnail.png",
@@ -56,7 +56,7 @@
         ],
         "nsfw": false,
         "image_contains_title": true,
-        "force_down": false,
+        "force_down": true,
         "links": {
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/OmniWildcard/Omni-s_World/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/CMRC%20Mod%20Page%20Thumbnail.png",
