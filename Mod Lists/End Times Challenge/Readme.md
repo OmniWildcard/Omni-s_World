@@ -25,7 +25,7 @@ messing with Skyrim's root directory. This is because Wabbajack installs require
 to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
 
 If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord
-server where I offer support for the mod list and post updates for when I go live or post videos.
+server where I offer support for the mod list and post updates for when I go live, post videos or release updates to my various mod lists.
 
 To join the Discord use the link below:
 - https://discord.gg/rMZKDNrZQS
