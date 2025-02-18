@@ -28,8 +28,8 @@ You can find links to them under the corresponding game along with a brief descr
 - [End Times Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/End%20Times%20Challenge/Readme.md) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience.
 
-- [Chaos Mage Randomized Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/Readme.md) [Currently Unreleased] by Omni the Starspawn
+- [Chaos Mage Randomized Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/Readme.md) (Currently Unreleased) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience. It's very similar to the Ad Mortem Challenge list but with fewer restrictions to be found in the Modular Gameplay section.
 
-- [Ad Mortem Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Ad%20Mortem%20Challenge/Readme.md) [Currently Unreleased] by Omni the Starspawn
+- [Ad Mortem Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Ad%20Mortem%20Challenge/Readme.md) (Currently Unreleased) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat; all-the-while striking a decent balance between realism and game-like convenience. Features an extensive amount of additional spells and enchantments compared to vanilla Skyrim and the End Times Challenge list.
