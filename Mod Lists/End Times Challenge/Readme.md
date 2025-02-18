@@ -97,11 +97,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-11) Put the various Misc Patch esp files at the bottom of the plugin load order, followed by the Crows and Ravens - NotWL Patch, the SDA - Consistency Patch, the LydiaRemake.esp,
-the LydiaRemake HDT Improved Follower Dialogue - Lydia.esp, the CS_Melana+DLH Patch, the Ciri Concept Art Armor - Consistency Tweak, Remove Weapon Glows,
-the RaSeaSky - NO RAVEN SPAWNS - Patch, the Whiterun Terrain Fix, the Falkreath Terrain Fix, the Rift Terrain Fix, the Shadowgreen Cavern Fix, the RemoveInteriorFog.esp, then the
-DynDOLOD.esp, the Occlusion.esp and finally the Quality World Map esp file. This is to ensure that these take precedence over anything that would be causing issues and so that the
-world map displays properly.
+11) Put the various Misc Patch esp files at the bottom of the plugin load order, followed by the Crows and Ravens - NotWL Patch, the SDA - Consistency Patch, the LydiaRemake.esp, the LydiaRemake HDT Improved Follower Dialogue - Lydia.esp, the CS_Melana+DLH Patch, the Ciri Concept Art Armor - Consistency Tweak, Remove Weapon Glows, the RaSeaSky - NO RAVEN SPAWNS - Patch, the Whiterun Terrain Fix, the Falkreath Terrain Fix, the Rift Terrain Fix, the Shadowgreen Cavern Fix, the RemoveInteriorFog.esp, then the DynDOLOD.esp, the Occlusion.esp and finally the Quality World Map esp file. This is to ensure that these take precedence over anything that would be causing issues and so that the world map displays properly.
 
 # Known Issues
 
