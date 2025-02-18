@@ -97,7 +97,43 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-11) Put the various Misc Patch esp files at the bottom of the plugin load order, followed by the Crows and Ravens - NotWL Patch, the SDA - Consistency Patch, the LydiaRemake.esp, the LydiaRemake HDT Improved Follower Dialogue - Lydia.esp, the CS_Melana+DLH Patch, the Ciri Concept Art Armor - Consistency Tweak, Remove Weapon Glows, the RaSeaSky - NO RAVEN SPAWNS - Patch, the Whiterun Terrain Fix, the Falkreath Terrain Fix, the Rift Terrain Fix, the Shadowgreen Cavern Fix, the RemoveInteriorFog.esp, then the DynDOLOD.esp, the Occlusion.esp and finally the Quality World Map esp file. This is to ensure that these take precedence over anything that would be causing issues and so that the world map displays properly.
+11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+    - ParallaxGen.esp
+    - PG_1.esp
+    - Modern Brawl Bug Fix.esp
+    - Alternate Perspectives - Misc Patches.esp
+    - Better Skyrim Parties - Misc Patches.esp
+    - Bijin AIO - Misc Patches.esp
+    - Capital Windhelm Expansion - Misc Patches.esp
+    - Chooey's Choice - Misc Patches.esp
+    - COTN Falkreath - Misc Patches.esp
+    - Dark Elf Voices For Bandits - Misc Patches.esp
+    - Dawnguard Arsenal - Misc Patches.esp
+    - ESO Nord Weapons - Misc Patches.esp
+    - Immersive Jewelry - Misc Patches.esp
+    - Immersive Weapons - Misc Patches.esp
+    - JK's Winking Skeever - Misc Patches.esp
+    - Modpocalypse - Misc Patches.esp
+    - Orc Stalkers Fix - Misc Patches.esp
+    - Return Aegisbane - Misc Patches.esp
+    - Save the Ice-Runner - Misc Patches.esp
+    - Simple Children - Misc Patches.esp
+    - Crows and Ravens - NotWL Patch.esp
+    - SDA - Consistency Patch.esp
+    - LydiaRemake.esp
+    - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
+    - CS_Melana+DLH Patch.esp
+    - Ciri Concept Art Armor - Consistency Tweak.esp
+    - Remove Weapon Glows.esp
+    - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
+    - Whiterun Terrain Fix.esp
+    - Falkreath Terrain Fix.esp
+    - Rift Terrain Fix.esp
+    - Shadowgreen Cavern Fix.esp
+    - RemoveInteriorFog.esp
+    - DynDOLOD.esp
+    - Occlusion.esp
+    - IcePenguinWorldMap.esp
 
 # Known Issues
 
