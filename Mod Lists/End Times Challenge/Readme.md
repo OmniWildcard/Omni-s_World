@@ -52,19 +52,19 @@ Now, before playing, you should do the following things:
 	
 	 - Press Windows + R
 	 
-	 - Type in steam://open/console and press Enter
+	 - Input "steam://open/console" (without quotations) and press Enter
 	 
 	 - In the Steam Console copy and paste the following entries and click Enter after each:
-		  download_depot 1946180 1946182 926444740758492387
-		  download_depot 1946180 1946183 2725999750516785042
+		 - download_depot 1946180 1946182 926444740758492387
+		 - download_depot 1946180 1946183 2725999750516785042
 		  
 	 - Open the directory listed in the Steam Console. The default location is:
-		  C:\Program Files (x86)\Steam\steamapps\content\app_1946180
+		 - C:\Program Files (x86)\Steam\steamapps\content\app_1946180
 		  
 	 - Copy and Paste and the contents of the two folders into your Skyrim SE folder. The default location is:
-		  C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
+		 - C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
 		  
-	 - Find Skyrim Special Edition: Creation Kit in your steam library, right click it and go to Properties
+	 - Find Skyrim Special Edition: Creation Kit in your steam library, right-click it and go to Properties
 	 
 	 - Navigate to the Updates tab and ensure it's set to "Only update this game when I launch it"
 
