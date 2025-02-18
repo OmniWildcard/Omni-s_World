@@ -7,6 +7,7 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
 - 64GB RAM
 - 40GB Pagefile
+- At least 287GB of free space
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
