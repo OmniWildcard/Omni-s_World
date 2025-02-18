@@ -1,5 +1,5 @@
 # Welcome to the Chaos Mage Randomized Challenge Mod List
-![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/9c3b5a46-9f06-46d6-9284-5e997a18744c)
+![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/4cfdbf35-f562-4e9b-b0ab-1383151b509b)
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
