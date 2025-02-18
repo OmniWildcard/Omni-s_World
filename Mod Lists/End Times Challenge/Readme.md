@@ -1,6 +1,13 @@
 # Welcome to the "End Times" Challenge Mod List!
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
 
+## Requirements
+These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
+- 11th Gen Intel(R) Core(TM) i9-11900k CPU or later CPU models
+- NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
+- 64GB RAM
+- 40GB Pagefile
+
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
 aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are a requirement for this mod list; so be sure to download them so that you have the
