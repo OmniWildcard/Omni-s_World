@@ -1,6 +1,8 @@
 # Welcome to the "End Times" Challenge Mod List!
+
+**[!] Warning - This list requires v1.6.1170 of Skyrim to run**
+
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
-[!] Warning - This list requires v1.6.1170 of Skyrim to run
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
@@ -141,14 +143,12 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
     - IcePenguinWorldMap.esp
 
 # Known Issues
-
 1) Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower (Will be fixed by v1.1.0.0)
 2) Weird Giant Frostbite Spider behavior in Bleak Falls Barrow and Ustengrav (Being looked into with the Dungeons Revisited dev)
 3) Various landscape seams in need of fixing (Will be fixed by v1.1.0.0)
 4) Some minor Navmesh tweaks required in small towns and villages (Will be fixed by v1.1.0.0)
 
 # FAQS
-
 - Question: My meshes/textures are not rendering properly in-game. What do I do to fix this?
 - Answer: This is due to either lacking the Bodyslide Output meshes for it or because it's being overwritten by the ParallaxGen Output. It's recommended to run VRAMr, ParallaxR, ParallaxGen and Bodyslide after adding any new meshes or textures to the install. However, since the process I used to generate the included Bodyslide Output is a bit more intensive, I won't go into detail here but if you submit a ticket on the Discord server I'll walk you through it.
 
