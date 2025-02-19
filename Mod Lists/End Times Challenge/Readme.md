@@ -1,5 +1,6 @@
 # Welcome to the "End Times" Challenge Mod List!
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
+[!] Warning - This list requires v1.6.1170 of Skyrim to run
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
@@ -8,6 +9,9 @@ These are the minimum recommended specifications to run the list though there ma
 - 64GB RAM
 - 40GB Pagefile
 - At least 290GB of free space
+
+## Download Links
+- [Download v1.0.5.2](https://www.mediafire.com/file_premium/0wxib6l61bsv7ry/End_Times_Challenge.wabbajack/file)
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
