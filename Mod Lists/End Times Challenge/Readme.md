@@ -156,7 +156,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - Answer: This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
 
 - Question: Where do I go if I'm having issues or want to report a bug?
-- Answer: Go to my discord and submit a ticket. I'll look into fixing whatever issues you're having or whatever bug you reported.
+- Answer: Go to my Discord and submit a ticket. I'll look into fixing whatever issues you're having or whatever bug you reported.
 
 - Question: I added a mod to the list and now I'm getting constant CTD's. What do I do?
 - Answer: Sadly if you modify the list yourself what support I can offer is extremely limited, especially if it's a hard-incompatibility. But submit a ticket on Discord and if it's something I can help with I'll do what I can to remedy the issue.
