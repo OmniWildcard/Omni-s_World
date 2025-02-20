@@ -14,6 +14,7 @@ These are the minimum recommended specifications to run the list though there ma
 
 ## Download Links
 - [Download v1.0.5.2](https://www.mediafire.com/file_premium/0wxib6l61bsv7ry/End_Times_Challenge.wabbajack/file)
+- [Download v1.0.5.3](https://www.mediafire.com/file_premium/7rfui4zdmvi8344/End_Times_Challenge.wabbajack/file) **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
