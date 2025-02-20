@@ -48,56 +48,36 @@ Now, before playing, you should do the following things:
 	 - Horse Armor Elven (ccbgssse011-hrsarmrelvn.esl)
 	 - Horse Armor Steel (ccbgssse012-hrsarmrstl.esl)
 
-2) Second, ensure you have Creation Kit v1.6.1130.0 by following the instructions below:
-	
-	 - Press Windows + R
-	 
-	 - Input "steam://open/console" (without quotations) and press Enter
-	 
-	 - In the Steam Console copy and paste the following entries and click Enter after each:
-		 - download_depot 1946180 1946182 926444740758492387
-		 - download_depot 1946180 1946183 2725999750516785042
-		  
-	 - Open the directory listed in the Steam Console. The default location is:
-		 - C:\Program Files (x86)\Steam\steamapps\content\app_1946180
-		  
-	 - Copy and Paste and the contents of the two folders into your Skyrim SE folder. The default location is:
-		 - C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
-		  
-	 - Find Skyrim Special Edition: Creation Kit in your steam library, right-click it and go to Properties
-	 
-	 - Navigate to the Updates tab and ensure it's set to "Only update this game when I launch it"
-
-3) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
+2) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/hdt-smp-new-robe-87610113
 
-4) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
+3) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/hdt-smp-fitted-116498200
 
-5) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
+4) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/40715630
 
-6) Download Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP from their Patreon with this link and install with your preferred mod organizer:
+5) Download Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/aloy-outfit-from-44988117
 
-7) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
+6) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/bdor-guardian-se-65369342
 
-8) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
+7) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esl
 	- 1NDArmor.esl
 	- 1FalconerArmor.esl
 	
-9) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
+8) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
 	- TheLegends-NordArmor.esp
 	- 1YsmirArmorSE.esp
 	
-10) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
+9) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esp
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+10) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
     - ParallaxGen.esp
     - PG_1.esp
     - Modern Brawl Bug Fix.esp
@@ -146,11 +126,14 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - Question: My meshes/textures are not rendering properly in-game. What do I do to fix this?
 - Answer: This is due to either lacking the Bodyslide Output meshes for it or because it's being overwritten by the ParallaxGen Output. It's recommended to run VRAMr, ParallaxR, ParallaxGen and Bodyslide after adding any new meshes or textures to the install. However, since the process I used to generate the included Bodyslide Output is a bit more intensive, I won't go into detail here but if you submit a ticket on the Discord server I'll walk you through it.
 
+
 - Question: My NPC's are bald! How do I fix this?
 - Answer: This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
 
+
 - Question: Where do I go if I'm having issues or want to report a bug?
 - Answer: Go to my discord and submit a ticket. I'll look into fixing whatever issues you're having or whatever bug you reported.
+
 
 - Question: I added a mod to the list and now I'm getting constant CTD's. What do I do?
 - Answer: Sadly if you modify the list yourself what support I can offer is extremely limited, especially if it's a hard-incompatibility. But submit a ticket on Discord and if it's something I can help with I'll do what I can to remedy the issue.
