@@ -48,56 +48,36 @@ Now, before playing, you should do the following things:
 	 - Horse Armor Elven (ccbgssse011-hrsarmrelvn.esl)
 	 - Horse Armor Steel (ccbgssse012-hrsarmrstl.esl)
 
-2) Second, ensure you have Creation Kit v1.6.1130.0 by following the instructions below:
-	
-	 - Press Windows + R
-	 
-	 - Input "steam://open/console" (without quotations) and press Enter
-	 
-	 - In the Steam Console copy and paste the following entries and click Enter after each:
-		 - download_depot 1946180 1946182 926444740758492387
-		 - download_depot 1946180 1946183 2725999750516785042
-		  
-	 - Open the directory listed in the Steam Console. The default location is:
-		 - C:\Program Files (x86)\Steam\steamapps\content\app_1946180
-		  
-	 - Copy and Paste and the contents of the two folders into your Skyrim SE folder. The default location is:
-		 - C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
-		  
-	 - Find Skyrim Special Edition: Creation Kit in your steam library, right-click it and go to Properties
-	 
-	 - Navigate to the Updates tab and ensure it's set to "Only update this game when I launch it"
-
-3) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
+2) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/hdt-smp-new-robe-87610113
 
-4) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
+3) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/hdt-smp-fitted-116498200
 
-5) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
+4) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/40715630
 
-6) Download Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP from their Patreon with this link and install with your preferred mod organizer:
+5) Download Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/aloy-outfit-from-44988117
 
-7) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
+6) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/bdor-guardian-se-65369342
 
-8) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
+7) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esl
 	- 1NDArmor.esl
 	- 1FalconerArmor.esl
 	
-9) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
+8) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
 	- TheLegends-NordArmor.esp
 	- 1YsmirArmorSE.esp
 	
-10) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
+9) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esp
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+10) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
     - ParallaxGen.esp
     - PG_1.esp
     - Modern Brawl Bug Fix.esp
