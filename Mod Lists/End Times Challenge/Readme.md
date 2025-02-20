@@ -125,9 +125,8 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 
 # Known Issues
 1) Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower (Will be fixed by v1.1.0.0)
-2) Weird Giant Frostbite Spider behavior in Bleak Falls Barrow and Ustengrav (Being looked into with the Dungeons Revisited dev)
-3) Various landscape seams in need of fixing (Will be fixed by v1.1.0.0)
-4) Some minor Navmesh tweaks required in small towns and villages (Will be fixed by v1.1.0.0)
+2) Various landscape seams in need of fixing (Will be fixed by v1.1.0.0)
+3) Some minor Navmesh tweaks required in small towns and villages (Will be fixed by v1.1.0.0)
 
 # FAQS
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
