@@ -36,6 +36,17 @@ To join the Discord use the link below:
 And to find my YouTube channel use the link below:
 - https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
 
+## What's the Challenge Aspect of this List?
+I'm glad you asked, the challenge element is mostly handled outside of game and not via any mod-implementation allowing you to just use the list "as-is" or attempt the challenge I did yourself.
+
+Want to try the challenge run for yourself? Then simply [spin the wheel](https://wheelofnames.com/) using the templates provided below and limit yourself to the results. You'll spin for a new school every ingame day at midnight. And your task for the day will be selected via its own wheel. Then set yourself an ultimate goal you must complete with this handicap and you've got your very own version of the run! The template follows my variation where I have to complete the entirety of the College of Winterhold with these handicaps, but you can change it out with whatever you wish.
+- [School of Magic Wheel](https://www.mediafire.com/file_premium/x5b77bpov4v2vxo/School_of_Magic.wheel/file)
+- [Daily Task Wheel](https://www.mediafire.com/file_premium/3gn5r0w7szzcwyk/Daily_Task.wheel/file)
+- [Random Dungeon Wheel](https://www.mediafire.com/file_premium/psx97mryritzqoh/Random_Dungeon.wheel/file)
+- [Random Side Quest Wheel](https://www.mediafire.com/file_premium/wsloj3p1k8db3l0/Random_Side_Quest.wheel/file)
+
+Most of all I hope you enjoy the list! It is the product of a lot of hard work creating a functional base that all my challenge lists could be based off of. So I hope you appreciate the effort and custom patch work that went into its creation. With that said let's move on to the installation instructions!
+
 # Install Instructions
 Now, before playing, you should do the following things:
 
