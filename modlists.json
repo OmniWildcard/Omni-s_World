@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/OmniWildcard/Omni-s_World/main/Mod%20Lists/End%20Times%20Challenge/ETC%20Mod%20Page%20Thumbnail.webp",
       "readme": "https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/End%20Times%20Challenge/Readme.md",
-      "download": "https://authored-files.wabbajack.org/End Times Challenge.wabbajack_76ac2022-13aa-4bb1-987c-4ccfe62ab9d8",
+      "download": "https://authored-files.wabbajack.org/End Times Challenge.wabbajack_4e7e8e1b-6d8f-4329-a004-7982146b8458",
       "machineURL": "End-Times-Challenge",
       "discordURL": "https://discord.gg/rMZKDNrZQS"
     },
     "download_metadata": {
-      "Hash": "Ri7ddxeAADA=",
-      "Size": 696268167,
-      "NumberOfArchives": 1403,
-      "SizeOfArchives": 99495332956,
-      "NumberOfInstalledFiles": 256179,
-      "SizeOfInstalledFiles": 208046685275
+      "Hash": "1/nMt74ltvY=",
+      "Size": 682289606,
+      "NumberOfArchives": 1404,
+      "SizeOfArchives": 99499418157,
+      "NumberOfInstalledFiles": 256181,
+      "SizeOfInstalledFiles": 208047266462
     },
-    "version": "1.0.5.3",
+    "version": "1.0.5.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-20T16:40:27.1395759Z",
+    "dateUpdated": "2025-02-20T22:07:57.3298751Z",
     "repositoryName": ""
   }
 ]
