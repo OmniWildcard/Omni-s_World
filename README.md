@@ -15,7 +15,7 @@ All of these mod lists make use of a similar base but have different modular gam
 
 - https://www.patreon.com/posts/bdor-guardian-se-65369342
 
-Also, it should be noted, the lists are designed to be highly modular in some areas as I've left certain aspects entirely untouched. Want to use a Vampire or Werewolf overhaul of your choice? That's entirely possible with any of my mod lists as none of them include one. Want to add Wintersun to the list? Go right ahead, though you will need to download the Wintersun patches for Daedric Shrines AIO to make the new Daedric Shrines function. These lists serve more as a foundation and a way to replicate my own challenge runs if you wish to give them a try yourself. So go ahead and check them out! I'm sure you'll find one to your liking.
+Also, it should be noted, the lists are designed to be highly customizable in some areas as I've left certain aspects entirely untouched to maximize compatibility. Want to use a Vampire or Werewolf overhaul of your choice? That's entirely possible with any of my mod lists as none of them include one. Want to add Wintersun to the list? Go right ahead, though you will need to download the Wintersun patches for Daedric Shrines AIO to make the new Daedric Shrines function. These lists serve more as a foundation and a way to replicate my own challenge runs if you wish to give them a try yourself. So go ahead and check them out! I'm sure you'll find one to your liking.
 
 # Want to see the Mod List's in action?
 If you want to see each individual mod list in action visit my YouTube channel or Twitch Channel. Links to both can be found below:
