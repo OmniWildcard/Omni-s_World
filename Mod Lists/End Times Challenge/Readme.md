@@ -1,9 +1,10 @@
 # Welcome to the "End Times" Challenge Mod List!
-
-**[!] Warning - This list requires v1.6.1170.0 of Skyrim to run**
-**[!] Warning - This list requires v1.6.1378.1 of the Creation Kit to install**
-
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
+> [!Warning]
+> **This list requires v1.6.1170.0 of Skyrim**
+
+> [!Warning]
+> **This list requires v1.6.1378.1 of the Creation Kit**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
@@ -133,9 +134,10 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
     - IcePenguinWorldMap.esp
 
 # Known Issues
-1) Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower (Will be fixed by v1.1.0.0)
-2) Various landscape seams in need of fixing (Will be fixed by v1.1.0.0)
-3) Some minor Navmesh tweaks required in small towns and villages (Will be fixed by v1.1.0.0)
+- [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
+- [x] Weird issues in Bleak Falls Barrow and Ustengrav **(Fixed as of v1.0.5.5)**
+- [ ] Various landscape seams in need of fixing
+- [ ] Some minor Navmesh tweaks required in small towns and villages
 
 # FAQS
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
