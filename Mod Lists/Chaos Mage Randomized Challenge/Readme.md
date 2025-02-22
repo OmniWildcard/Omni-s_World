@@ -76,21 +76,30 @@ https://www.patreon.com/posts/aloy-outfit-from-44988117
 6) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/bdor-guardian-se-65369342
 
-7) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
+7) When you install the files downloaded in steps 2-through-6 ensure that they're placed in the "Armors & Weapons (w/ Patches)" section of the load order. The bottom of that section should look like this:
+   	- TATURURUTIA's HDT-SMP New Miraak Robes
+   	- Fitted Ebony Armor
+   	- TATURURUTIA's HDT-SMP Fited Ebony Armor Patch
+   	- [Christine] Dragon Fighter
+   	- [Dint999] HZDAloy's outfit [SE] v1.01
+   	- [dint999] BDOr Winter Mountain Guardian Spirit v1.1
+   	- Tester HDT Earrings SMP
+
+9) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esl
 	- 1NDArmor.esl
 	- 1FalconerArmor.esl
 	
-8) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
+10) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
 	- TheLegends-NordArmor.esp
 	- 1YsmirArmorSE.esp
 	
-9) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
+11) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esp
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-10) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
     - ParallaxGen.esp
     - PG_1.esp
     - Modern Brawl Bug Fix.esp
