@@ -1,8 +1,10 @@
 # Welcome to the Ad Mortem Challenge Mod List!
-
-**[!] Warning - This list requires v1.6.1170 of Skyrim to run**
-
 ![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/e3bd4f56-1313-4c28-bce1-200abc8d6e61)
+> [!Warning]
+> **This list requires v1.6.1170.0 of Skyrim**
+
+> [!Warning]
+> **This list requires v1.6.1378.1 of the Creation Kit**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
