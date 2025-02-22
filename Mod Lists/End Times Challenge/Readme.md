@@ -1,6 +1,7 @@
 # Welcome to the "End Times" Challenge Mod List!
 
-**[!] Warning - This list requires v1.6.1170 of Skyrim to run**
+**[!] Warning - This list requires v1.6.1170.0 of Skyrim to run**
+**[!] Warning - This list requires v1.6.1378.1 of the Creation Kit to install**
 
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
 
@@ -13,9 +14,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 290GB of free space
 
 ## Download Links
-- [Download v1.0.5.4](https://www.mediafire.com/file_premium/vdhotakim8ea5xx/End_Times_Challenge.wabbajack/file)
-- [Download v1.0.5.5](https://www.mediafire.com/file_premium/nl05cfma4lo3hcm/End_Times_Challenge.wabbajack/file)
-- [Download v1.0.5.6](https://www.mediafire.com/file_premium/bs8pbkkdmwfcfer/End_Times_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.6.0]() **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
