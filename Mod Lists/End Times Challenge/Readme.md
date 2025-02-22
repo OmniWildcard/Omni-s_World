@@ -72,7 +72,7 @@ https://www.patreon.com/posts/aloy-outfit-from-44988117
 6) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/bdor-guardian-se-65369342
 
-7) When you install the files downloaded in steps 2-through-5 ensure that they're placed in the "Armors & Weapons (w/ Patches)" section of the load order. The bottom of that section should look like this:
+7) When you install the files downloaded in steps 2-through-6 ensure that they're placed in the "Armors & Weapons (w/ Patches)" section of the load order. The bottom of that section should look like this:
    	- TATURURUTIA's HDT-SMP New Miraak Robes
    	- Fitted Ebony Armor
    	- TATURURUTIA's HDT-SMP Fited Ebony Armor Patch
