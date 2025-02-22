@@ -1,8 +1,10 @@
 # Welcome to the Chaos Mage Randomized Challenge Mod List
-
-**[!] Warning - This list requires v1.6.1170 of Skyrim to run**
-
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/4cfdbf35-f562-4e9b-b0ab-1383151b509b)
+> [!Warning]
+> **This list requires v1.6.1170.0 of Skyrim**
+
+> [!Warning]
+> **This list requires v1.6.1378.1 of the Creation Kit**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
