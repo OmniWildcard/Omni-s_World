@@ -121,6 +121,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
     - Whiterun Terrain Fix.esp
     - Falkreath Terrain Fix.esp
     - Rift Terrain Fix.esp
+    - Haafingar Terrain Fix.esp
     - Shadowgreen Cavern Fix.esp
     - RemoveInteriorFog.esp
     - DynDOLOD.esp
