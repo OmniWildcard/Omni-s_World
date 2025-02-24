@@ -1,5 +1,5 @@
 # Welcome to the Ad Mortem Challenge Mod List!
-![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/e7a4b486-2a55-422f-a0ed-0bdc68d66962)
+![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/c5b57e10-190d-4209-ab29-7730c4f9aef6)
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
 
