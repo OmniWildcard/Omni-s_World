@@ -7,7 +7,7 @@
 > **This list requires v1.6.1378.1 of the Creation Kit**
 
 ## Requirements
-These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU:
+These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
 - 11th Gen Intel(R) Core(TM) i9-11900k CPU or later CPU models
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
 - 64GB RAM
