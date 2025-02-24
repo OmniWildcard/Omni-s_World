@@ -1,5 +1,5 @@
 # Welcome to the Chaos Mage Randomized Challenge Mod List
-![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/89dbc14b-e869-47ea-94bc-469be5dd81e6)
+![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/7fb163a8-03ac-44ef-b04d-5d221f45509d)
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
 
