@@ -15,7 +15,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 300GB of free space
 
 ## Download Links
-- [Download v1.0.6.1]() **[!] Latest Version**
+- [Download v1.0.7.0](https://www.mediafire.com/file_premium/79k5q6c1hcdut2v/End_Times_Challenge.wabbajack/file) **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
