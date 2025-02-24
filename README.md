@@ -30,7 +30,7 @@ You can find links to them under the corresponding game along with a brief descr
 - [End Times Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/End%20Times%20Challenge/Readme.md) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. Race against the clock to try and defeat Alduin and Harkon within 100 days or perish with the rest of the world as the apocalypse comes to fruition!
 
-- [Chaos Mage Randomized Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/Readme.md) (Currently Unreleased) by Omni the Starspawn
+- [Chaos Mage Randomized Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/Readme.md) (Coming Soon!) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. So venture forth and try to accomplish your overarching goals; all-the-while overcoming the various handicaps you've been burdened with in a world of cold steel and sorcery!
 
 - [Ad Mortem Challenge](https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Ad%20Mortem%20Challenge/Readme.md) (Currently Unreleased) by Omni the Starspawn
