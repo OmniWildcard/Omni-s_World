@@ -140,7 +140,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Various landscape seams in need of fixing
 - [ ] Some minor navmesh tweaks required in small towns and villages
-- [ ] Minor navmesh tweaks in Ustengrav
+- [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQS
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
