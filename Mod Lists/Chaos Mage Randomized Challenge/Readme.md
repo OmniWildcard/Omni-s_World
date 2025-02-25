@@ -147,8 +147,8 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - [x] Weird issues in Bleak Falls Barrow and Ustengrav | **Fixed as of v1.0.5.5**
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Various landscape seams in need of fixing
-- [ ] Some minor Navmesh tweaks required in small towns and villages
-- [ ] Minor Navmesh tweaks in Ustengrav
+- [ ] Some minor navmesh tweaks required in small towns and villages
+- [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQS
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
