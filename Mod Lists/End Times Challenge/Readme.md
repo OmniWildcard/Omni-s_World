@@ -139,8 +139,8 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - [x] Floating grass near the Solitude Lumber Mill | **Currently Resolved by v1.0.7.1 Hotfix**
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Various landscape seams in need of fixing
-- [ ] Some minor Navmesh tweaks required in small towns and villages
-- [ ] Minor Navmesh tweaks in Ustengrav
+- [ ] Some minor navmesh tweaks required in small towns and villages
+- [ ] Minor navmesh tweaks in Ustengrav
 
 # FAQS
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
