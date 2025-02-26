@@ -40,15 +40,14 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Chaos Mage Randomized Challenge",
-    "description": "A mod list that was featured in the eponymous challenge series on YouTube by the list\u0027s author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim\u0027s vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. So venture forth and try to accomplish your overarching goals; all-the-while overcoming the various handicaps you've been burdened with in a world of cold steel and sorcery!",
+    "description": "A mod list that was featured in the eponymous challenge series on YouTube by the list\u0027s author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim\u0027s vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. So venture forth and try to accomplish your overarching goals; all-the-while overcoming the various handicaps you\u0027ve been burdened with in a world of cold steel and sorcery!",
     "author": "Omni the Starspawn",
     "maintainers": [
-        "github/OmniWildcard"
+      "github/OmniWildcard"
     ],
     "game": "skyrimspecialedition",
-	"official": false,
+    "official": false,
     "tags": [
       "Immersive",
       "Survival",
@@ -56,25 +55,28 @@
       "Challenge Run"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/OmniWildcard/Omni-s_World/refs/heads/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/CMRC%20Mod%20Page%20Thumbnail.webp",
       "readme": "https://github.com/OmniWildcard/Omni-s_World/tree/main/Mod%20Lists/Chaos%20Mage%20Randomized%20Challenge/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Chaos%20Mage%20Randomized%20Challenge.wabbajack_29277ddd-5ab1-4f96-b3cd-b28007e6fbd2",
+      "download": "https://authored-files.wabbajack.org/Chaos Mage Randomized Challenge.wabbajack_dc5e2d8a-604f-45bd-953e-127898611641",
       "machineURL": "Chaos-Mage-Randomized-Challenge",
       "discordURL": "https://discord.gg/rMZKDNrZQS"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "njA3I3aXx04=",
-      "Size": 682477552,
-      "NumberOfArchives": 1387,
-      "SizeOfArchives": 100831029337,
+      "Hash": "ERD3Mh7RK2o=",
+      "Size": 682476961,
+      "NumberOfArchives": 1388,
+      "SizeOfArchives": 100832989134,
       "NumberOfInstalledFiles": 237085,
       "SizeOfInstalledFiles": 206934688702
     },
-    "version": "1.0.0.0"
+    "version": "1.0.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-02-26T18:42:44.6608232Z",
+    "repositoryName": ""
   }
 ]
