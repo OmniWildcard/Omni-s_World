@@ -108,6 +108,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
     - Dark Elf Voices For Bandits - Misc Patches.esp
     - Dawnguard Arsenal - Misc Patches.esp
     - ESO Nord Weapons - Misc Patches.esp
+    - Fleeting Torches - Misc Patches.esp
     - Immersive Jewelry - Misc Patches.esp
     - Immersive Weapons - Misc Patches.esp
     - JK's Winking Skeever - Misc Patches.esp
