@@ -81,21 +81,21 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
    	- [dint999] BDOr Winter Mountain Guardian Spirit v1.1
    	- Tester HDT Earrings SMP
 
-9) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
+8) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esl
 	- 1NDArmor.esl
 	- 1FalconerArmor.esl
 	
-10) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
+9) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
 	- TheLegends-NordArmor.esp
 	- 1YsmirArmorSE.esp
 	
-11) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
+10) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esp
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-12) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
     - ParallaxGen.esp
     - PG_1.esp
     - Modern Brawl Bug Fix.esp
