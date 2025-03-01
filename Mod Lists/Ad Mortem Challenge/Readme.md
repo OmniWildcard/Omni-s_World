@@ -14,6 +14,9 @@ These are the minimum recommended specifications to run the list though there ma
 - 40GB Pagefile
 - At least 300GB of free space
 
+## Download Links
+- [Download v1.0.0.0]() **[!] Latest Version**
+
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
 aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are a requirement for this mod list; so be sure to download them so that you have the
