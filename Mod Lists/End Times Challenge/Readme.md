@@ -139,6 +139,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - [x] Weird issues in Bleak Falls Barrow and Ustengrav | **Fixed as of v1.0.5.5**
 - [x] Floating grass near the Solitude Lumber Mill | **Fixed as of v1.0.8.0**
 - [x] Missing texture on the hook of the hoist at the Solitude Lumber Mill | **Fixed as of v1.0.8.0**
+- [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.8.0**
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Various landscape seams in need of fixing
 - [ ] Some minor navmesh tweaks required in small towns and villages
