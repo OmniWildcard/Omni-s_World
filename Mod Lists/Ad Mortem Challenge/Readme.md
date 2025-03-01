@@ -51,14 +51,14 @@ Now, before playing, you should do the following things:
 	 - Horse Armor Elven (ccbgssse011-hrsarmrelvn.esl)
 	 - Horse Armor Steel (ccbgssse012-hrsarmrstl.esl)
 
-2) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
+2) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
+https://www.patreon.com/posts/40715630
+
+3) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/hdt-smp-new-robe-87610113
 
-3) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
+4) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/hdt-smp-fitted-116498200
-
-4) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
-https://www.patreon.com/posts/40715630
 
 5) Download Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/aloy-outfit-from-44988117
@@ -66,7 +66,7 @@ https://www.patreon.com/posts/aloy-outfit-from-44988117
 6) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
 https://www.patreon.com/posts/bdor-guardian-se-65369342
 
-7) When you install the files downloaded in steps 2-through-6 ensure that they're placed in the "Armors & Weapons (w/ Patches)" section of the load order. The bottom of that section should look like this:
+7) When you install the files downloaded in steps 3-through-6 ensure that they're placed in the "Armors & Weapons (w/ Patches)" section of the load order. The bottom of that section should look like this:
    	- TATURURUTIA's HDT-SMP New Miraak Robes
    	- Fitted Ebony Armor
    	- TATURURUTIA's HDT-SMP Fited Ebony Armor Patch
