@@ -80,9 +80,6 @@ Now, before playing, you should do the following things:
 	- 1FalconerArmor.esp
 
 5) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
-    - ParallaxGen.esp
-    - PG_1.esp
-    - Modern Brawl Bug Fix.esp
     - Alternate Perspectives - Misc Patches.esp
     - Better Skyrim Parties - Misc Patches.esp
     - Bijin AIO - Misc Patches.esp
