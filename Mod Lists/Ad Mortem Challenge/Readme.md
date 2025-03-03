@@ -113,7 +113,7 @@ Now, before playing, you should do the following things:
 - [ ] Some minor navmesh tweaks required in small towns and villages
 - [ ] Minor navmesh tweaks required in Ustengrav
 
-# FAQS
+# FAQs
 - **Question:** I use all of the AE DLC and I'm getting CTDs. How do I fix this?
       - **Answer:** This list was never built with the intent of having all of the AE DLC active at once so I can't fully support any issues caused by it. Personally I suggest you use the *Creation Organizer - Mod Organizer 2 Plugin for Creation Club* to circumvent the issue. If you need help going through this process submit a ticket and I'll walk you through it. If you absolutely must have **ALL** the AE DLC active in this list know that support will be limited as it's outside the scope of my list's intended design.
 
