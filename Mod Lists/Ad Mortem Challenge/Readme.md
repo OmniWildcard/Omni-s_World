@@ -129,6 +129,7 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
     - Haafingar Terrain Fix.esp
     - Shadowgreen Cavern Fix.esp
     - RemoveInteriorFog.esp
+    - Grass Bound Records.esp
     - DynDOLOD.esp
     - Occlusion.esp
     - IcePenguinWorldMap.esp
