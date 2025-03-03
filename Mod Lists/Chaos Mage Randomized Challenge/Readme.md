@@ -15,7 +15,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 300GB of free space
 
 ## Download Links
-- [Download v1.0.1.0]() **[!] Latest Version**
+- [Download v1.0.2.0]() **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
