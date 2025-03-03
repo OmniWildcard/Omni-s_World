@@ -65,45 +65,21 @@ Now, before playing, you should do the following things:
 	 - Horse Armor Elven (ccbgssse011-hrsarmrelvn.esl)
 	 - Horse Armor Steel (ccbgssse012-hrsarmrstl.esl)
 
-2) Download Dint999's Combined CBBE+UUNP+TBD Sliders SE from their Patreon with this link and install with your preferred mod organizer:
-https://www.patreon.com/posts/40715630
-
-3) Download TATURURUTIA's HDT-SMP New Miraak Robe Replacer from their Patreon with this link and install with your preferred mod organizer:
-https://www.patreon.com/posts/hdt-smp-new-robe-87610113
-
-4) Download TATURURUTIA's HDT-SMP Fitted Ebony Armor Patch from their Patreon with this link and install with your preferred mod organizer:
-https://www.patreon.com/posts/hdt-smp-fitted-116498200
-
-5) Download Dint999's Aloy outfit from Horizon Zero Dawn SSE HDT SMP from their Patreon with this link and install with your preferred mod organizer:
-https://www.patreon.com/posts/aloy-outfit-from-44988117
-
-6) Download Dint999's BDOr Guardian Winter Mountain Guardian Spirit Outfit SE\AE from their Patreon with this link and install with your preferred mod organizer:
-https://www.patreon.com/posts/bdor-guardian-se-65369342
-
-7) When you install the files downloaded in steps 3-through-6 ensure that they're placed in the "Armors & Weapons (w/ Patches)" section of the load order. The bottom of that section should look like this:
-   	- TATURURUTIA's HDT-SMP New Miraak Robes
-   	- Fitted Ebony Armor
-   	- TATURURUTIA's HDT-SMP Fited Ebony Armor Patch
-   	- [Christine] Dragon Fighter
-   	- [Dint999] HZDAloy's outfit [SE] v1.01
-   	- [dint999] BDOr Winter Mountain Guardian Spirit v1.1
-   	- Tester HDT Earrings SMP
-
-8) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
+2) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esl
 	- 1NDArmor.esl
 	- 1FalconerArmor.esl
 	
-9) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
+3) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
 	- TheLegends-NordArmor.esp
 	- 1YsmirArmorSE.esp
 	
-10) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
+4) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esp
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-11) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+5) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
     - ParallaxGen.esp
     - PG_1.esp
     - Modern Brawl Bug Fix.esp
@@ -153,6 +129,9 @@ https://www.patreon.com/posts/bdor-guardian-se-65369342
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQS
+- **Question:** I use all of the AE DLC and I'm getting CTDs. How do I fix this?
+  	- **Answer:** This list was never built with the intent of having all of the AE DLC active at once so I can't fully support any issues caused by it. Personally I suggest you use the Anniversary Content Picker on your installed mod lists to circumvent the issue since it will allow you to have only the listed AE DLC for this mod list active on its install and all the AE DLC active on another mod list install. If you need help going through this process submit a ticket and I'll walk you through it for your particular install. If you absolutely must have **ALL** the AE DLC active in this list know that support will be limited as it's outside the scope of my list's intended design.
+
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
 	- **Answer:** This is due to either lacking the Bodyslide Output meshes for it or because it's being overwritten by the ParallaxGen Output. It's recommended to run VRAMr, ParallaxR, ParallaxGen and Bodyslide after adding any new meshes or textures to the install. However, since the process I used to generate the included Bodyslide Output is a bit more intensive, I won't go into detail here but if you submit a ticket on the Discord server I'll walk you through it.
 
