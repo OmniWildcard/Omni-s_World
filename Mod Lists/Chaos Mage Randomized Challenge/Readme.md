@@ -42,7 +42,7 @@ To join the Discord use the link below:
 And to find my YouTube channel use the link below:
 - https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
 
-## What's the Challenge Aspect of this List?
+## What's the Challenge for this List?
 I'm glad you asked, the challenge element is mostly handled outside of game and not via any mod-implementation allowing you to just use the list "as-is" or attempt the challenge I did yourself.
 
 Want to try the challenge run for yourself? Then simply [spin the wheel](https://wheelofnames.com/) using the templates provided below and limit yourself to the results. You'll spin for a new school every ingame day at midnight. And your task for the day will be selected via its own wheel. Then set yourself an ultimate goal you must complete with this handicap and you've got your very own version of the run! The template follows my variation where I have to complete the entirety of the College of Winterhold with these handicaps, but you can change it out with whatever you wish.
