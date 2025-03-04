@@ -45,6 +45,13 @@ To find my Twitch channel use the link below:
 And to find my YouTube channel use the link below:
 - https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
 
+## What's the Challenge for this List?
+I'm glad you asked, because there are some things you should know before playing this list for the first time. First-off, however, if you want to forego the challenge elements you can disable them in your mod list via *Mod Organizer 2* by un-ticking the box next to the associated mods located under the **Modular Gameplay** section.
+
+Now, you might ask, what is the challenge that is at the center of this list's focus? Well the answer is rather simple, it's what I like to call the **"End Times" Challenge**. The **"End Times" Challenge** pits you in a race against a **100 day timer** as you attempt to complete the main story quests for **Skyrim** and the **Dawnguard DLC expansion**! The timer for defeating **Alduin** starts as soon as you finish creating your character. So it's best to go in with a solid plan. The timer for **Dawnguard**, however, will not start counting down until you reach **level ten** and **begin the Dawnguard quest-line**.
+
+If you wish to completely replicate the rules I set forth for my own version of this challenge run you will need to be able to change the timer settings, which are locked by default. To do this simply go down to the **Maintenance** section of the **End Times** and **End Times Dawnguard** MCM menus and tick the box next to **Debug**. This will allow you to unlock the settings and lower the timers by one day for every death as I did in my run. Beyond that there's nothing more to say other than that I hope you enjoy the list and I wish you luck with your challenge run!
+
 # Install Instructions
 Now, before playing, you should do the following things:
 
