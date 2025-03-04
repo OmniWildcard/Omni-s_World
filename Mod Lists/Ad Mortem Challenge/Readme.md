@@ -12,7 +12,7 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
 - 64GB RAM
 - 40GB Pagefile
-- At least 400GB of free space
+- At least 300GB of free space
 
 ## Download Links
 - [Download v1.0.0.0]() **[!] Latest Version**
