@@ -119,8 +119,8 @@ Now, before playing, you should do the following things:
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
-- **Question:** I use all of the AE DLC and I'm getting CTDs. How do I fix this?
-	- **Answer:** This list was never built with the intent of having all of the AE DLC active at once so I can't fully support any issues caused by it. Personally I suggest you use the *Anniversary Edition Content Picker* to circumvent the issue. If you need help going through this process submit a ticket and I'll walk you through it. If you absolutely must have **ALL** the AE DLC active in this list know that support will be limited as it's outside the scope of my list's intended design.
+- **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
+	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings may not be supported by your *GPU* or *CPU* and this could result in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
 
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
 	- **Answer:** This is due to either lacking the Bodyslide Output meshes for it or because it's being overwritten by the ParallaxGen Output. It's recommended to run VRAMr, ParallaxR, ParallaxGen and Bodyslide after adding any new meshes or textures to the install. However, since the process I used to generate the included Bodyslide Output is a bit more intensive, I won't go into detail here but if you submit a ticket on the Discord server I'll walk you through it.
