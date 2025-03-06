@@ -113,7 +113,6 @@ Now, before playing, you should do the following things:
     - Haafingar Terrain Fix.esp
     - Shadowgreen Cavern Fix.esp
     - RemoveInteriorFog.esp
-    - Grass Bound Records.esp
     - DynDOLOD.esp
     - Occlusion.esp
     - IcePenguinWorldMap.esp
