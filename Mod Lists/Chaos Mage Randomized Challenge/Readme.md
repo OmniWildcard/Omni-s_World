@@ -129,6 +129,9 @@ Now, before playing, you should do the following things:
 - **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
 	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilize **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this could result in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
 
+- **Question:** I'm getting CTDs with the mounts added by the AE DLC. How do I fix this?
+  	- **Answer:** You'll need to download the AE DLC Patch for Convenient Horses from the Nexus. You can find and download the patch for it [here](https://www.nexusmods.com/skyrimspecialedition/mods/9519?tab=files) under *Optional Files*.
+
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
 	- **Answer:** This is due to either lacking the Bodyslide Output meshes for it or because it's being overwritten by the ParallaxGen Output. It's recommended to run VRAMr, ParallaxR, ParallaxGen and Bodyslide after adding any new meshes or textures to the install. However, since the process I used to generate the included Bodyslide Output is a bit more intensive, I won't go into detail here but if you submit a ticket on the Discord server I'll walk you through it.
 
