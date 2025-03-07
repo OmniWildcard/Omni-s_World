@@ -7,7 +7,7 @@
 > **This list requires v1.6.1378.1 of the Creation Kit**
 
 > [!WARNING]
-> **This list requires the AE Upgrade and DLC**
+> **This list requires the AE Upgrade and DLC for v1.0.3.0+**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
@@ -18,6 +18,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 266GB of free space
 
 ## Download Links
+- [Download v1.0.2.0](https://www.mediafire.com/file_premium/sbjmux5mq0ih5bg/Chaos_Mage_Randomized_Challenge.wabbajack/file)
 - [Download v1.0.3.0]() **[!] Latest Version**
 
 # Introduction
