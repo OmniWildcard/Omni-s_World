@@ -1,10 +1,13 @@
 # Welcome to the Chaos Mage Randomized Challenge Mod List
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/7fb163a8-03ac-44ef-b04d-5d221f45509d)
-> [!Warning]
+> [!WARNING]
 > **This list requires v1.6.1170.0 of Skyrim**
 
-> [!Warning]
+> [!WARNING]
 > **This list requires v1.6.1378.1 of the Creation Kit**
+
+> [!WARNING]
+> **This list requires the AE Upgrade and DLC**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
@@ -15,7 +18,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 266GB of free space
 
 ## Download Links
-- [Download v1.0.2.0](https://www.mediafire.com/file_premium/sbjmux5mq0ih5bg/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.3.0]() **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
@@ -56,30 +59,21 @@ Most of all I hope you enjoy the list! It is the product of a lot of hard work c
 # Install Instructions
 Now, before playing, you should do the following things:
 
-1) First, ensure you have the following Creations installed and active:
-	 - Fishing (ccBGSSSE001-Fish.esm)
-	 - Rare Curios (ccBGSSSE037-Curios.esl)
-	 - Saints & Seducers (ccBGSSSE025-AdvDSGS.esm)
-	 - Survival Mode (ccQDRSSE001-SurvivalMode.esl)
-	 - Arcane Accessories (ccbgssse014-spellpack01.esl)
-	 - Horse Armor Elven (ccbgssse011-hrsarmrelvn.esl)
-	 - Horse Armor Steel (ccbgssse012-hrsarmrstl.esl)
-
-2) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
+1) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esl
 	- 1NDArmor.esl
 	- 1FalconerArmor.esl
 	
-3) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
+2) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
 	- TheLegends-NordArmor.esp
 	- 1YsmirArmorSE.esp
 	
-4) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
+3) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
 	- 1NamelessSaber.esp
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-5) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
+4) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
     - Alternate Perspectives - Misc Patches.esp
     - Better Skyrim Parties - Misc Patches.esp
     - Bijin AIO - Misc Patches.esp
@@ -127,9 +121,6 @@ Now, before playing, you should do the following things:
 # FAQs
 - **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
 	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilize **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this could result in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
-
-- **Question:** I'm getting CTDs with the mounts added by the AE DLC. How do I fix this?
-  	- **Answer:** You'll need to download the AE DLC Patch for Convenient Horses from the Nexus. You can find and download the patch for it [here](https://www.nexusmods.com/skyrimspecialedition/mods/9519?tab=files) under *Optional Files*.
 
 - **Question:** My meshes/textures are not rendering properly in-game. What do I do to fix this?
 	- **Answer:** This is due to either lacking the Bodyslide Output meshes for it or because it's being overwritten by the ParallaxGen Output. It's recommended to run VRAMr, ParallaxR, ParallaxGen and Bodyslide after adding any new meshes or textures to the install. However, since the process I used to generate the included Bodyslide Output is a bit more intensive, I won't go into detail here but if you submit a ticket on the Discord server I'll walk you through it.
