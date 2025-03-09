@@ -55,7 +55,8 @@ Now, you might ask, what is the challenge that is at the center of this list's f
 
 If you wish to completely replicate the rules I set forth for my own version of this challenge run you will need to be able to change the timer settings, which are locked by default. To do this simply go down to the **Maintenance** section of the **End Times** and **End Times Dawnguard** MCM menus and tick the box next to **Debug**. This will allow you to unlock the settings and lower the timers by one day for every death as I did in my run. Beyond that there's nothing more to say other than that I hope you enjoy the list and I wish you luck with your challenge run!
 
-**NOTE:** You will need to set the End Times Dawnguard timer to 100 days from the default 60 via the MCM on any new game where you use it for now. The settings loader is being worked on but real life issues have cropped up for the mod author developing them so all the settings loaders he was working on are, as such, on hold. Eventually this will no longer be necessary and the vast majority of MCM's will be automated to load their intended default settings but for now this is just how things are.
+> [!Note]
+> You will need to set the **End Times Dawnguard** timer to **100 days** from the default **60 days** via the **MCM** on any new game where you use it for now. The settings loader was being worked on but real-life issues have cropped up for the mod author developing them so all the settings loaders he was working on are, as such, on hold. Eventually this will no longer be necessary and the vast majority of MCM settings will be automated to load their intended default settings but for now this is just how things are.
 
 # Install Instructions
 Now, before playing, you should do the following things:
