@@ -18,7 +18,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 289GB of free space
 
 ## Download Links
-- [Download v1.0.3.2]() **[!] Latest Version**
+- [Download v1.0.3.2](https://www.mediafire.com/file_premium/bxttbc4gwb0nl0g/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
