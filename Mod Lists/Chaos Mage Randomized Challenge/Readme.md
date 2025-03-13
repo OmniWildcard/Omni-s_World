@@ -1,13 +1,7 @@
 # Welcome to the Chaos Mage Randomized Challenge Mod List
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/7fb163a8-03ac-44ef-b04d-5d221f45509d)
-> [!WARNING]
-> **This list requires v1.6.1170.0 of Skyrim**
 
-> [!WARNING]
-> **This list requires v1.6.1378.1 of the Creation Kit**
-
-> [!WARNING]
-> **This list requires the AE Upgrade and DLC**
+![Warnings](https://github.com/user-attachments/assets/0327bf02-ce22-4b60-aff4-b078b3139b50)
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
