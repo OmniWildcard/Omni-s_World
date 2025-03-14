@@ -1,4 +1,4 @@
-# Welcome to the Ad Mortem Challenge Mod List!
+# Welcome to the *Ad Mortem Challenge* Readme!
 ![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/c5b57e10-190d-4209-ab29-7730c4f9aef6)
 
 > [!Warning]
