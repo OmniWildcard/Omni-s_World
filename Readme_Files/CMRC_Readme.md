@@ -129,7 +129,7 @@ Now, before playing, you should do the following things:
 
 # FAQs
 - **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
-	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilize **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this could result in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
+	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilize **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this results in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
 
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
