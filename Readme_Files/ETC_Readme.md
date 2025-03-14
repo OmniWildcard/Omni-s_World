@@ -1,4 +1,4 @@
-# Welcome to the *"End Times" Challenge* Mod List!
+# Welcome to the "End Times" Challenge Mod List!
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
 
 > [!Warning]
