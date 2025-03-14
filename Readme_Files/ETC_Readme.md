@@ -1,3 +1,5 @@
+> [!Important]
+> **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
 # Welcome to the *"End Times" Challenge* Readme!
 ![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
 
@@ -9,6 +11,12 @@
 
 > [!WARNING]
 > **This list requires the AE Upgrade and DLC**
+
+> [!Note]
+> **Answers to the *FAQs* and the *Known Issues* for the list are located at the bottom of this document.**
+> - ***Known Issues* are being actively worked on and patched and will be marked off the list as they are resolved, so do not bother reporting them as they are already being dealt with and will be resolved as I release the patches.**
+> 
+> - **If the answer provided to a FAQ does not work then submit a ticket and I will provide direct 1-on-1 support for the issue as I am able.**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
@@ -125,9 +133,9 @@ Now, before playing, you should do the following things:
 
 # FAQs
 - **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
-	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilized **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this could result in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
+	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilized **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this results in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
 
-- **Question:** My NPC's are bald! How do I fix this?
+- **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
 
 - **Question:** Where do I go if I'm having issues or want to report a bug?
