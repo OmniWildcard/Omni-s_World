@@ -1,3 +1,5 @@
+> [!Important]
+> **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
 # Welcome to the *Chaos Mage Randomized Challenge* Readme!
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/7fb163a8-03ac-44ef-b04d-5d221f45509d)
 
@@ -9,6 +11,11 @@
 
 > [!WARNING]
 > **This list requires the AE Upgrade and DLC**
+
+> [!Note]
+> **Answers to the *FAQs* and the *Known Issues* for the list are located at the bottom of this document.**
+> - ***Known Issues* are being actively worked on and patched and will be marked off the list as they are resolved, so do not bother reporting them as they are already being dealt with and will be resolved as I release the patches.**
+> - **If the answer provided to a FAQ does not work then submit a ticket and I will provide direct 1-on-1 support for the issue as I am able.**
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
