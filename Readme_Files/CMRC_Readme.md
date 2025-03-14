@@ -1,4 +1,4 @@
-# Welcome to the Chaos Mage Randomized Challenge Mod List
+# Welcome to the Chaos Mage Randomized Challenge
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/7fb163a8-03ac-44ef-b04d-5d221f45509d)
 
 > [!Warning]
