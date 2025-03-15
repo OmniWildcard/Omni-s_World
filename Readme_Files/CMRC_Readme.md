@@ -14,7 +14,7 @@
 
 > [!Note]
 > **Answers to the *FAQs* and the *Known Issues* for the list are located at the bottom of this document.**
-> - ***Known Issues* are being actively worked on and patched and will be marked off the list as they are resolved, so do not bother reporting them as they are already being dealt with and will be resolved as I release the patches.**
+> - ***Known Issues* are being actively worked on and patched and will be marked off the list as they are resolved; so do not bother reporting them as they are already being dealt with and will be resolved as I release the patches.**
 > 
 > - **If the answer provided to a FAQ does not work then submit a ticket and I will provide direct 1-on-1 support for the issue as I am able.**
 
