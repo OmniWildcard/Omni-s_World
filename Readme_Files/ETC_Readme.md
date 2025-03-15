@@ -30,23 +30,11 @@ These are the minimum recommended specifications to run the list though there ma
 - [Download v1.0.8.0]() **[!] Latest Version**
 
 # Introduction
-This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every
-aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are a requirement for this mod list; so be sure to download them so that you have the
-tools to patch the list if you make any additions. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled
-off without issue.
+This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are included with this mod list; so be sure to run them again if you make any additions to the list that adds new worldspaces. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled off without issue.
 
-Download the latest version of xLODGen with the link below and follow the install instructions:
-- https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-129-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/
+If any of the included tools are ever out-of-date, I suggest manually updating them within MO2 to avoid messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
 
-Download the latest version of DynDOLOD 3 with the link below and follow the install instructions:
-- https://www.nexusmods.com/skyrimspecialedition/mods/68518
-
-All the other tools you'll need are included in the Wabbajack install but may not always be the latest version. If they are ever out-of-date I suggest manually updating them within MO2 to avoid
-messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad
-to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
-
-If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord
-server where I offer support for the mod list and post updates for when I go live, post videos or release updates to my various mod lists.
+If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord server where I offer support for the mod list and post updates for when I go live, post videos or release updates to my various mod lists.
 
 To join the Discord use the link below:
 - https://discord.gg/rMZKDNrZQS
