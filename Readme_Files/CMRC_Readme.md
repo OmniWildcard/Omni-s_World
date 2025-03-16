@@ -109,7 +109,13 @@ Now, before playing, you should do the following things:
     - IcePenguinWorldMap.esp
 
 ## How to Update LODs
-I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter. For the sake of simplicity, the instructions are divided into subsections, since this is a multi-step process that requires multiple tools to complete. I recommend going through these in the order they are listed to avoid issues, but you are free to disregard my suggestion at your own peril.
+I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
+
+> [!Note]
+> **For the sake of simplicity, the instructions are divided into subsections.**
+
+> [!Warning]
+> **I advise going through these in the order they are listed to avoid issues, but you are free to disregard my suggestion at your own peril.**
 
 ### Updating the SSELODGen_Ouput
 1) First, you want to make sure <ins>*xLODGen Resources - SSE Terrain Tamriel*</ins> is enabled and launch **SSELODGenx64** (see image below).
