@@ -180,7 +180,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 
 4) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
 
-5) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your Grass Cache mod folder. You can find the Grass Cache mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+5) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
 
 6) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 (see image below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
