@@ -103,7 +103,7 @@ Now, before playing, you should do the following things:
     - IcePenguinWorldMap.esp
 
 ## How to Update Grass Cache
-Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible.
+Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible. 
 
 > [!Note]
 > **This guide will only show you how to update the existing Grass Bound Records to generate a new Grass Cache within the confines of this list. For a full guide on how to generate Grass Cache for your own lists I recommend Biggie_Boss's guide on YouTube.**
