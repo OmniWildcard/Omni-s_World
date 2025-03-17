@@ -115,7 +115,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 > **This guide will only show you how to update the existing Grass Bound Records to generate a new Grass Cache within the confines of this list. For a full guide on how to generate Grass Cache for your own lists I recommend Biggie_Boss's guide on YouTube.**
 
 > [!Warning]
-> **I advise going through these in the order they are listed to avoid issues, but you are free to disregard my suggestion at your own peril.**
+> **I advise generating the updated Grass Cache before generating new LODs, but you are free to disregard my suggestion at your own peril.**
 
 ### Updating the Grass Bound Records via SSEEdit
 1) First, you'll want to ensure that the existing <ins>*Grass Cache*</ins> is disabled and the <ins>*Grass Bound Records</ins> are enabled; after which you will launch **SSEEdit** via *Mod Organizer 2* (see image below).
