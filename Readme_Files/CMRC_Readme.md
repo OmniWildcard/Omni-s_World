@@ -172,6 +172,81 @@ I use very specific settings when generating the LODs for these lists so, if you
 
 7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 
+## How to Update Grass Cache
+Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible. 
+
+> [!Note]
+> **This guide will only show you how to update the existing Grass Bound Records to generate a new Grass Cache within the confines of this list. For a full guide on how to generate Grass Cache for your own lists I recommend Biggie_Boss's guide on YouTube.**
+
+### Updating the Grass Bound Records via SSEEdit
+1) First, you'll want to ensure that the existing <ins>*Grass Cache*</ins> is disabled and the <ins>*Grass Bound Records</ins> are enabled; after which you will launch **SSEEdit** via *Mod Organizer 2* (see image below).
+![Setting Things Up for SSEEdit](https://github.com/user-attachments/assets/1f273021-5b21-4468-9c6b-4f4e61e0c1ab)
+
+2) After launching **SSEEdit** you will eventually reach the **Module Selection** screen. You will want to right-click, to open a drop down menu, then click <ins>*Select All*</ins> before finally clicking the **OK** button in the bottom-right.
+![Module Selection Screen 1](https://github.com/user-attachments/assets/ac959d89-c536-452f-84e1-4312ed430b77)
+
+3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
+![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
+
+4) Next you will want to right-click anywhere in the left-most panel and click <ins>*Apply Script*</ins> (see image below).
+![Apply Scripts 1](https://github.com/user-attachments/assets/979c4b24-f0e4-45d9-a763-471c964c99d1)
+
+5) After this you will be brought to the **Apply Script** menu. Type "grass" into the **Filter** field and select the <ins>*List worldspaces with grass*</ins> script before finally clicking the **OK** button in the bottom-right (see image below).
+![Apply Scripts 2](https://github.com/user-attachments/assets/e4bd1b43-4e7e-45b8-ba4c-5da9e0017fbd)
+
+6) This will bring you to a second screen. Ignore the options it presents and simply click the **OK** button to continue (see image below).
+![Apply Scripts 3](https://github.com/user-attachments/assets/f7867eee-7b82-49a2-9593-f329cafadf72)
+
+7) Let the script run and it will eventually prompt you with another screen. You'll want to copy-and-paste the output into your **GrassControl.ini** file, located under <ins>*Modding > MO2 > mods > Grasscontrol.ini > SKSE > Plugins*</ins>, and place it within the quotations under the highlighted section. Only after all of this is done should you click the **OK** button to proceed (see images below).
+![Apply Scripts 4](https://github.com/user-attachments/assets/61509eb1-48fd-4e0e-8afc-70166f3b4f12)
+![Apply Scripts 5](https://github.com/user-attachments/assets/27b083dd-39b8-419f-9c87-250670924531)
+
+8) Now you want to apply a filter to show only the areas with grass records. To do this right-click anywhere in the left-most panel and click *Apply Filter* (see image below).
+![Apply Filter 1](https://github.com/user-attachments/assets/faa917d5-2338-4993-8cc2-07b7a5ce8a92)
+
+9) This will open up another menu that will prompt you with a variety of options. Ensure that the <ins>*by Record Signature*</ins> box is ticked and that only the <ins>*GRAS - Grass*</ins> records are selected. Then click the **Filter** button to proceed to the next step (see image below).
+![Apply Filter 2](https://github.com/user-attachments/assets/f77cddf0-3322-4591-89a9-565e70fd79ca)
+
+10) Now you will notice that all of the areas with grass records are highlighted in various colors. This is because they are being overwritten by the overrides copied into the Grass Bound Records.esp file. If you added any new worldspaces via a mod that mod will not be highlighted as they are not yet copied into the Grass Bound Records.esp file. You will want to open up the records for that new mod and navigate into the Grass subsection. Then you will select all of the existing records within that subsection, right-click and select <ins>*Copy as override into...*</ins> from the drop-down menu (see image below).
+![Copy as Override 1](https://github.com/user-attachments/assets/5aeac971-bfb5-4753-b615-38e9e8b3e048)
+
+11) This will result in a prompt appearing asking if you're certain you want to edit the module file. Click the **Yes I'm absolutely sure** button to proceed (see image below).
+![Copy as Override 2](https://github.com/user-attachments/assets/8a0d04be-6880-4a66-9c2d-28b47ad4b58c)
+
+12) You will then be shown a list of modules you can copy the override into. Scroll to the bottom and select <ins>*Grass Bound Records.esp*</ins>, by ticking the box next to it, then click the **OK** button in the bottom-right (see image below).
+![Copy as Override 3](https://github.com/user-attachments/assets/2f909719-5720-4895-9667-4619ee707abd)
+
+13) Afterwards you will close SSEEdit and when it prompts you to save your changes you will click the **OK** button in the bottom-right of the prompt window.
+
+### Recalculating Bounds via the Creation Kit
+1) First we have to launch the included **Creation Kit** via *Mod Organizer 2*. Once you have done that click the little folder button in the top-right. This will open up another window which you will scroll to the bottom of, select <ins>*Grass Bound Records.esp*</ins> and then click the **Set as Active File** button. After this you can click the **OK** button to proceed to the next step (see image below).
+![Creation Kit 1](https://github.com/user-attachments/assets/ad09fa0e-334f-41a4-a71a-75427dd571ed)
+
+2) After it loads up all the files you will want to navigate to **WorldObjects** and select the **Grass** subsection. From there you will select all the grass, listed under the **Object Window**, right-click and select <ins>*Recalc Bounds*</ins> (see image below).
+![Creation Kit 2](https://github.com/user-attachments/assets/6303d91c-8af0-45e3-a9ef-7cb1f8a0a249)
+
+3) Once this is done you want to keep an eye on the **Log Window** that opens up when you launch the **Creation Kit**. Wait until it stops updating with new messages and then click the **Save** button in the upper-right corner of the **Creation Kit** window (see image below).
+![Creation Kit 3](https://github.com/user-attachments/assets/5b2d735e-3461-4b4e-82f8-deda6b5d84f3)
+
+### Generating the New Grass Cache
+1) First, you want to disable several mods in the list as they can cause the Grass Cache to crash during generation or even prevent it from completing (see image below).
+![Grass Cache Generation 1](https://github.com/user-attachments/assets/f8d8482b-b7b0-4f92-808d-7be80eea518f)
+
+2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
+![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
+
+3) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
+![Grass Cache Generation 3](https://github.com/user-attachments/assets/3dcf5d66-935f-463e-b5d8-e1760cbd65a7)
+
+4) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
+
+5) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your Grass Cache mod folder. You can find the Grass Cache mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+
+6) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 (see image below).
+![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
+
+7) With that you're finally done updating the Grass Cache and can safely begin to play the game.
+
 # Known Issues
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
