@@ -24,7 +24,7 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
 - 64GB RAM
 - 40GB Pagefile
-- At least 278GB of free space (11GB for the Wabbajack | 113 for the Downloads | 154 for the Install)
+- At least 278GB of free space
 
 ## Backup Download Links
 - [Download v1.0.6.1](https://www.mediafire.com/file_premium/fmft4vxjwjy630j/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
