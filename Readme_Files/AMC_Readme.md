@@ -26,7 +26,7 @@ These are the minimum recommended specifications to run the list though there ma
 - 40GB Pagefile
 - At least 300GB of free space
 
-## Download Links
+## Backup Download Links
 - [Download v1.0.0.0]() **[!] Latest Version**
 
 # Introduction
