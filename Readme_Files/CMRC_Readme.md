@@ -249,7 +249,6 @@ I use very specific settings when generating the LODs for these lists so, if you
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
-- [ ] Various landscape seams in need of fixing
 - [ ] Some minor navmesh tweaks required in small towns and villages
 - [ ] Minor navmesh tweaks required in Ustengrav
 
