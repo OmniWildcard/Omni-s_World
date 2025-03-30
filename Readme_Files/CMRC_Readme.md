@@ -102,6 +102,7 @@ Now, before playing, you should do the following things:
     - Falkreath Terrain Fix.esp
     - Rift Terrain Fix.esp
     - Haafingar Terrain Fix.esp
+    - Winterhold Terrain Fix.esp
     - Shadowgreen Cavern Fix.esp
     - RemoveInteriorFog.esp
     - DynDOLOD.esp
