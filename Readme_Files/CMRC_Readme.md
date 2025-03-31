@@ -304,7 +304,7 @@ This process is very simple if you know your way around xEdit but, for those who
 
 
 ### Updating the Reference ID in the Autorun.txt File
-1) We're almost done with this process. Now once you've closed down **SSEEdit** and saved the ESPFE file you just created you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
+1) We're almost done with this process. Now once you've closed down **SSEEdit** you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
 ![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
 
 2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
