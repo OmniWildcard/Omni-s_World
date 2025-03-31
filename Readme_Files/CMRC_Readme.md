@@ -276,7 +276,7 @@ This process is very simple if you know your way around xEdit but, for those who
 2) After that you will want to scroll down until you come across the record labeled *skyrimesm_5c854_Tamriel_DynDOLOD_PATCH_DynDOLOD_REFERENCE* (see image below).
 ![Locating the Offending Record](https://github.com/user-attachments/assets/8544bf46-ac27-46c1-905a-9a38640f28f1)
 
-### Patching the Faulty Record in DynDOLOD
+### Patching the Offending Record
 1) Upon locating this record you will want to right-click it and select <ins>*Copy as override into....*</ins> (see image below).
 ![Copy as override](https://github.com/user-attachments/assets/20af6b40-93ca-4e69-9156-da45c57fe3a3)
 
