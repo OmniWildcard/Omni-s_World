@@ -302,7 +302,6 @@ This process is very simple if you know your way around xEdit but, for those who
 11) Afterwards, before you close down **SSEEdit** and save the changes you made, you'll want to navigate to the Record Header section and ensure the <ins>*No Respawn*</ins> flag is not enabled (see image below).
 ![Disable the No Respawn Flag](https://github.com/user-attachments/assets/93cd89a6-9af0-487d-a9e1-8336ce450616)
 
-
 ### Updating the Reference ID in the Autorun.txt File
 1) We're almost done with this process. Now once you've closed down **SSEEdit** you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
 ![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
