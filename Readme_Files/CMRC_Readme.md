@@ -194,7 +194,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
 
 > [!Warning]
-> The **Katla's Farm Windmill Fix.esp** contains **DynDOLOD.esm** as a master and is a temporary workaround for a bug with DynDOLOD's output with the current DynDOLOD NG DLL. As such DynDOLOD will not allow you to generate new LODs while it is present so you must delete it before generating any new LODs. After generating the new LODs you will have to recreate the patch and edit the **Autorun.txt** file to use the new Reference ID. This process is detailed in the <ins>**Updating Katla's Farm Windmill Fix**</ins> section.
+> The <ins>**Katla's Farm Windmill Fix.esp**</ins> contains <ins>**DynDOLOD.esm**</ins> as a master and is a temporary workaround for a bug with DynDOLOD's output with the current DynDOLOD NG DLL. As such DynDOLOD will not allow you to generate new LODs while it is present so you must delete it before generating any new LODs. After generating the new LODs you will have to recreate the patch and edit the <ins>**Autorun.txt**</ins> file to use the new Reference ID. This process is detailed in the <ins>**Updating Katla's Farm Windmill Fix**</ins> section.
 
 > [!Note]
 > **For the sake of simplicity, the instructions are divided into subsections.**
