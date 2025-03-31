@@ -255,6 +255,11 @@ I use very specific settings when generating the LODs for these lists so, if you
 7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 
 ## Updating the Katla's Farm Windmill Fix
+This process is very simple if you know your way around xEdit but, for those who are uninitiated with the software, I've attempted to explain the process as clearly and in as much detail as possible.
+> [!Warning]
+> I strongly advise you to not deviate from these instructions, but you are free to ignore my suggestion at your own peril.
+
+### Loading up SSEEdit and the Records
 1) First you'll want to load up **SSEEdit** via *Mod Organizer 2* (see image below).
 ![Launch SSEEdit](https://github.com/user-attachments/assets/75b576c8-6fe7-48ae-bf92-838950663e40)
 
@@ -264,22 +269,24 @@ I use very specific settings when generating the LODs for these lists so, if you
 3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
 ![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
 
-4) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
+### Locating the Offending Record
+1) Now you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
 ![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/4a32af8d-8711-44ce-a052-5e663b534b78)
 
-5) After that you will want to scroll down until you come across the record labeled *skyrimesm_5c854_Tamriel_DynDOLOD_PATCH_DynDOLOD_REFERENCE* (see image below).
+2) After that you will want to scroll down until you come across the record labeled *skyrimesm_5c854_Tamriel_DynDOLOD_PATCH_DynDOLOD_REFERENCE* (see image below).
 ![Locating the Offending Record](https://github.com/user-attachments/assets/8544bf46-ac27-46c1-905a-9a38640f28f1)
 
-6) Upon locating this record you will want to right-click it and select <ins>*Copy as override into....*</ins> (see image below).
+### Patching the Faulty Record in DynDOLOD
+1) Upon locating this record you will want to right-click it and select <ins>*Copy as override into....*</ins> (see image below).
 ![Copy as override](https://github.com/user-attachments/assets/20af6b40-93ca-4e69-9156-da45c57fe3a3)
 
-7) This will bring up a prompt asking if you wish to edit the records. Simply click the button that says <ins>*Yes I'm absolutely sure*</ins> (see image below).
+2) This will bring up a prompt asking if you wish to edit the records. Simply click the button that says <ins>*Yes I'm absolutely sure*</ins> (see image below).
 ![Confirmation that you want to make edits](https://github.com/user-attachments/assets/418e13db-b0a6-4da8-aafd-c5ef80fc3d9e)
 
-8) This will then bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK**.
+3) This will then bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK**.
 ![Choose to create an ESPFE file](https://github.com/user-attachments/assets/88e34d45-ecc5-4436-ba55-56589308bd49)
 
-9) Then name the file <ins>*Katla's Farm Windmill Fix*</ins> and click the **OK** button to proceed (see image below).
+4) Then name the file <ins>*Katla's Farm Windmill Fix*</ins> and click the **OK** button to proceed (see image below).
 ![Name the ESPFE file and confirm](https://github.com/user-attachments/assets/0ad26656-b3d5-418e-a831-6b91786e0666)
 
 10) Now you will want to change the Position and Rotation data to the following values and write down the Reference ID for later use (see image below).
@@ -295,16 +302,19 @@ I use very specific settings when generating the LODs for these lists so, if you
 11) Afterwards, before you close down **SSEEdit** and save the changes you made, you'll want to navigate to the Record Header section and ensure the <ins>*No Respawn*</ins> flag is not enabled (see image below).
 ![Disable the No Respawn Flag](https://github.com/user-attachments/assets/93cd89a6-9af0-487d-a9e1-8336ce450616)
 
-12) We're almost done with this process. Now once you've closed down **SSEEdit** and saved the ESPFE file you just created you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
+
+### Updating the Reference ID in the Autorun.txt File
+1) We're almost done with this process. Now once you've closed down **SSEEdit** and saved the ESPFE file you just created you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
 ![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
 
-13) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
+2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
 ![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
 
-14) Finally you'll want to change the **Reference ID** located on the first line of the text file to the one you wrote down earlier and save your changes (see image below).
+3) Finally you'll want to change the **Reference ID** located on the first line of the text file to the one you wrote down earlier and save your changes (see image below).
 ![Edit the Autorun Text File](https://github.com/user-attachments/assets/8ae9811d-1e92-44cf-9934-d063fce80908)
 
-15) With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you also recreated the patch for DynDOLOD. Now all that's left to do is play the game. So go ahead, have fun and enjoy!
+## Conclusion
+With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you've also recreated the patch for DynDOLOD. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
 ![VaultBoySkyrim -50](https://github.com/user-attachments/assets/0c1c9ce0-003b-4b36-bda1-6bc0a037d223)
 
 # Known Issues
