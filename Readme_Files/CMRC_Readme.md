@@ -172,18 +172,22 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 1) First, you want to disable several mods in the list as they can cause the Grass Cache to crash during generation or even prevent it from completing (see image below).
 ![Grass Cache Generation 1](https://github.com/user-attachments/assets/f8d8482b-b7b0-4f92-808d-7be80eea518f)
 
-2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
+2) Afterwards you'll want to ensure that <ins>*Northern Roads - NGIO Patch*</ins> is enabled to keep the grass from being generated over the roads.
+
+3) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
 ![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
 
-3) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
+4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
 ![Grass Cache Generation 3](https://github.com/user-attachments/assets/3dcf5d66-935f-463e-b5d8-e1760cbd65a7)
 
-4) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
+5) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
 
-5) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
 
-6) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 (see image below).
+7) Next you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 (see image below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
+
+8) And finally you'll want to ensure that <ins>*Northern Roads - NGIO Patch*</ins> is disabled as it's not needed past this point.
 
 ## How to Update LODs
 I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
