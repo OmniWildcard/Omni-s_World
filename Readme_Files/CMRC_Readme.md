@@ -276,7 +276,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 7) This will bring up a prompt asking if you wish to edit the records. Simply click the button that says <ins>*Yes I'm absolutely sure*</ins> (see image below).
 ![Confirmation that you want to make edits](https://github.com/user-attachments/assets/418e13db-b0a6-4da8-aafd-c5ef80fc3d9e)
 
-8) This will bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK**.
+8) This will then bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK**.
 ![Choose to create an ESPFE file](https://github.com/user-attachments/assets/88e34d45-ecc5-4436-ba55-56589308bd49)
 
 9) Then name the file <ins>*Katla's Farm Windmill Fix*</ins> and click the **OK** button to proceed (see image below).
