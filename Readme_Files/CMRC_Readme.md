@@ -264,7 +264,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
 ![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
 
-4) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistant*</ins> (see image below).
+4) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
 ![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/4a32af8d-8711-44ce-a052-5e663b534b78)
 
 5) After that you will want to scroll down until you come across the record labeled *skyrimesm_5c854_Tamriel_DynDOLOD_PATCH_DynDOLOD_REFERENCE* (see image below).
