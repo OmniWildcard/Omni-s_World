@@ -107,6 +107,7 @@ Now, before playing, you should do the following things:
     - RemoveInteriorFog.esp
     - DynDOLOD.esp
     - Occlusion.esp
+    - Katla's Farm Windmill Fix.esp
     - IcePenguinWorldMap.esp
 
 ## How to Update Grass Cache
