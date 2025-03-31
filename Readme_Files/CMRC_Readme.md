@@ -254,7 +254,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 
 7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 
-### Updating the Katla's Farm Windmill Fix
+## Updating the Katla's Farm Windmill Fix
 1) First you'll want to load up **SSEEdit** via *Mod Organizer 2* (see image below).
 ![Launch SSEEdit](https://github.com/user-attachments/assets/75b576c8-6fe7-48ae-bf92-838950663e40)
 
