@@ -104,6 +104,7 @@ Now, before playing, you should do the following things:
     - Haafingar Terrain Fix.esp
     - Winterhold Terrain Fix.esp
     - Shadowgreen Cavern Fix.esp
+    - HPH - RM - Synthesis Patch.esp
     - RemoveInteriorFog.esp
     - DynDOLOD.esp
     - Occlusion.esp
