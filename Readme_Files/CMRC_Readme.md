@@ -324,6 +324,9 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
+- **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
+	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed the first six main story quests before you begin. This will resolve any issues you should have with progression.
+
 - **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
 	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilize **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this results in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
 
