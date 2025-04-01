@@ -310,8 +310,10 @@ This process is very simple if you know your way around xEdit but, for those who
 2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
 ![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
 
-3) Finally you'll want to change the **Reference ID** located on the first line of the text file to the one you wrote down earlier and save your changes (see image below).
+3) Next you'll want to change the **Reference ID** located on the first line of the text file to the one you wrote down earlier and save your changes (see image below).
 ![Edit the Autorun Text File](https://github.com/user-attachments/assets/8ae9811d-1e92-44cf-9934-d063fce80908)
+
+4) Finally you'll want to move the *Katla's Farm Windmill Fix.esp* file from the **Overwrite** folder located under <ins>*Modding > MO2*</ins> to the **Mod List Patches, Bug Fixes & Overwrites** folder located under <ins>*Modding > MO2 > mods*</ins>. 
 
 ## Conclusion
 With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you've also recreated the patch for DynDOLOD. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
