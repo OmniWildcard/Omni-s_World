@@ -250,6 +250,8 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![Options](https://github.com/user-attachments/assets/229def86-03e3-480f-b29d-0cc1bf878878)
 
 7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
+> [!Note]
+> If you get any warnings from **DynDOLOD** about *BSXFlags* during processing it is safe to ignore them. It's intentional and caused by the **Remove Small Rocks** mod that removes the small pebbles placed by the vanilla game.
 
 ## Updating the Katla's Farm Windmill Fix
 This process is very simple if you know your way around xEdit but, for those who are uninitiated with the software, I've attempted to explain the process as clearly and in as much detail as possible.
