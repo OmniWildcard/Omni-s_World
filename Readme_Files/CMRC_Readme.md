@@ -88,6 +88,7 @@ Now, before playing, you should do the following things:
     - Modpocalypse - Misc Patches.esp
     - Orc Stalkers Fix - Misc Patches.esp
     - Return Aegisbane - Misc Patches.esp
+    - Rigmor of Bruma - Misc Patches.esp
     - Save the Ice-Runner - Misc Patches.esp
     - Simple Children - Misc Patches.esp
     - Crows and Ravens - NotWL Patch.esp
@@ -95,6 +96,7 @@ Now, before playing, you should do the following things:
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
+    - Lionheart Mjoll Overhaul - SMP Hair Patch.esp
     - Ciri Concept Art Armor - Consistency Tweak.esp
     - Remove Weapon Glows.esp
     - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
@@ -102,7 +104,11 @@ Now, before playing, you should do the following things:
     - Falkreath Terrain Fix.esp
     - Rift Terrain Fix.esp
     - Haafingar Terrain Fix.esp
+    - Hjaalmarch Terrain Fix.esp
+    - Pale Terrain Fix.esp
     - Winterhold Terrain Fix.esp
+    - Eastmarch Terrain Fix.esp
+    - Moss Mother Cavern Fix.esp
     - Shadowgreen Cavern Fix.esp
     - HPH - RM - Synthesis Patch.esp
     - RemoveInteriorFog.esp
