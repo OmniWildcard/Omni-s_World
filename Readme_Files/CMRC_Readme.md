@@ -312,7 +312,7 @@ This process is very simple if you know your way around xEdit but, for those who
  	- Position Z = -10847.258789
   	- Rotation X = 359.9578
    	- Rotation Y = 2.8278
-  	- Rotation Z = 11.4602
+  	- Rotation Z = 10.0000
 
 ![Change the Position and Rotation Values](https://github.com/user-attachments/assets/e9d8bca3-7701-47c6-b258-a3d6be82460b)
 
