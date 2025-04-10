@@ -227,8 +227,8 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![Turn off LODGen Resources](https://github.com/user-attachments/assets/65ac73c7-3ca1-4286-94bd-a72830ea8e63)
 
 ### Updating the TexGen_Output
-1) First, you want to make sure that <ins>*Grass Bound Records*</ins> is disabled and launch **TexGenx64** (see image below).
-![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/0984638e-1759-49a4-9fd9-d1129f6bac6b)
+1) First, you want to make sure that <ins>*Grass Bound Records*</ins> is enabled and launch **TexGenx64** (see image below).
+![Ensure Grass Bound Records is On](https://github.com/user-attachments/assets/28a2eeda-64e9-4c06-a2e0-e2c3dc96fa87)
 
 2) After launching TexGenx64 you will be greeted by a screen with a set of options. Select the **-SSE = Skyrim SE, Skyrim AE or Enderal SE mod version** option and then press the **Start TexGen** button (see image below).
 
@@ -239,6 +239,9 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![TexGen Options](https://github.com/user-attachments/assets/f750caa2-02ba-40ee-b0c3-f9b61b118557)
 
 4) When the process completes you will be prompted with several options. If you select **Exit TexGen** you will simply cut-and-paste the generated *TexGen_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *TexGen_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
+
+5) Finally, ensure that <ins>*Grass Bound Records*</ins> is disabled before proceeding to the next step. 
+![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/bcb1f491-39d1-4bcc-a5f6-431330c29cb6)
 
 ### Updating the DynDOLOD_Output
 1) First, you will want to find the *DynDOLOD_SSE.ini* located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD > Edit Scripts > DynDOLOD*</ins> and change the 11th line from **Expert=0** to **Expert=1** and launch **DynDOLODx64** via *Mod Organizer 2* (see image below).
