@@ -188,15 +188,19 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
 ![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
 
-3) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
+3) The last thing you'll want to do is ensure that <ins>*Grass Bound Records*</ins> is enabled before you begin the process of precaching the grass (see image below).
+![Ensure Grass Bound Records is On](https://github.com/user-attachments/assets/404706ff-3be2-49ca-9594-895d92f933b5)
+
+4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
 ![Grass Cache Generation 3](https://github.com/user-attachments/assets/3dcf5d66-935f-463e-b5d8-e1760cbd65a7)
 
-4) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
+5) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
 
-5) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
 
-6) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 (see image below).
+7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 and disable <ins>*Grass Bound Records*</ins> (see images below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
+![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/60197505-d5fb-4ca0-a486-2af6ea34babf)
 
 ## How to Update LODs
 I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
@@ -227,7 +231,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![Turn off LODGen Resources](https://github.com/user-attachments/assets/65ac73c7-3ca1-4286-94bd-a72830ea8e63)
 
 ### Updating the TexGen_Output
-1) First, you want to make sure that <ins>*Grass Bound Records*</ins> is enabled and launch **TexGenx64** (see image below).
+1) First, you want to re-enable <ins>*Grass Bound Records*</ins> and launch **TexGenx64** (see image below).
 ![Ensure Grass Bound Records is On](https://github.com/user-attachments/assets/28a2eeda-64e9-4c06-a2e0-e2c3dc96fa87)
 
 2) After launching TexGenx64 you will be greeted by a screen with a set of options. Select the **-SSE = Skyrim SE, Skyrim AE or Enderal SE mod version** option and then press the **Start TexGen** button (see image below).
@@ -240,7 +244,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 
 4) When the process completes you will be prompted with several options. If you select **Exit TexGen** you will simply cut-and-paste the generated *TexGen_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *TexGen_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 
-5) Finally, ensure that <ins>*Grass Bound Records*</ins> is disabled before proceeding to the next step. 
+5) Finally, ensure that <ins>*Grass Bound Records*</ins> is disabled once more before proceeding to the next step. 
 ![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/bcb1f491-39d1-4bcc-a5f6-431330c29cb6)
 
 ### Updating the DynDOLOD_Output
