@@ -267,7 +267,7 @@ With that all dealt with you've completed the process of generating a new Grass 
 
 # Known Issues
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
-- [ ] DynDOLOD issue with the Windmill on Katla's Farm
+- [x] DynDOLOD issue with the Windmill on Katla's Farm | Temporarily Remedied by an Override
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Some minor navmesh tweaks required in small towns and villages
