@@ -24,10 +24,10 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
 - 64GB RAM
 - 40GB Pagefile
-- At least 303 GB of free space
+- At least 330 GB of free space
 
 ## Backup Download Links
-- [Download v1.0.9.21]() **[!] Latest Version**
+- [Download v1.0.9.21](https://www.mediafire.com/file_premium/fwg8en0aqvgi07j/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 # Introduction
 This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are included with this mod list as of v1.0.4.2; so be sure to run them again if you make any additions to the list that adds new worldspaces. You can find instructions on how to generate new LODs and Grass Cache along with the exact settings I use down in the <ins>**How to Update LODs**</ins> and <ins>**How to Update Grass Cache**</ins> sections. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled off without issue.
