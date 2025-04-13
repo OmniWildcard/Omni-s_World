@@ -280,7 +280,7 @@ This process is very simple if you know your way around xEdit but, for those who
 1) First you'll want to load up **SSEEdit** via *Mod Organizer 2* (see image below).
 ![Launch SSEEdit](https://github.com/user-attachments/assets/75b576c8-6fe7-48ae-bf92-838950663e40)
 
-2) After launching **SSEEdit** you will eventually reach the **Module Selection** screen. You will want to right-click, to open a drop down menu, then click <ins>*Select All*</ins> before finally clicking the **OK** button in the bottom-right.
+2) After launching **SSEEdit** you will eventually reach the **Module Selection** screen. Simply click the **OK** button in the bottom-right to proceed (see image below).
 ![Module Selection Screen 1](https://github.com/user-attachments/assets/ac959d89-c536-452f-84e1-4312ed430b77)
 
 3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
