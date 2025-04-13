@@ -281,7 +281,7 @@ This process is very simple if you know your way around xEdit but, for those who
 ![Launch SSEEdit](https://github.com/user-attachments/assets/75b576c8-6fe7-48ae-bf92-838950663e40)
 
 2) After launching **SSEEdit** you will eventually reach the **Module Selection** screen. Simply click the **OK** button in the bottom-right to proceed (see image below).
-![Module Selection Screen 1](https://github.com/user-attachments/assets/ac959d89-c536-452f-84e1-4312ed430b77)
+![Module Selection Screen 1](https://github.com/user-attachments/assets/5a6c3809-0719-4254-b7e2-bb2089713a42)
 
 3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
 ![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
