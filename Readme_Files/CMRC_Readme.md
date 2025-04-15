@@ -188,8 +188,8 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
 ![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
 
-3) The last thing you'll want to do is ensure that <ins>*Grass Bound Records*</ins> is enabled before you begin the process of precaching the grass (see image below).
-![Ensure Grass Bound Records is On](https://github.com/user-attachments/assets/404706ff-3be2-49ca-9594-895d92f933b5)
+3) The last few things you'll want to do is ensure that <ins>*Grass Bound Records*</ins> and <ins>*Northern Roads - NGIO Patch*</ins> is enabled; then, finally, ensure that the existing <ins>*Grass Cache*</ins> is disabled before you begin the process of precaching the grass (see image below).
+![Final Preparation for Precache Process](https://github.com/user-attachments/assets/0fbd35de-4146-4751-aa40-1f9916053b7f)
 
 4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
 ![Grass Cache Generation 3](https://github.com/user-attachments/assets/3dcf5d66-935f-463e-b5d8-e1760cbd65a7)
@@ -198,9 +198,9 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 
 6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
 
-7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 and disable <ins>*Grass Bound Records*</ins> (see images below).
+7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 and disable <ins>*Grass Bound Records*</ins> and the <ins>*Northern Roads - NGIO Patch*</ins> (see images below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
-![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/60197505-d5fb-4ca0-a486-2af6ea34babf)
+![Post-Precache Process Cleanup](https://github.com/user-attachments/assets/8e188486-a69e-471a-aab1-b7cd7d81f9bb)
 
 ## How to Update LODs
 I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
