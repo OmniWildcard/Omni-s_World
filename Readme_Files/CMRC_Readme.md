@@ -192,7 +192,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 ![Final Preparation for Precache Process](https://github.com/user-attachments/assets/0fbd35de-4146-4751-aa40-1f9916053b7f)
 
 4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
-![Grass Cache Generation 3](https://github.com/user-attachments/assets/3dcf5d66-935f-463e-b5d8-e1760cbd65a7)
+![Grass Cache Generation 3](https://github.com/user-attachments/assets/85a08648-bb57-4046-96de-3c10936be45e)
 
 5) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
 
