@@ -183,7 +183,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 
 ### Generating the New Grass Cache
 1) First, you want to disable several mods in the list as they can cause the Grass Cache to crash during generation or even prevent it from completing (see image below).
-![Grass Cache Generation 1](https://github.com/user-attachments/assets/f8d8482b-b7b0-4f92-808d-7be80eea518f)
+![Grass Cache Generation 1](https://github.com/user-attachments/assets/63f8cf67-a4e2-4390-b777-7f2dad483728)
 
 2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
 ![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
