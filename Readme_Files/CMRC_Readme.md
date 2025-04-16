@@ -306,7 +306,7 @@ This process is very simple if you know your way around xEdit but, for those who
 4) Then name the file <ins>*Katla's Farm Windmill Fix*</ins> and click the **OK** button to proceed (see image below).
 ![Name the ESPFE file and confirm](https://github.com/user-attachments/assets/0ad26656-b3d5-418e-a831-6b91786e0666)
 
-5) Now you will want to change the Position and Rotation data to the following values and write down the Reference ID for later use (see image below).
+5) Now you will want to change the Position and Rotation data to the following values and write down the **Reference ID** for later use (see image below).
 	- Position X = -74437.226562
 	- Position Y = 95534.609375
  	- Position Z = -10847.258789
@@ -320,7 +320,7 @@ This process is very simple if you know your way around xEdit but, for those who
 ![Disable the No Respawn Flag](https://github.com/user-attachments/assets/93cd89a6-9af0-487d-a9e1-8336ce450616)
 
 ### Updating the Reference ID in the Autorun.txt File
-1) We're almost done with this process. Now once you've closed down **SSEEdit** you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
+1) We're almost done with this part of the process. Now once you've closed down **SSEEdit** you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
 ![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
 
 2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
@@ -330,6 +330,33 @@ This process is very simple if you know your way around xEdit but, for those who
 ![Edit the Autorun Text File](https://github.com/user-attachments/assets/8ae9811d-1e92-44cf-9934-d063fce80908)
 
 4) Finally you'll want to move the *Katla's Farm Windmill Fix.esp* file from the **Overwrite** folder located under <ins>*Modding > MO2*</ins> to the **Mod List Patches, Bug Fixes & Overwrites** folder located under <ins>*Modding > MO2 > mods*</ins>. 
+
+### Grabbing the Reference ID for the Bugged Lumber Mill
+1) First you want to load up **SSEEdit** (see image below).
+![Launch SSEEdit](https://github.com/user-attachments/assets/98f648a3-ee15-4a86-a2df-73fcf3b90c00)
+
+2) After launching **SSEEdit** you will eventually reach the **Module Selection** screen. Simply click the **OK** button in the bottom-right to proceed (see image below).
+![Module Selection Screen 1](https://github.com/user-attachments/assets/5a6c3809-0719-4254-b7e2-bb2089713a42)
+
+3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
+![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
+
+4) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
+![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/d7c6e979-2b70-4dbf-9ee0-fcbf1cc51cf5)
+
+5) Afterwards you want to scroll down the list until you find the record labeled *skyrimesm_0A1FF2_Tamriel_DynDOLOD_Reference* and write down the **Reference ID** for later use (see image below).
+![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/e821594f-7c27-47a0-a11c-464b72951f2b)
+
+6) We're almost done with all the patching. Now that you've written down the required **Reference ID** you can close down **SSEEdit**.
+
+7) Now you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
+![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
+
+8) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
+![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
+
+9) Finally you'll want to change the **Reference ID**, located on the fifth line, change it to the one you wrote down earlier in step five of this process and save (see image below).
+![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/466d6ead-0ba1-4202-bb0f-8f3aef898c08)
 
 ## Conclusion
 With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you've also recreated the patch for DynDOLOD. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
