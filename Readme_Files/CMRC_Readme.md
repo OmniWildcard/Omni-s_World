@@ -332,6 +332,11 @@ This process is very simple if you know your way around xEdit but, for those who
 4) Finally you'll want to move the *Katla's Farm Windmill Fix.esp* file from the **Overwrite** folder located under <ins>*Modding > MO2*</ins> to the **Mod List Patches, Bug Fixes & Overwrites** folder located under <ins>*Modding > MO2 > mods*</ins>. 
 
 ## Grabbing the Reference ID for the Bugged Lumber Mill
+This process is very simple if you know your way around xEdit but, for those who are uninitiated with the software, I've attempted to explain the process as clearly and in as much detail as possible.
+> [!Warning]
+> I strongly advise you to not deviate from these instructions, but you are free to ignore my suggestion at your own peril.
+
+### Loading up SSEEdit and the Records
 1) First you want to load up **SSEEdit** (see image below).
 ![Launch SSEEdit](https://github.com/user-attachments/assets/98f648a3-ee15-4a86-a2df-73fcf3b90c00)
 
@@ -341,21 +346,23 @@ This process is very simple if you know your way around xEdit but, for those who
 3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
 ![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
 
-4) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
+### Locating the Offending Record
+1) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
 ![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/d7c6e979-2b70-4dbf-9ee0-fcbf1cc51cf5)
 
-5) Afterwards you want to scroll down the list until you find the record labeled *skyrimesm_0A1FF2_Tamriel_DynDOLOD_Reference* and write down the **Reference ID** for later use (see image below).
+2) Afterwards you want to scroll down the list until you find the record labeled *skyrimesm_0A1FF2_Tamriel_DynDOLOD_Reference* and write down the **Reference ID** for later use (see image below).
 ![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/e821594f-7c27-47a0-a11c-464b72951f2b)
 
-6) We're almost done with all the patching. Now that you've written down the required **Reference ID** you can close down **SSEEdit**.
+3) We're almost done with our manual patching. Now that you've written down the required **Reference ID** you can close down **SSEEdit**.
 
-7) Now you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
+### Updating the Reference ID in the Autorun.txt File
+1) Now you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
 ![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
 
-8) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
+2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
 ![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
 
-9) Finally you'll want to change the **Reference ID**, located on the fifth line, change it to the one you wrote down earlier in step five of this process and save (see image below).
+3) Finally you'll want to change the **Reference ID**, located on the fifth line, change it to the one you wrote down earlier in step five of this process and save (see image below).
 ![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/466d6ead-0ba1-4202-bb0f-8f3aef898c08)
 
 ## Conclusion
