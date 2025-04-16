@@ -362,7 +362,7 @@ This process is very simple if you know your way around xEdit but, for those who
 2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
 ![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
 
-3) Finally you'll want to change the **Reference ID**, located on the fifth line, change it to the one you wrote down earlier in step five of this process and save (see image below).
+3) Finally you'll want to change the **Reference ID**, located on the fifth line, change it to the one you wrote down earlier in step five of this process and save the changes (see image below).
 ![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/466d6ead-0ba1-4202-bb0f-8f3aef898c08)
 
 ## Conclusion
