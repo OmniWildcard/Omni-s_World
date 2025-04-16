@@ -350,20 +350,20 @@ This process is very simple if you know your way around xEdit but, for those who
 1) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
 ![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/d7c6e979-2b70-4dbf-9ee0-fcbf1cc51cf5)
 
-2) Afterwards you want to scroll down the list until you find the record labeled *skyrimesm_0A1FF2_Tamriel_DynDOLOD_Reference* and write down the **Reference ID** for later use (see image below).
-![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/e821594f-7c27-47a0-a11c-464b72951f2b)
+2) Afterwards you want to sort records by name and scroll down until you locate the entries for *FarmLumbermill01WaterWheel01_DynDOLOD_BASERECORD** and write down the **Reference IDs** for later use (see image below).
+![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/fcae2988-471c-441b-8b75-9845110cface)
 
-3) We're almost done with our manual patching. Now that you've written down the required **Reference ID** you can close down **SSEEdit**.
+3) We're almost done with our manual patching. Now that you've written down the required **Reference IDs** you can close down **SSEEdit**.
 
-### Updating the Reference ID in the Autorun.txt File
+### Updating the Reference IDs in the Autorun.txt File
 1) Now you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
 ![Navigate to Autorun's Information Panel](https://github.com/user-attachments/assets/04bd9d18-c3ce-45db-b874-249ea0150be2)
 
 2) Once you've opened up this interface navigate to either the **Conflicts** tab or the **File Tree** tab, right-click the Autorun.txt entry and select <ins>*Open*</ins> (see image below).
 ![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
 
-3) Finally you'll want to change the **Reference ID**, located on the fifth line, change it to the one you wrote down earlier in step five of this process and save the changes (see image below).
-![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/466d6ead-0ba1-4202-bb0f-8f3aef898c08)
+3) Finally you'll want to change the relevant **Reference IDs**, change them to the ones you wrote down earlier and save the changes (see image below).
+![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/43f424f7-e873-4e5b-9530-f81058300c8c)
 
 ## Conclusion
 With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you've also recreated the patch for DynDOLOD. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
@@ -372,6 +372,7 @@ With that all dealt with you've completed the process of generating a new Grass 
 # Known Issues
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
 - [x] DynDOLOD issue with the Windmill on Katla's Farm | Temporarily Remedied by an Override
+- [x] DynDOLOD issue with Water Wheels and the Heartwood Lumber Mill | Temporarily Remedied by Autorun
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Some minor navmesh tweaks required in small towns and villages
