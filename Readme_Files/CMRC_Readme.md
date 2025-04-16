@@ -116,7 +116,7 @@ Now, before playing, you should do the following things:
     - Katla's Farm Windmill Fix.esp
     - IcePenguinWorldMap.esp
 
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/garl4tpvnfaog2f/LOOT-backup-20250409T171707.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default.
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/w9li45ecb96wwx5/LOOT-backup-20250416T163251.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
