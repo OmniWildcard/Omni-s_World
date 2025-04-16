@@ -331,7 +331,7 @@ This process is very simple if you know your way around xEdit but, for those who
 
 4) Finally you'll want to move the *Katla's Farm Windmill Fix.esp* file from the **Overwrite** folder located under <ins>*Modding > MO2*</ins> to the **Mod List Patches, Bug Fixes & Overwrites** folder located under <ins>*Modding > MO2 > mods*</ins>. 
 
-### Grabbing the Reference ID for the Bugged Lumber Mill
+## Grabbing the Reference ID for the Bugged Lumber Mill
 1) First you want to load up **SSEEdit** (see image below).
 ![Launch SSEEdit](https://github.com/user-attachments/assets/98f648a3-ee15-4a86-a2df-73fcf3b90c00)
 
