@@ -92,7 +92,6 @@ Now, before playing, you should do the following things:
     - Save the Ice-Runner - Misc Patches.esp
     - Simple Children - Misc Patches.esp
     - Crows and Ravens - NotWL Patch.esp
-    - SDA - Consistency Patch.esp
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
