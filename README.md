@@ -1,6 +1,6 @@
 # Welcome to My World!
 This is a repository containing all of my mod lists that are part of the overarching collection I like to call Omni's World!
-![Omni's World GitHub Page Thumbnail](https://github.com/user-attachments/assets/9afa4c38-f027-4720-9336-34c68bab5e34)
+![Omni's World GitHub Page Thumbnail](https://github.com/user-attachments/assets/6104a7d4-6ea0-4ced-9760-3e683ac3c32b)
 At present this collection encompasses my Chaos Mage Randomized Challenge, Ad Mortem Challenge and End Times Challenge mod lists. However, it will expand as my content expands to new challenge runs. So I expect this collection to grow over time to include new lists!
 
 # About the Mod Lists
