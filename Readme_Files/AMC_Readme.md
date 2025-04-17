@@ -1,7 +1,7 @@
 > [!Important]
 > **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
 # Welcome to the *Ad Mortem Challenge* Readme!
-![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/c5b57e10-190d-4209-ab29-7730c4f9aef6)
+![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/9d62aaa6-a316-4c48-8d47-4c4eced87a5d)
 
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
