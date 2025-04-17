@@ -1,7 +1,7 @@
 > [!Important]
 > **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
 # Welcome to the *Chaos Mage Randomized Challenge* Readme!
-![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/7fb163a8-03ac-44ef-b04d-5d221f45509d)
+![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/be34da4a-680b-4043-b529-50ef67f5e29d)
 
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
