@@ -299,7 +299,7 @@ This process is very simple if you know your way around xEdit but, for those who
 2) This will bring up a prompt asking if you wish to edit the records. Simply click the button that says <ins>*Yes I'm absolutely sure*</ins> (see image below).
 ![Confirmation that you want to make edits](https://github.com/user-attachments/assets/418e13db-b0a6-4da8-aafd-c5ef80fc3d9e)
 
-3) This will then bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK**.
+3) This will then bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK** (see image below).
 ![Choose to create an ESPFE file](https://github.com/user-attachments/assets/88e34d45-ecc5-4436-ba55-56589308bd49)
 
 4) Then name the file <ins>*Katla's Farm Windmill Fix*</ins> and click the **OK** button to proceed (see image below).
@@ -330,7 +330,7 @@ This process is very simple if you know your way around xEdit but, for those who
 
 4) Finally you'll want to move the *Katla's Farm Windmill Fix.esp* file from the **Overwrite** folder located under <ins>*Modding > MO2*</ins> to the **Mod List Patches, Bug Fixes & Overwrites** folder located under <ins>*Modding > MO2 > mods*</ins>. 
 
-## Grabbing the Reference ID for the Bugged Lumber Mill
+## Grabbing the Reference ID for the Bugged Lumber Mill Water Wheels
 This process is very simple if you know your way around xEdit but, for those who are uninitiated with the software, I've attempted to explain the process as clearly and in as much detail as possible.
 > [!Warning]
 > I strongly advise you to not deviate from these instructions, but you are free to ignore my suggestion at your own peril.
@@ -345,14 +345,30 @@ This process is very simple if you know your way around xEdit but, for those who
 3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
 ![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
 
-### Locating the Offending Record
+### Locating the Offending Records
 1) Next you'll want to scroll down to **DynDOLOD.esp** and expand it by clicking the little plus sign next to it. Afterwards you'll want to navigate to <ins>*Worldspace > 0000003C > 00000D74 Cell > Persistent*</ins> (see image below).
 ![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/d7c6e979-2b70-4dbf-9ee0-fcbf1cc51cf5)
 
-2) Afterwards you want to sort records by name and scroll down until you locate the entries for *FarmLumbermill01WaterWheel01_DynDOLOD_BASERECORD** and write down the **Reference IDs** for later use (see image below).
+2) Afterwards you want to sort records by name and scroll down until you locate the entries for *FarmLumbermill01WaterWheel01_DynDOLOD_BASERECORD* and write down the **Reference IDs** for later use (see image below).
 ![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/fcae2988-471c-441b-8b75-9845110cface)
 
-3) We're almost done with our manual patching. Now that you've written down the required **Reference IDs** you can close down **SSEEdit**.
+### Patching the Offending Records
+1) Upon locating these records you'll want to select all of them, right-click and select <ins>*Copy as override into....*</ins> (see image below).
+![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/31f0d1a2-5706-412a-9298-55eaefc2bb66)
+
+2) This will bring up a prompt asking if you wish to edit the records. Simply click the button that says <ins>*Yes I'm absolutely sure*</ins> (see image below).
+![DynDOLOD Workaround Instructions 3](https://github.com/user-attachments/assets/d18c2330-7fd4-488b-b8de-69b4f4155269)
+
+3) This will then bring up an interface where you can select the kind of module you want to copy the override into. Select the option seen in the image below and click **OK** (see image below).
+![DynDOLOD Workaround Instructions 4](https://github.com/user-attachments/assets/1bebbb31-a450-4314-9e2a-243af22c69f1)
+
+4) Then name the file <ins>*Skyrim Water Wheels Fix*</ins> and click the **OK** button to proceed (see image below).
+![DynDOLOD Workaround Instructions 5](https://github.com/user-attachments/assets/7baa9a50-cfae-477c-9893-060a4236c4cb)
+
+5) Now you will want to ensure the <ins>*No Respawn*</ins> flag is disabled for each of the overriding records (see image below).
+![DynDOLOD Workaround Instructions 6](https://github.com/user-attachments/assets/ef13ac64-551a-4abf-8975-017bb93900b8)
+
+6) We're almost done with our manual patching. Now that you've written down the required **Reference IDs** and patched the offending records you can close down **SSEEdit**.
 
 ### Updating the Reference IDs in the Autorun.txt File
 1) Now you'll want to find the mod titled **Autorun** within the mod list, right-click it and select <ins>*Information*</ins> (see image below).
@@ -362,7 +378,7 @@ This process is very simple if you know your way around xEdit but, for those who
 ![Open up Autorun text file](https://github.com/user-attachments/assets/a7f615e4-307f-4f78-8dad-3b2a992d15ed)
 
 3) Finally you'll want to change the relevant **Reference IDs**, change them to the ones you wrote down earlier and save the changes (see image below).
-![DynDOLOD Workaround Instructions 2](https://github.com/user-attachments/assets/43f424f7-e873-4e5b-9530-f81058300c8c)
+![DynDOLOD Workaround Instructions 7](https://github.com/user-attachments/assets/f0d2d1e1-9969-4d6e-8a62-4432c94e9d85)
 
 ## Conclusion
 With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you've also recreated the patch for DynDOLOD. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
