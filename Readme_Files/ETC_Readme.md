@@ -1,7 +1,7 @@
 > [!Important]
 > **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
 # Welcome to the *"End Times" Challenge* Readme!
-![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/55b5266a-cbd1-481f-a310-b61dd969459b)
+![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/8fdc9f6d-4a41-409b-b027-af2fc2218649)
 
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
