@@ -267,7 +267,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![Rules settings](https://github.com/user-attachments/assets/b269f1af-4e34-4923-8677-7020594ee11a)
 
 6) Now we move on to the final step before processing, the <ins>*Options*</ins> section of the interface. Make sure your settings match mine and then press the **OK** button to start DynDOLOD generation (see image below).
-![Options](https://github.com/user-attachments/assets/229def86-03e3-480f-b29d-0cc1bf878878)
+![Options](https://github.com/user-attachments/assets/6e3877dc-ca42-4b29-892f-dc2af3dbad73)
 
 7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 > [!Note]
