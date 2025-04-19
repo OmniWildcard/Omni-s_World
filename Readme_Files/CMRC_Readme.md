@@ -117,6 +117,7 @@ Now, before playing, you should do the following things:
     - DynDOLOD.esp
     - Occlusion.esp
     - Katla's Farm Windmill Fix.esp
+    - Skyrim Water Wheels Fix.esp
     - IcePenguinWorldMap.esp
 
 5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/7ddwbllkex18f5z/LOOT-backup-20250418T112943.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default.
