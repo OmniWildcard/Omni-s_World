@@ -201,7 +201,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 
 6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
 
-7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 and disable <ins>*Grass Bound Records*</ins> and the <ins>*Northern Roads - NGIO Patch*</ins> (see images below).
+7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66, disable <ins>*Grass Bound Records*</ins>, disable the <ins>*Northern Roads - NGIO Patch*</ins> and re-enable the mods you disabled in step 1 (see images below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
 ![Post-Precache Process Cleanup](https://github.com/user-attachments/assets/8e188486-a69e-471a-aab1-b7cd7d81f9bb)
 
