@@ -27,7 +27,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 336 GB of free space
 
 ## Backup Download Links
-- [Download v1.0.10.23](https://www.mediafire.com/file_premium/sy1lejuqgv2m8gh/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.11.25]() **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -91,10 +91,11 @@ Now, before playing, you should do the following things:
     - Modpocalypse - Misc Patches.esp
     - Orc Stalkers Fix - Misc Patches.esp
     - Return Aegisbane - Misc Patches.esp
-    - Rigmor of Bruma - Misc Patches.esp
+    - Rigmor of Cyrodiil - Misc Patches.esp
     - Save the Ice-Runner - Misc Patches.esp
     - Simple Children - Misc Patches.esp
     - Crows and Ravens - NotWL Patch.esp
+    - Hold Guards - SoS Consistency Patch.esp
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
@@ -120,7 +121,7 @@ Now, before playing, you should do the following things:
     - Skyrim Water Wheels Fix.esp
     - IcePenguinWorldMap.esp
 
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/7ddwbllkex18f5z/LOOT-backup-20250418T112943.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default.
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/h8m17v3oqlo3eaj/LOOT-backup-20250422T094028.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
