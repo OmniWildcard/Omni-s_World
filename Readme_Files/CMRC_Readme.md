@@ -121,7 +121,7 @@ Now, before playing, you should do the following things:
     - Skyrim Water Wheels Fix.esp
     - IcePenguinWorldMap.esp
 
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/b6dszbm08d9i6pk/LOOT-backup-20250422T230859.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/wv6hn9w052ltze4/LOOT-backup-20250425T172515.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
