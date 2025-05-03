@@ -99,6 +99,7 @@ Now, before playing, you should do the following things:
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
+    - BloodMoon Aela Overhaul - SMP Hair Patch.esp
     - Lionheart Mjoll Overhaul - SMP Hair Patch.esp
     - Ciri Concept Art Armor - Consistency Tweak.esp
     - Remove Weapon Glows.esp
