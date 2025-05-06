@@ -22,12 +22,12 @@
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
 - 11th Gen Intel(R) Core(TM) i9-11900k CPU or later CPU models
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
-- 64GB RAM
-- 40GB Pagefile
-- At least 336 GB of free space
+- 64 GB RAM
+- 40 GB Pagefile
+- At least 395 GB of free space
 
 ## Backup Download Links
-- [Download v1.0.11.64]() **[!] Latest Version**
+- [Download v1.0.11.64](https://www.mediafire.com/file_premium/idziff5u3fjv3gx/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
