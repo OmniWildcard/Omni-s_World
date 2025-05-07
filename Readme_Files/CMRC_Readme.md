@@ -96,6 +96,8 @@ Now, before playing, you should do the following things:
     - Simple Children - Misc Patches.esp
     - Crows and Ravens - NotWL Patch.esp
     - Hold Guards - SoS Consistency Patch.esp
+    - Immersive Jewelry + AFP Patch.esp
+    - MM + LSC + AFP Patch.esp
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
