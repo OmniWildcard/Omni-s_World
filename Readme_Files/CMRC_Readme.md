@@ -213,12 +213,8 @@ I use very specific settings when generating the LODs for these lists so, if you
 > [!Note]
 > **For the sake of simplicity, the instructions are divided into subsections.**
 
-> [!Warning]
-> The <ins>**Katla's Farm Windmill Fix.esp**</ins> contains <ins>**DynDOLOD.esm**</ins> as a master and is a temporary workaround for a bug with DynDOLOD's output with the current DynDOLOD NG DLL. As such DynDOLOD will not allow you to generate new LODs while it is present so you must delete it before generating any new LODs. After generating the new LODs you will have to recreate the patch and edit the <ins>**Autorun.txt**</ins> file to use the new Reference ID. This process is detailed in the <ins>**Updating the Katla's Farm Windmill Fix**</ins> section.
-
 ### Updating the SSELODGen_Ouput
-1) First, you want to make sure <ins>*xLODGen Resources - SSE Terrain Tamriel*</ins> is enabled and launch **SSELODGenx64** (see image below).
-![LODGen Resources](https://github.com/user-attachments/assets/f4422f47-fe73-40aa-8a77-91dd8de244e2)
+1) First, you want to launch **SSELODGenx64**.
 
 2) When you get to the **LODGen Options** menu you'll want to tick the boxes of all the worldspaces available for LOD generation, ensure the box next to <ins>*Seasons*</ins> is unticked, and that only <ins>*Terrain LOD*</ins> is selected (see image below).
 ![Regions + Seasons](https://github.com/user-attachments/assets/3b1003e9-1c4d-4ad8-b10f-da3e7a5fe762)
