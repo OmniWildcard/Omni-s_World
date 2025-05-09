@@ -277,12 +277,12 @@ I use very specific settings when generating the LODs for these lists so, if you
 > If you get any warnings from **DynDOLOD** about *BSXFlags* during processing it is safe to ignore them. It's intentional and caused by the **Remove Small Rocks** mod that removes the small pebbles placed by the vanilla game.
 
 ## Conclusion
-With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces; you've also recreated the patch for DynDOLOD. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
+With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
 ![VaultBoySkyrim -50](https://github.com/user-attachments/assets/0c1c9ce0-003b-4b36-bda1-6bc0a037d223)
 
 # Known Issues
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
-- [ ] DynDOLOD issue with the Windmill on Katla's Farm
+- [x] DynDOLOD issue with the Windmill on Katla's Farm | **Fixed as of v1.0.11.72**
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Some minor navmesh tweaks required in small towns and villages
