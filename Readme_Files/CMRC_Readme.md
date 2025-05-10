@@ -98,6 +98,8 @@ Now, before playing, you should do the following things:
     - Hold Guards - SoS Consistency Patch.esp
     - Immersive Jewelry + AFP Patch.esp
     - MM + LSC + AFP Patch.esp
+    - Riften Interior Lighting Fix.esp
+    - Whiterun Interior Lighting Fix.esp
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
@@ -114,15 +116,18 @@ Now, before playing, you should do the following things:
     - Pale Terrain Fix.esp
     - Winterhold Terrain Fix.esp
     - Eastmarch Terrain Fix.esp
+    - HOE.esp
     - Moss Mother Cavern Fix.esp
     - Shadowgreen Cavern Fix.esp
     - HPH - RM - Synthesis Patch.esp
     - RemoveInteriorFog.esp
+    - WTT - Skyrim-Solstheim - Worldsettings.esp
+    - Water for ENB - Patch - Worldspace Transition Tweaks (Shades of Skyrim).esp
     - DynDOLOD.esp
     - Occlusion.esp
     - IcePenguinWorldMap.esp
 
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/96k3xi4dxnz3rlm/LOOT-backup-20250507T020857.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/d09kba1rfykqxig/LOOT-backup-20250510T051743.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
