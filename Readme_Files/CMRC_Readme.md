@@ -277,8 +277,34 @@ I use very specific settings when generating the LODs for these lists so, if you
 > [!Note]
 > If you get any warnings from **DynDOLOD** about *BSXFlags* during processing it is safe to ignore them. It's intentional and caused by the **Remove Small Rocks** mod that removes the small pebbles placed by the vanilla game.
 
+### Updating Autorun.txt Records
+1) First you want to launch **SSEEdit**.
+
+2) Upon loading it will bring up a module selection screen. Simply click the **OK** button in the lower-right of the window to proceed (see image below).
+![Module Selection Screen 1](https://github.com/user-attachments/assets/09dea140-7180-4820-bf4d-11340e6a365d)
+
+3) Eventually it will bring up a mod group selection screen. Ensure all boxes are ticked and click the **OK** button in the lower-right to proceed (see image below).
+![Module Selection Screen 2](https://github.com/user-attachments/assets/7d1dc420-39e4-4be9-99cd-4e53360ab6c9)
+
+4) Now you want to navigate down to the bottom of the list and find DynDOLOD.esp. Expand the section by pressing the box with a + symbol in it and then further expand it until you reach the section in the provided screenshot (see image below).
+![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/8e3001a0-f0d3-4874-9e31-87723cdd70a3)
+
+5) Now scroll down through the entries until you reach the entry shown in the provided screenshot and record the **Reference ID** for later use (see image below).
+![Locating the Offending Record](https://github.com/user-attachments/assets/e182e3ad-4f6a-4442-8827-841960f2f807)
+
+6) Next you want to sort entries by name and locate the entries shown in the provided screenshot and record their **Reference IDs** for later use (see image below).
+![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/73211325-0a2f-4265-96b9-ba29898d5b20)
+
+7) Afterwards you will open up the **Autorun.txt** file located under <ins>*MO2 > mods > Autorun*</ins>. Change the entry specified in the provided screenshot to the Reference ID you recorded in step 5 (see image below).
+![Edit the Autorun Text File](https://github.com/user-attachments/assets/51efc5ec-1ad6-4cae-b417-c483a13ed234)
+
+8) Finally you will update the entries specified in the provided screenshot to the Reference IDs recorded in step 6 (see image below).
+![DynDOLOD Workaround Instructions 7](https://github.com/user-attachments/assets/078d1e62-68a6-485a-b447-0d25278058f3)
+
+9) Afterwards simply save the changes and close the window.
+
 ## Conclusion
-With that all dealt with you've completed the process of generating a new Grass Cache and updated the LODs to include your new worldspaces. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
+With that all dealt with you've completed the process of generating a new Grass Cache, updated the LODs to include your new worldspaces and updated the precautionary Autorun records to the new IDs. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
 ![VaultBoySkyrim -50](https://github.com/user-attachments/assets/0c1c9ce0-003b-4b36-bda1-6bc0a037d223)
 
 # Known Issues
