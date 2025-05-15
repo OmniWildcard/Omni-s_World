@@ -6,7 +6,7 @@ At present this collection encompasses my Chaos Mage Randomized Challenge, Ad Mo
 # About the Mod Lists
 All of these mod lists make use of a similar base but have different modular gameplay elements and exclusives. It should be noted, however, that all of them are designed to be highly customizable in some areas as I've left certain aspects entirely untouched to maximize compatibility. Want to use a Vampire or Werewolf overhaul of your choice? That's entirely possible with any of my mod lists as none of them include one. Want to add Wintersun to the list? Go right ahead, though you will need to download the Wintersun patches for Daedric Shrines AIO to make the new Daedric Shrines function. These lists serve more as a foundation and a way to replicate my own challenge runs if you wish to give them a try yourself. So go ahead and check them out! I'm sure you'll find one to your liking.
 
-![List Exclusives](https://github.com/user-attachments/assets/2ad072bc-e9ef-484c-961c-9e87a411e1b4)
+![List Exclusives](https://github.com/user-attachments/assets/7777ffb5-657c-4a56-9c6e-59b2e59857d4)
 
 # Want to see the Mod List's in action?
 If you want to see each individual mod list in action visit my YouTube channel or Twitch Channel. Links to both can be found below:
