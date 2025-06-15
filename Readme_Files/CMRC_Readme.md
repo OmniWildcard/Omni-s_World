@@ -24,10 +24,10 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
 - 64 GB RAM
 - 40 GB Pagefile
-- At least 446 GB of free space
+- At least 452 GB of free space
 
 ## Backup Download Links
-- [Download v1.0.14.52](https://www.mediafire.com/file_premium/p3w6crfji8ccsiq/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.15.31](https://www.mediafire.com/file_premium/5vvod2fllmweuw8/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -131,7 +131,7 @@ Now, before playing, you should do the following things:
     - Occlusion.esp
     - IcePenguinWorldMap.esp
 
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/21b9ghjbwpv8nsa/LOOT-backup-20250612T152332.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pdx8aj17levlbh4/LOOT-backup-20250613T132440.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
