@@ -109,10 +109,12 @@ Now, before playing, you should do the following things:
     - CS_Melana+DLH Patch.esp
     - BloodMoon Aela Overhaul - SMP Hair Patch.esp
     - Lionheart Mjoll Overhaul - SMP Hair Patch.esp
+	- Rigmor Weight Patch
     - Ciri Concept Art Armor - Consistency Tweak.esp
     - Remove Weapon Glows.esp
     - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
     - Whiterun Terrain Fix.esp
+	- Whiterun Terrain Fix - Rigmor Patch.esp
     - Falkreath Terrain Fix.esp
     - Rift Terrain Fix.esp
     - Haafingar Terrain Fix.esp
