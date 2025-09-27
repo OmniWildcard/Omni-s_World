@@ -27,7 +27,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 452 GB of free space
 
 ## Backup Download Links
-- [Download v1.0.17.21]() **[!] Latest Version**
+TEMPORARILY UNAVAILABLE
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
