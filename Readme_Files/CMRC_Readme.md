@@ -102,8 +102,6 @@ Now, before playing, you should do the following things:
     - Hold Guards - SoS Consistency Patch.esp
     - Immersive Jewelry + AFP Patch.esp
     - MM + LSC + AFP Patch.esp
-    - Riften Interior Lighting Fix.esp
-    - Whiterun Interior Lighting Fix.esp
     - LydiaRemake.esp
     - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
     - CS_Melana+DLH Patch.esp
