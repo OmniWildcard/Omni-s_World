@@ -20,14 +20,14 @@
 
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
-- 11th Gen Intel(R) Core(TM) i9-11900k CPU or later CPU models
-- NVIDIA GeForce RTX 4070 Ti or later GPU models (Older NVIDIA GPUs might work but I can't guarantee decent performance)
+- 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models
+- NVIDIA GeForce RTX 4070 Ti or AMD equivalent (Older GPUs might work but I can't guarantee decent performance)
 - 64 GB RAM
 - 40 GB Pagefile
-- At least 452 GB of free space
+- At least 483 GB of free space
 
 ## Backup Download Links
-- [Download v1.0.17.23](https://www.mediafire.com/file_premium/tg4ko79gei5hvvi/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+TEMPORARILY UNAVAILABLE
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -77,61 +77,7 @@ Now, before playing, you should do the following things:
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-4) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
-    - Alternate Perspectives - Misc Patches.esp
-    - Better Skyrim Parties - Misc Patches.esp
-    - Bijin AIO - Misc Patches.esp
-    - CACO - Misc Patches.esp
-    - Capital Windhelm Expansion - Misc Patches.esp
-    - Chooey's Choice - Misc Patches.esp
-    - COTN Falkreath - Misc Patches.esp
-    - Dark Elf Voices For Bandits - Misc Patches.esp
-    - Dawnguard Arsenal - Misc Patches.esp
-    - ESO Nord Weapons - Misc Patches.esp
-    - Fleeting Torches - Misc Patches.esp
-    - Immersive Jewelry - Misc Patches.esp
-    - Immersive Weapons - Misc Patches.esp
-    - JK's Winking Skeever - Misc Patches.esp
-    - Modpocalypse - Misc Patches.esp
-    - Orc Stalkers Fix - Misc Patches.esp
-    - Return Aegisbane - Misc Patches.esp
-    - Rigmor of Cyrodiil - Misc Patches.esp
-    - Save the Ice-Runner - Misc Patches.esp
-    - Simple Children - Misc Patches.esp
-    - Crows and Ravens - NotWL Patch.esp
-    - Hold Guards - SoS Consistency Patch.esp
-    - Immersive Jewelry + AFP Patch.esp
-    - MM + LSC + AFP Patch.esp
-    - LydiaRemake.esp
-    - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
-    - CS_Melana+DLH Patch.esp
-    - BloodMoon Aela Overhaul - SMP Hair Patch.esp
-    - Lionheart Mjoll Overhaul - SMP Hair Patch.esp
-	- Rigmor Weight Patch
-    - Ciri Concept Art Armor - Consistency Tweak.esp
-    - Remove Weapon Glows.esp
-    - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
-    - Whiterun Terrain Fix.esp
-	- Whiterun Terrain Fix - Rigmor Patch.esp
-    - Falkreath Terrain Fix.esp
-    - Rift Terrain Fix.esp
-    - Haafingar Terrain Fix.esp
-    - Hjaalmarch Terrain Fix.esp
-    - Pale Terrain Fix.esp
-    - Winterhold Terrain Fix.esp
-    - Eastmarch Terrain Fix.esp
-    - HOE.esp
-    - Moss Mother Cavern Fix.esp
-    - Shadowgreen Cavern Fix.esp
-    - HPH - RM - Synthesis Patch.esp
-    - RemoveInteriorFog.esp
-    - WTT - Skyrim-Solstheim - Worldsettings.esp
-    - Water for ENB - Patch - Worldspace Transition Tweaks (Shades of Skyrim).esp
-    - DynDOLOD.esp
-    - Occlusion.esp
-    - IcePenguinWorldMap.esp
-
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/5164a2qszgocr1t/LOOT-backup-20251023T170501.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/5164a2qszgocr1t/LOOT-backup-20251023T170501.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
