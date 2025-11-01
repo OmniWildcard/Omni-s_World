@@ -33,7 +33,7 @@ These are the minimum recommended specifications to run the list though there ma
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
 
 # Introduction
-This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are included with this mod list as of v1.0.4.2; so be sure to run them again if you make any additions to the list that adds new worldspaces. You can find instructions on how to generate new LODs and Grass Cache along with the exact settings I use down in the <ins>**How to Update LODs**</ins> and <ins>**How to Update Grass Cache**</ins> sections. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled off without issue.
+This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every aspect; all-the-while striking a balance between realism and game-like convenience. xvLODGen and DynDOLOD 3's tools are included with this mod list as of v1.0.4.2; so be sure to run them again if you make any additions to the list that adds new worldspaces. You can find instructions on how to generate new LODs and Grass Cache along with the exact settings I use down in the <ins>**How to Update LODs**</ins> and <ins>**How to Update Grass Cache**</ins> sections. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled off without issue. As of v1.0.19.24 the Combat Pathing Revolution (CPR) - Patching Tool, HKAnnotation tool and MCO-BFCO converter tool are included. So, if you add any new animations, ensure you convert all animations to BFCO's format and annotations. You'll also want to update the equip and unequip animations using this tool to add the CPR annotations to the files. Without these CPR annotations, CPR breaks and stops working entirely; so it's important that any new animations, that aren't vanilla replacers, are properly patched to work with the system. If you need a guide on how to go about this process you can find a guide under the <ins>**How to Install and Prepare the HAVOK Development Tools**</ins> and <ins>**How to Update Animations**</ins> sections.
 
 If any of the included tools are ever out-of-date I suggest manually updating them, while keeping them within their MO2 directories, to avoid messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
 
@@ -86,6 +86,35 @@ Now, before playing, you should do the following things:
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
+
+## How to Install and Prepare the HAVOK Development Tools
+1) Download the HavokPcXsContentTools executable [here](https://www.mediafire.com/file_premium/q71wh6ixgowjf6q/HavokPcXsContentTools_X64_2010-2-0_20101115.exe/file).
+
+2) Install the Development Kit by running the executable.
+
+3) Go to the *hkanno64-001* folder, located in the *Patching Tools* folder, and copy the [ins]*win32.hko*[/ins] file into the *mco to bfco converter-119926-1-2-2-1735788590* folder.
+> [!Note]
+> You can now update the annotations of MCO animations to the BFCO annotations using the converter.
+
+## How to Update Animations
+1) First you'll want to launch the **MCO to BFCO Converter** via *Mod Organizer 2*.
+
+2) Next you'll want to select the target folder which contains the animations you want updated. Click the **Select Folder** button and navigate to the specific Animation Mod folder in your MO2 directory that you wish to patch. For the purposes of this example we'll navigate to <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2*</ins> and confirm our selection.
+
+3) Now press the **Run** button followed by the **Update Annotation** button and wait for it to finish.
+
+4) You can now exit out of the MCO to BFCO Converter.
+
+5) Now you want to launch the **CPR Patcher** via *Mod Organizer 2*.
+
+6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
+
+7) You will now match the settings from the image below to fill out the input fields in the UI that appears (see image below).
+<img width="635" height="589" alt="CPR Patcher Settings" src="https://github.com/user-attachments/assets/ea1d602a-8619-4a82-bac6-03535654b2e6" />
+
+8) Once you have filled out all the input fields you will click the **Start Patching** button and wait for it to complete.
+
+9) You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
 
 ## How to Update Grass Cache
 Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible. 
@@ -266,16 +295,13 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
 - [x] DynDOLOD issue with the Windmill on Katla's Farm | **Fixed as of v1.0.11.72**
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
-- [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
+- [x] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Some minor navmesh tweaks required in small towns and villages
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
 - **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
-	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed the first six main story quests before you begin. This will resolve any issues you should have with progression.
-
-- **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
-	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilize **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this results in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
+	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed Unbound and been told to go to the Jarl of Whiterun before talking to Rose.
 
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
