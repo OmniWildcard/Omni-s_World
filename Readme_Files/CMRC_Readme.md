@@ -105,7 +105,7 @@ Now, before playing, you should do the following things:
 
 4) You can now exit out of the MCO to BFCO Converter.
 
-5) Now you want to launch the **CPR Patcher** via *Mod Organizer 2*.
+5) Now you want to launch the **CPR Patcher Tool** via *Mod Organizer 2*.
 
 6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
 
@@ -114,7 +114,13 @@ Now, before playing, you should do the following things:
 
 8) Once you have filled out all the input fields you will click the **Start Patching** button and wait for it to complete.
 
-9) You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
+9) You may now exit the **CPR Patcher Tool**
+
+10) Run **Nemesis** via *Mod Organizer 2* and click both the **Update Engine** and **Launch Nemesis Behavior Engine** buttons.
+   
+11) Once they've both run to completion you may exit **Nemesis**.
+
+12) You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
 
 ## How to Update Grass Cache
 Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible. 
