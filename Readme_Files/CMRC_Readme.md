@@ -87,12 +87,10 @@ Now, before playing, you should do the following things:
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
 
-## How to Install and Prepare the HAVOK Development Tools
-1) Acquire the HavokPcXsContentTools executable.
+## How to Install and Prepare the HK Annotation Tools
+1) Acquire the neccessary prerequisites by following the instructions in the Readme located in the *hkanno64-001* folder.
 
-2) Install the Development Kit by running the executable.
-
-3) Go to the *hkanno64-001* folder, located in the *Patching Tools* folder, and copy the [ins]*win32.hko*[/ins] file into the *mco to bfco converter-119926-1-2-2-1735788590* folder.
+2) Go to the *hkanno64-001* folder, located in the *Patching Tools* folder, and copy the [ins]*win32.hko*[/ins] file into the *mco to bfco converter-119926-1-2-2-1735788590* folder.
 > [!Note]
 > You can now update the annotations of MCO animations to the BFCO annotations using the converter.
 
