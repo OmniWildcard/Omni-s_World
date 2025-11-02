@@ -57,7 +57,7 @@ Want to try the challenge run for yourself? Then simply [spin the wheel](https:/
 Most of all I hope you enjoy the list! It is the product of a lot of hard work creating a functional base that all my challenge lists could be based off of. So I hope you appreciate the effort and custom patch work that went into its creation. With that said let's move on to the installation instructions!
 
 ## What are the Controls?
-<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/949540f7-bcde-43e7-9bf9-a1fc79dfa1c2" />
+<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/8d4fda20-ddb3-44f6-a152-6ca3a972ba0b" />
 Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
 
 # Install Instructions
@@ -77,7 +77,9 @@ Now, before playing, you should do the following things:
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/h6dyawwvbwkrlqa/LOOT-backup-20251031T135947.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+4) Join the Improved Camera Discord server and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera version and ensure all old files from the included Improved Camera are removed. You can join the server by clicking this [link](https://discord.gg/improved-camera-se-1074109591966732328).
+
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/h6dyawwvbwkrlqa/LOOT-backup-20251031T135947.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
