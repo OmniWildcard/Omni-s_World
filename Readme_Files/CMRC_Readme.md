@@ -88,7 +88,7 @@ Now, before playing, you should do the following things:
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
 
 ## How to Install and Prepare the HAVOK Development Tools
-1) Download the HavokPcXsContentTools executable.
+1) Acquire the HavokPcXsContentTools executable.
 
 2) Install the Development Kit by running the executable.
 
