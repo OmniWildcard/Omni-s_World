@@ -77,12 +77,7 @@ Now, before playing, you should do the following things:
 	- 1NDArmor.esp
 	- 1FalconerArmor.esp
 
-4) Go to the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest beta build of Improved Camera v2.0 from their Updates channel. Then install it over the currently included version of Improved camera and rerun Nemesis.
-
-> [!WARNING]
-> You will encounter issues with SkyParkour v3.2.1 if you do not do this and your arms will disappear in-game if you use the system in 1st-person pov. Relaunching the game fixes this bug but it will reoccur if you do so again without this beta version of Improved Camera.
-
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/h6dyawwvbwkrlqa/LOOT-backup-20251031T135947.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/h6dyawwvbwkrlqa/LOOT-backup-20251031T135947.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
