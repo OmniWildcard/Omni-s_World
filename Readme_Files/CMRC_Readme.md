@@ -79,7 +79,9 @@ Now, before playing, you should do the following things:
 
 4) Join the Improved Camera Discord server and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera version and ensure all old files from the included Improved Camera are removed. You can join the server by clicking this [link](https://discord.gg/improved-camera-se-1074109591966732328).
 
-5) Open the ImprovedCameraSE.json file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change "Default" to "NoHeadbob" (with quotations) and save the changes.
+5) Open the ImprovedCameraSE.json file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+
+6) Now you want to open the Profiles folder located in that directory and edit the NoHeadbob.json file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
 7) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pjvrlt3wlpwhkvq/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
