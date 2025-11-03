@@ -79,9 +79,9 @@ Now, before playing, you should do the following things:
 
 4) Join the Improved Camera Discord server and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera version and ensure all old files from the included Improved Camera are removed. You can join the server by clicking this [link](https://discord.gg/improved-camera-se-1074109591966732328).
 
-5) Open the ImprovedCameraSE.json file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change "Default" to "NoHeadbob" and save the changes.
+5) Open the ImprovedCameraSE.json file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change "Default" to "NoHeadbob" (with quotations) and save the changes.
 
-6) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/h6dyawwvbwkrlqa/LOOT-backup-20251031T135947.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+7) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pjvrlt3wlpwhkvq/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
