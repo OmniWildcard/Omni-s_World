@@ -79,7 +79,7 @@ Now, before playing, you should do the following things:
 
 2) Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
 
-3) Copy the [ins]*win32.hko*[/ins] file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder.
+3) Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder.
 > [!Note]
 > You can now update the annotations of MCO animations to the BFCO annotations using the converter.
 
