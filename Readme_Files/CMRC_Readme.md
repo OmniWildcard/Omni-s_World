@@ -60,7 +60,7 @@ Most of all I hope you enjoy the list! It is the product of a lot of hard work c
 <img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/38fb5b36-9a8c-4822-9081-9cfcd6cac85b" />
 Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
 
-# Install Instructions
+# Post-Install Instructions
 Now, before playing, you should do the following things:
 
 1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
