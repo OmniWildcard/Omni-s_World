@@ -63,27 +63,13 @@ Eventually this will be viewable ingame via a Hotkey but for now I advise you sa
 # Install Instructions
 Now, before playing, you should do the following things:
 
-1) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
-	- 1NamelessSaber.esl
-	- 1NDArmor.esl
-	- 1FalconerArmor.esl
-	
-2) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
-	- TheLegends-NordArmor.esp
-	- 1YsmirArmorSE.esp
-	
-3) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
-	- 1NamelessSaber.esp
-	- 1NDArmor.esp
-	- 1FalconerArmor.esp
+1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
 
-4) Join the Improved Camera Discord server and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera version and ensure all old files from the included Improved Camera are removed. You can join the server by clicking this [link](https://discord.gg/improved-camera-se-1074109591966732328).
+2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
-5) Open the ImprovedCameraSE.json file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
-6) Now you want to open the Profiles folder located in that directory and edit the NoHeadbob.json file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
-
-7) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pjvrlt3wlpwhkvq/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pjvrlt3wlpwhkvq/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
