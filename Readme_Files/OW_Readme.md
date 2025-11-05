@@ -1,7 +1,7 @@
 > [!Important]
 > **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
-# Welcome to the *"End Times" Challenge* Readme!
-![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/8fdc9f6d-4a41-409b-b027-af2fc2218649)
+# Welcome to the *Omni's World* Readme!
+<img width="1920" height="1080" alt="Omni&#39;s World Mod Page Thumbnail" src="https://github.com/user-attachments/assets/6983a8e2-03be-40bc-9cf5-261ed71868ec" />
 
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
