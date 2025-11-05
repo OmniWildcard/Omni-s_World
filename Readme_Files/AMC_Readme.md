@@ -47,60 +47,61 @@ I'm glad you asked, because there are some things you should know before playing
 
 The challenge of this list comes from the mod, which the list and challenge run series were named after, [Ad Mortem](https://www.nexusmods.com/skyrimspecialedition/mods/130582). Ad Mortem adds functional permadeath to the base game of Skyrim. It manages this by making it so that when you perish all your save files for that character, with the exception of saves created within the first five real-world minutes, are deleted and an epitaph with your statistics for that run is recorded in a text file. As such, in keeping with the darker themes of this list, the popular quest mods **Darkend** and **VIGILANT** are included. With that said, go on, let's see how far you can get without dying in the unforgiving world this mod list creates!
 
-# Install Instructions
+## What are the Controls?
+<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/38fb5b36-9a8c-4822-9081-9cfcd6cac85b" />
+Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
+
+# Post-Install Instructions
 Now, before playing, you should do the following things:
 
-1) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
-	- 1NamelessSaber.esl
-	- 1NDArmor.esl
-	- 1FalconerArmor.esl
-	
-2) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
-	- TheLegends-NordArmor.esp
-	- 1YsmirArmorSE.esp
-	
-3) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
-	- 1NamelessSaber.esp
-	- 1NDArmor.esp
-	- 1FalconerArmor.esp
+1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
 
-4) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
-    - Alternate Perspectives - Misc Patches.esp
-    - Better Skyrim Parties - Misc Patches.esp
-    - Bijin AIO - Misc Patches.esp
-    - CACO - Misc Patches.esp
-    - Capital Windhelm Expansion - Misc Patches.esp
-    - Chooey's Choice - Misc Patches.esp
-    - COTN Falkreath - Misc Patches.esp
-    - Dark Elf Voices For Bandits - Misc Patches.esp
-    - Dawnguard Arsenal - Misc Patches.esp
-    - ESO Nord Weapons - Misc Patches.esp
-    - Fleeting Torches - Misc Patches.esp
-    - Immersive Jewelry - Misc Patches.esp
-    - Immersive Weapons - Misc Patches.esp
-    - JK's Winking Skeever - Misc Patches.esp
-    - Modpocalypse - Misc Patches.esp
-    - Orc Stalkers Fix - Misc Patches.esp
-    - Return Aegisbane - Misc Patches.esp
-    - Save the Ice-Runner - Misc Patches.esp
-    - Simple Children - Misc Patches.esp
-    - Crows and Ravens - NotWL Patch.esp
-    - SDA - Consistency Patch.esp
-    - LydiaRemake.esp
-    - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
-    - CS_Melana+DLH Patch.esp
-    - Ciri Concept Art Armor - Consistency Tweak.esp
-    - Remove Weapon Glows.esp
-    - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
-    - Whiterun Terrain Fix.esp
-    - Falkreath Terrain Fix.esp
-    - Rift Terrain Fix.esp
-    - Haafingar Terrain Fix.esp
-    - Shadowgreen Cavern Fix.esp
-    - RemoveInteriorFog.esp
-    - DynDOLOD.esp
-    - Occlusion.esp
-    - IcePenguinWorldMap.esp
+2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+
+3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+
+4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pjvrlt3wlpwhkvq/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+
+> [!Note]
+> The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
+
+## How to Install and Prepare the HK Annotation Tools
+1) Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>. 
+
+2) Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
+
+3) Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>.
+> [!Note]
+> You can now update the annotations of MCO animations to the BFCO annotations using the converter.
+
+## How to Update Animations
+1) First you'll want to launch the **MCO to BFCO Converter** via *Mod Organizer 2*.
+
+2) Next you'll want to select the target folder which contains the animations you want updated. Click the **Select Folder** button and navigate to the specific Animation Mod folder in your MO2 directory that you wish to patch. For the purposes of this example we'll navigate to <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2*</ins> and confirm our selection.
+
+3) Now press the **Run** button followed by the **Update Annotation** button and wait for it to finish.
+
+4) You can now exit out of the MCO to BFCO Converter.
+
+5) Now you want to launch the **CPR Patcher Tool** via *Mod Organizer 2*.
+
+6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
+
+7) You will now match the settings from the image below to fill out the input fields in the UI that appears (see image below).
+<img width="635" height="589" alt="CPR Patcher Settings" src="https://github.com/user-attachments/assets/ea1d602a-8619-4a82-bac6-03535654b2e6" />
+
+8) Once you have filled out all the input fields you will click the **Start Patching** button and wait for it to complete.
+
+9) You may now exit the **CPR Patcher Tool**
+
+10) Run **Nemesis** via *Mod Organizer 2* and click both the **Update Engine** and **Launch Nemesis Behavior Engine** buttons.
+   
+11) Once they've both run to completion you may exit **Nemesis**.
+
+12) You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
+
+> [!Note]
+> The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
 
 ## How to Update Grass Cache
 Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible. 
@@ -163,20 +164,24 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 
 ### Generating the New Grass Cache
 1) First, you want to disable several mods in the list as they can cause the Grass Cache to crash during generation or even prevent it from completing (see image below).
-![Grass Cache Generation 1](https://github.com/user-attachments/assets/f8d8482b-b7b0-4f92-808d-7be80eea518f)
+![Grass Cache Generation 1](https://github.com/user-attachments/assets/63f8cf67-a4e2-4390-b777-7f2dad483728)
 
 2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
 ![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
 
-3) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
-![Grass Cache Generation 3](https://github.com/user-attachments/assets/3dcf5d66-935f-463e-b5d8-e1760cbd65a7)
+3) The last few things you'll want to do is ensure that <ins>*Grass Bound Records*</ins> and <ins>*Northern Roads - NGIO Patch*</ins> is enabled; then, finally, ensure that the existing <ins>*Grass Cache*</ins> is disabled before you begin the process of precaching the grass (see image below).
+![Final Preparation for Precache Process](https://github.com/user-attachments/assets/0fbd35de-4146-4751-aa40-1f9916053b7f)
 
-4) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
+4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
+![Grass Cache Generation 3](https://github.com/user-attachments/assets/85a08648-bb57-4046-96de-3c10936be45e)
 
-5) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+5) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
 
-6) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 (see image below).
+6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+
+7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66, disable <ins>*Grass Bound Records*</ins>, disable the <ins>*Northern Roads - NGIO Patch*</ins> and re-enable the mods you disabled in step 1 (see images below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
+![Post-Precache Process Cleanup](https://github.com/user-attachments/assets/8e188486-a69e-471a-aab1-b7cd7d81f9bb)
 
 ## How to Update LODs
 I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
@@ -185,8 +190,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 > **For the sake of simplicity, the instructions are divided into subsections.**
 
 ### Updating the SSELODGen_Ouput
-1) First, you want to make sure <ins>*xLODGen Resources - SSE Terrain Tamriel*</ins> is enabled and launch **SSELODGenx64** (see image below).
-![LODGen Resources](https://github.com/user-attachments/assets/f4422f47-fe73-40aa-8a77-91dd8de244e2)
+1) First, you want to launch **SSELODGenx64**.
 
 2) When you get to the **LODGen Options** menu you'll want to tick the boxes of all the worldspaces available for LOD generation, ensure the box next to <ins>*Seasons*</ins> is unticked, and that only <ins>*Terrain LOD*</ins> is selected (see image below).
 ![Regions + Seasons](https://github.com/user-attachments/assets/3b1003e9-1c4d-4ad8-b10f-da3e7a5fe762)
@@ -204,8 +208,8 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![Turn off LODGen Resources](https://github.com/user-attachments/assets/65ac73c7-3ca1-4286-94bd-a72830ea8e63)
 
 ### Updating the TexGen_Output
-1) First, you want to make sure that <ins>*Grass Bound Records*</ins> is disabled and launch **TexGenx64** (see image below).
-![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/0984638e-1759-49a4-9fd9-d1129f6bac6b)
+1) First, you want to re-enable <ins>*Grass Bound Records*</ins> and launch **TexGenx64** (see image below).
+![Ensure Grass Bound Records is On](https://github.com/user-attachments/assets/28a2eeda-64e9-4c06-a2e0-e2c3dc96fa87)
 
 2) After launching TexGenx64 you will be greeted by a screen with a set of options. Select the **-SSE = Skyrim SE, Skyrim AE or Enderal SE mod version** option and then press the **Start TexGen** button (see image below).
 
@@ -213,9 +217,12 @@ I use very specific settings when generating the LODs for these lists so, if you
 
 3) Once you do so you will eventually reach the **TexGen Options** menu. Ensure your settings for <ins>*Stitched Object LOD Textures*</ins>, <ins>*Rendered Object LOD Textures*</ins> and <ins>*Tree/Grass LOD Billboards*</ins> match mine and then press the **Start** button at the bottom to begin processing (see image below).
 
-![TexGen Options](https://github.com/user-attachments/assets/9e89e69d-7e58-4698-acf4-63869f16909d)
+![TexGen Options](https://github.com/user-attachments/assets/f750caa2-02ba-40ee-b0c3-f9b61b118557)
 
 4) When the process completes you will be prompted with several options. If you select **Exit TexGen** you will simply cut-and-paste the generated *TexGen_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *TexGen_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
+
+5) Finally, ensure that <ins>*Grass Bound Records*</ins> is disabled once more before proceeding to the next step. 
+![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/bcb1f491-39d1-4bcc-a5f6-431330c29cb6)
 
 ### Updating the DynDOLOD_Output
 1) First, you will want to find the *DynDOLOD_SSE.ini* located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD > Edit Scripts > DynDOLOD*</ins> and change the 11th line from **Expert=0** to **Expert=1** and launch **DynDOLODx64** via *Mod Organizer 2* (see image below).
@@ -235,9 +242,41 @@ I use very specific settings when generating the LODs for these lists so, if you
 ![Rules settings](https://github.com/user-attachments/assets/b269f1af-4e34-4923-8677-7020594ee11a)
 
 6) Now we move on to the final step before processing, the <ins>*Options*</ins> section of the interface. Make sure your settings match mine and then press the **OK** button to start DynDOLOD generation (see image below).
-![Options](https://github.com/user-attachments/assets/229def86-03e3-480f-b29d-0cc1bf878878)
+![Options](https://github.com/user-attachments/assets/6e3877dc-ca42-4b29-892f-dc2af3dbad73)
 
 7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
+> [!Note]
+> If you get any warnings from **DynDOLOD** about *BSXFlags* during processing it is safe to ignore them. It's intentional and caused by the **Remove Small Rocks** mod that removes the small pebbles placed by the vanilla game.
+
+### Updating Autorun.txt Records
+1) First you want to launch **SSEEdit**.
+
+2) Upon loading it will bring up a module selection screen. Simply click the **OK** button in the lower-right of the window to proceed (see image below).
+![Module Selection Screen 1](https://github.com/user-attachments/assets/09dea140-7180-4820-bf4d-11340e6a365d)
+
+3) Eventually it will bring up a mod group selection screen. Ensure all boxes are ticked and click the **OK** button in the lower-right to proceed (see image below).
+![Module Selection Screen 2](https://github.com/user-attachments/assets/7d1dc420-39e4-4be9-99cd-4e53360ab6c9)
+
+4) Now you want to navigate down to the bottom of the list and find DynDOLOD.esp. Expand the section by pressing the box with a + symbol in it and then further expand it until you reach the section in the provided screenshot (see image below).
+![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/8e3001a0-f0d3-4874-9e31-87723cdd70a3)
+
+5) Now scroll down through the entries until you reach the entry shown in the provided screenshot and record the **Reference ID** for later use (see image below).
+![Locating the Offending Record](https://github.com/user-attachments/assets/e182e3ad-4f6a-4442-8827-841960f2f807)
+
+6) Next you want to sort entries by name and locate the entries shown in the provided screenshot and record their **Reference IDs** for later use (see image below).
+![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/73211325-0a2f-4265-96b9-ba29898d5b20)
+
+7) Afterwards you will open up the **Autorun.txt** file located under <ins>*MO2 > mods > Autorun*</ins>. Change the entry specified in the provided screenshot to the Reference ID you recorded in step 5 (see image below).
+![Edit the Autorun Text File](https://github.com/user-attachments/assets/51efc5ec-1ad6-4cae-b417-c483a13ed234)
+
+8) Finally you will update the entries specified in the provided screenshot to the Reference IDs recorded in step 6 (see image below).
+![DynDOLOD Workaround Instructions 7](https://github.com/user-attachments/assets/078d1e62-68a6-485a-b447-0d25278058f3)
+
+9) Afterwards simply save the changes and close the window.
+
+## Conclusion
+With that all dealt with you've completed the process of generating a new Grass Cache, updated the LODs to include your new worldspaces and updated the precautionary Autorun records to the new IDs. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
+![VaultBoySkyrim -50](https://github.com/user-attachments/assets/0c1c9ce0-003b-4b36-bda1-6bc0a037d223)
 
 # Known Issues
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
