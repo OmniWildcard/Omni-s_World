@@ -52,72 +52,58 @@ Now, you might ask, what is the challenge that is at the center of this list's f
 
 If you wish to completely replicate the rules I set forth for my own version of this challenge run you will need to be able to change the timer settings, which are locked by default. To do this simply go down to the **Maintenance** section of the **End Times** and **End Times Dawnguard** MCM menus and tick the box next to **Debug**. This will allow you to unlock the settings and lower the timers by one day for every death as I did in my run. Beyond that there's nothing more to say other than that I hope you enjoy the list and I wish you luck with your challenge run!
 
-# Install Instructions
+## What are the Controls?
+<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/38fb5b36-9a8c-4822-9081-9cfcd6cac85b" />
+Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
+
+# Post-Install Instructions
 Now, before playing, you should do the following things:
 
-1) Ensure the following ESL files are disabled in your load order (look under the plugins tab if using MO2):
-	- 1NamelessSaber.esl
-	- 1NDArmor.esl
-	- 1FalconerArmor.esl
-	
-2) Ensure the following ESP files are disabled in your load order (look under the plugins tab if using MO2):
-	- TheLegends-NordArmor.esp
-	- 1YsmirArmorSE.esp
-	
-3) Ensure the following ESP files are enabled in your load order (look under the plugins tab if using MO2):
-	- 1NamelessSaber.esp
-	- 1NDArmor.esp
-	- 1FalconerArmor.esp
+1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
 
-4) Ensure the various patches are at the bottom of the load order. The bottom of your load order (located under the plugins tab if using MO2) should look like this:
-    - Alternate Perspectives - Misc Patches.esp
-    - Better Skyrim Parties - Misc Patches.esp
-    - Bijin AIO - Misc Patches.esp
-    - Capital Windhelm Expansion - Misc Patches.esp
-    - Chooey's Choice - Misc Patches.esp
-    - COTN Falkreath - Misc Patches.esp
-    - Dark Elf Voices For Bandits - Misc Patches.esp
-    - Dawnguard Arsenal - Misc Patches.esp
-    - ESO Nord Weapons - Misc Patches.esp
-    - Fleeting Torches - Misc Patches.esp
-    - Immersive Jewelry - Misc Patches.esp
-    - Immersive Weapons - Misc Patches.esp
-    - JK's Winking Skeever - Misc Patches.esp
-    - Modpocalypse - Misc Patches.esp
-    - Orc Stalkers Fix - Misc Patches.esp
-    - Return Aegisbane - Misc Patches.esp
-    - Rigmor of Cyrodiil - Misc Patches.esp
-    - Save the Ice-Runner - Misc Patches.esp
-    - Simple Children - Misc Patches.esp
-    - Crows and Ravens - NotWL Patch.esp
-    - Hold Guards - SoS Consistency Patch.esp
-    - Immersive Jewelry + AFP Patch.esp
-    - MM + LSC + AFP Patch.esp
-    - LydiaRemake.esp
-    - LydiaRemake HDT Improved Follower Dialogue - Lydia Patch.esp
-    - CS_Melana+DLH Patch.esp
-    - BloodMoon Aela Overhaul - SMP Hair Patch.esp
-    - Lionheart Mjoll Overhaul - SMP Hair Patch.esp
-    - Ciri Concept Art Armor - Consistency Tweak.esp
-    - Remove Weapon Glows.esp
-    - RaSeaSky - NO RAVEN SPAWNS - Patch.esp
-    - Whiterun Terrain Fix.esp
-    - Falkreath Terrain Fix.esp
-    - Rift Terrain Fix.esp
-    - Haafingar Terrain Fix.esp
-    - Hjaalmarch Terrain Fix.esp
-    - Pale Terrain Fix.esp
-    - Winterhold Terrain Fix.esp
-    - Eastmarch Terrain Fix.esp
-    - Moss Mother Cavern Fix.esp
-    - Shadowgreen Cavern Fix.esp
-    - HPH - RM - Synthesis Patch.esp
-    - RemoveInteriorFog.esp
-    - DynDOLOD.esp
-    - Occlusion.esp
-    - IcePenguinWorldMap.esp
+2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
-5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/96k3xi4dxnz3rlm/LOOT-backup-20250507T020857.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+
+4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/pjvrlt3wlpwhkvq/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+
+> [!Note]
+> The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
+
+## How to Install and Prepare the HK Annotation Tools
+1) Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>. 
+
+2) Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
+
+3) Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>.
+> [!Note]
+> You can now update the annotations of MCO animations to the BFCO annotations using the converter.
+
+## How to Update Animations
+1) First you'll want to launch the **MCO to BFCO Converter** via *Mod Organizer 2*.
+
+2) Next you'll want to select the target folder which contains the animations you want updated. Click the **Select Folder** button and navigate to the specific Animation Mod folder in your MO2 directory that you wish to patch. For the purposes of this example we'll navigate to <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2*</ins> and confirm our selection.
+
+3) Now press the **Run** button followed by the **Update Annotation** button and wait for it to finish.
+
+4) You can now exit out of the MCO to BFCO Converter.
+
+5) Now you want to launch the **CPR Patcher Tool** via *Mod Organizer 2*.
+
+6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
+
+7) You will now match the settings from the image below to fill out the input fields in the UI that appears (see image below).
+<img width="635" height="589" alt="CPR Patcher Settings" src="https://github.com/user-attachments/assets/ea1d602a-8619-4a82-bac6-03535654b2e6" />
+
+8) Once you have filled out all the input fields you will click the **Start Patching** button and wait for it to complete.
+
+9) You may now exit the **CPR Patcher Tool**
+
+10) Run **Nemesis** via *Mod Organizer 2* and click both the **Update Engine** and **Launch Nemesis Behavior Engine** buttons.
+   
+11) Once they've both run to completion you may exit **Nemesis**.
+
+12) You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
