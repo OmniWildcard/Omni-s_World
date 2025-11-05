@@ -266,15 +266,15 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [x] Floating grass near the Solitude Lumber Mill | **Fixed as of v1.0.8.0**
 - [x] Missing texture on the hook of the hoist at the Solitude Lumber Mill | **Fixed as of v1.0.8.0**
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.8.0**
-- [ ] DynDOLOD issue with the Windmill on Katla's Farm
+- [x] DynDOLOD issue with the Windmill on Katla's Farm | **Fixed as of v1.0.19.24**
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
-- [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
+- [x] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower | **Fixed as of v1.0.19.24**
 - [ ] Some minor navmesh tweaks required in small towns and villages
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
-- **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
-	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilized **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this results in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
+- **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
+	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed Unbound and been told to go to the Jarl of Whiterun before talking to Rose.
 
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
