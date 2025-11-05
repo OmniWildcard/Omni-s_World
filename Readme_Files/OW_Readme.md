@@ -1,7 +1,7 @@
 > [!Important]
 > **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
-# Welcome to the *Ad Mortem Challenge* Readme!
-![AMC Mod Page Thumbnail](https://github.com/user-attachments/assets/9d62aaa6-a316-4c48-8d47-4c4eced87a5d)
+# Welcome to the *"End Times" Challenge* Readme!
+![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/8fdc9f6d-4a41-409b-b027-af2fc2218649)
 
 > [!Warning]
 > **This list requires v1.6.1170.0 of Skyrim**
@@ -24,7 +24,7 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or AMD equivalent (Older GPUs might work but I can't guarantee decent performance)
 - 64 GB RAM
 - 40 GB Pagefile
-- At least 500 GB of free space
+- At least 550 GB of free space
 
 ## Backup Download Links
 TEMPORARILY UNAVAILABLE
@@ -34,18 +34,16 @@ This mod list runs off of the BFCO combat system which mixes modern and vanilla 
 
 If any of the included tools are ever out-of-date I suggest manually updating them, while keeping them within their MO2 directories, to avoid messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
 
-If you wanted to see the list in action you can visit my YouTube channel and watch the episodic series covering the challenge run this mod list is named after. I also have a Discord server where I offer support for the mod list and post updates for when I go live or post videos.
+If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord server where I offer support for the mod list and post updates for when I go live, post videos or release updates to my various mod lists.
 
 To join the Discord use the link below:
 - https://discord.gg/rMZKDNrZQS
 
+To find my Twitch channel use the link below:
+- https://twitch.tv/omnithestarspawn
+
 And to find my YouTube channel use the link below:
 - https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
-
-## What's the Challenge for this List?
-I'm glad you asked, because there are some things you should know before playing this list for the first time. First-off, however, if you want to forego the challenge elements you can disable them in your mod list via *Mod Organizer 2* by un-ticking the box next to the associated mods located under the **Modular Gameplay** section.
-
-The challenge of this list comes from the mod, which the list and challenge run series were named after, [Ad Mortem](https://www.nexusmods.com/skyrimspecialedition/mods/130582). Ad Mortem adds functional permadeath to the base game of Skyrim. It manages this by making it so that when you perish all your save files for that character, with the exception of saves created within the first five real-world minutes, are deleted and an epitaph with your statistics for that run is recorded in a text file. As such, in keeping with the darker themes of this list, the popular quest mods **Darkend** and **VIGILANT** are included. With that said, go on, let's see how far you can get without dying in the unforgiving world this mod list creates!
 
 ## What are the Controls?
 <img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/38fb5b36-9a8c-4822-9081-9cfcd6cac85b" />
@@ -284,6 +282,9 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
+- **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
+	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed Unbound and been told to go to the Jarl of Whiterun before talking to Rose.
+
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
 
