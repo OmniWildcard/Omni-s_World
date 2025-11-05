@@ -280,14 +280,13 @@ With that all dealt with you've completed the process of generating a new Grass 
 
 # Known Issues
 - [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
-- [ ] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Various landscape seams in need of fixing
 - [ ] Some minor navmesh tweaks required in small towns and villages
 - [ ] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
-- **Question:** I'm getting CTDs that point to HDT-SMP in the crash log. How do I fix this?
-	- **Answer:** This is likely due to how *FSMP* is setup and installed by default with my lists. The default settings utilized **CUDA** and **AVX2**, which may not be supported by your *GPU* or *CPU*, and this results in crashes. To remedy this you'll need to reinstall *FSMP* and choose the appropriate options for your hardware.
+- **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
+	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed Unbound and been told to go to the Jarl of Whiterun before talking to Rose.
 
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
