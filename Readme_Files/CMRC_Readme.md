@@ -65,7 +65,7 @@ Now, before playing, you should do the following things:
 
 1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
 
-2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2(CMRC) > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
 3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
@@ -75,11 +75,11 @@ Now, before playing, you should do the following things:
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
 
 ## How to Install and Prepare the HK Annotation Tools
-1) Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>. 
+1) Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>. 
 
 2) Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
 
-3) Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>.
+3) Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>.
 > [!Note]
 > You can now update the annotations of MCO animations to the BFCO annotations using the converter.
 
@@ -94,7 +94,7 @@ Now, before playing, you should do the following things:
 
 5) Now you want to launch the **CPR Patcher Tool** via *Mod Organizer 2*.
 
-6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
+6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2(CMRC) > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
 
 7) You will now match the settings from the image below to fill out the input fields in the UI that appears (see image below).
 <img width="635" height="589" alt="CPR Patcher Settings" src="https://github.com/user-attachments/assets/ea1d602a-8619-4a82-bac6-03535654b2e6" />
@@ -137,7 +137,7 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 6) This will bring you to a second screen. Ignore the options it presents and simply click the **OK** button to continue (see image below).
 ![Apply Scripts 3](https://github.com/user-attachments/assets/f7867eee-7b82-49a2-9593-f329cafadf72)
 
-7) Let the script run and it will eventually prompt you with another screen. You'll want to copy-and-paste the output into your **GrassControl.ini** file, located under <ins>*Modding > MO2 > mods > Grasscontrol.ini > SKSE > Plugins*</ins>, and place it within the quotations under the highlighted section. Only after all of this is done should you click the **OK** button to proceed (see images below).
+7) Let the script run and it will eventually prompt you with another screen. You'll want to copy-and-paste the output into your **GrassControl.ini** file, located under <ins>*Modding > MO2(CMRC) > mods > Grasscontrol.ini > SKSE > Plugins*</ins>, and place it within the quotations under the highlighted section. Only after all of this is done should you click the **OK** button to proceed (see images below).
 ![Apply Scripts 4](https://github.com/user-attachments/assets/61509eb1-48fd-4e0e-8afc-70166f3b4f12)
 ![Apply Scripts 5](https://github.com/user-attachments/assets/27b083dd-39b8-419f-9c87-250670924531)
 
@@ -172,10 +172,10 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 1) First, you want to disable several mods in the list as they can cause the Grass Cache to crash during generation or even prevent it from completing (see image below).
 ![Grass Cache Generation 1](https://github.com/user-attachments/assets/63f8cf67-a4e2-4390-b777-7f2dad483728)
 
-2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
+2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2(CMRC) > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
 ![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
 
-3) The last few things you'll want to do is ensure that <ins>*Grass Bound Records*</ins> and <ins>*Northern Roads - NGIO Patch*</ins> is enabled; then, finally, ensure that the existing <ins>*Grass Cache*</ins> is disabled before you begin the process of precaching the grass (see image below).
+3) The last few things you'll want to do is ensure that <ins>*Grass Bound Records*</ins> is enabled; then, finally, ensure that the existing <ins>*Grass Cache*</ins> is disabled before you begin the process of precaching the grass (see image below).
 ![Final Preparation for Precache Process](https://github.com/user-attachments/assets/0fbd35de-4146-4751-aa40-1f9916053b7f)
 
 4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
@@ -183,9 +183,9 @@ Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and 
 
 5) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
 
-6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
+6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2(CMRC) > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
 
-7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66, disable <ins>*Grass Bound Records*</ins>, disable the <ins>*Northern Roads - NGIO Patch*</ins> and re-enable the mods you disabled in step 1 (see images below).
+7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66 then disable <ins>*Grass Bound Records*</ins> and re-enable the mods you disabled in step 1 (see images below).
 ![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
 ![Post-Precache Process Cleanup](https://github.com/user-attachments/assets/8e188486-a69e-471a-aab1-b7cd7d81f9bb)
 
@@ -225,13 +225,13 @@ I use very specific settings when generating the LODs for these lists so, if you
 
 ![TexGen Options](https://github.com/user-attachments/assets/f750caa2-02ba-40ee-b0c3-f9b61b118557)
 
-4) When the process completes you will be prompted with several options. If you select **Exit TexGen** you will simply cut-and-paste the generated *TexGen_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *TexGen_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
+4) When the process completes you will be prompted with several options. If you select **Exit TexGen** you will simply cut-and-paste the generated *TexGen_Output* folder, located under <ins>*Modding > MO2(CMRC) > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *TexGen_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 
 5) Finally, ensure that <ins>*Grass Bound Records*</ins> is disabled once more before proceeding to the next step. 
 ![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/bcb1f491-39d1-4bcc-a5f6-431330c29cb6)
 
 ### Updating the DynDOLOD_Output
-1) First, you will want to find the *DynDOLOD_SSE.ini* located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD > Edit Scripts > DynDOLOD*</ins> and change the 11th line from **Expert=0** to **Expert=1** and launch **DynDOLODx64** via *Mod Organizer 2* (see image below).
+1) First, you will want to find the *DynDOLOD_SSE.ini* located under <ins>*Modding > MO2(CMRC) > LOD Generation Tools > DynDOLOD > Edit Scripts > DynDOLOD*</ins> and change the 11th line from **Expert=0** to **Expert=1** and launch **DynDOLODx64** via *Mod Organizer 2* (see image below).
 ![Change to Expert mode](https://github.com/user-attachments/assets/f3b8c5d5-601b-4df1-86ba-438d80162e8f)
 
 2) After launching **DynDOLODx64** you will eventually be greeted with a screen that provides a series of options. Select the **-SSE = Skyrim SE, Skyrim AE or Enderal SE mod version** option and then press the **Start DynDOLOD** button (see image below).
@@ -250,7 +250,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 6) Now we move on to the final step before processing, the <ins>*Options*</ins> section of the interface. Make sure your settings match mine and then press the **OK** button to start DynDOLOD generation (see image below).
 ![Options](https://github.com/user-attachments/assets/6e3877dc-ca42-4b29-892f-dc2af3dbad73)
 
-7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
+7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2(CMRC) > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2(CMRC) > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
 > [!Note]
 > If you get any warnings from **DynDOLOD** about *BSXFlags* during processing it is safe to ignore them. It's intentional and caused by the **Remove Small Rocks** mod that removes the small pebbles placed by the vanilla game.
 
@@ -272,7 +272,7 @@ I use very specific settings when generating the LODs for these lists so, if you
 6) Next you want to sort entries by name and locate the entries shown in the provided screenshot and record their **Reference IDs** for later use (see image below).
 ![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/73211325-0a2f-4265-96b9-ba29898d5b20)
 
-7) Afterwards you will open up the **Autorun.txt** file located under <ins>*MO2 > mods > Autorun*</ins>. Change the entry specified in the provided screenshot to the Reference ID you recorded in step 5 (see image below).
+7) Afterwards you will open up the **Autorun.txt** file located under <ins>*MO2(CMRC) > mods > Autorun*</ins>. Change the entry specified in the provided screenshot to the Reference ID you recorded in step 5 (see image below).
 ![Edit the Autorun Text File](https://github.com/user-attachments/assets/51efc5ec-1ad6-4cae-b417-c483a13ed234)
 
 8) Finally you will update the entries specified in the provided screenshot to the Reference IDs recorded in step 6 (see image below).
