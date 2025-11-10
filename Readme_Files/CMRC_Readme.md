@@ -65,9 +65,9 @@ Now, before playing, you should do the following things:
 
 1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
 
-2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2(CMRC) > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2(CMRC) > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change <ins>**"Default"**</ins> to <ins>**"NoHeadbob"**</ins> while being sure to enter the underlined text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
-3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry <ins>**"fCombatDistance": 7.0,**</ins> to <ins>**"fCombatDistance": 2.0,**</ins> while being sure to enter the underlined text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
 4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/ds36is4qrnx50m4/LOOT-backup-20251109T224845.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
