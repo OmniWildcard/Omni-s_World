@@ -65,6 +65,9 @@ Now, before playing, you should do the following things:
 
 1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
 
+> [!Note]
+> Make sure you use the drop-down menu to select the name **Improved Camera SE** for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order.
+
 2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2(CMRC) > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to <ins>**"NoHeadbob"**</ins> while being sure to enter the underlined text in bold exactly as it appears in this Readme. Afterwards save the changes.
 
 3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to <ins>**"fCombatDistance": 2.0,**</ins> while being sure to enter the underlined text in bold exactly as it appears in this Readme. Afterwards save the changes.
