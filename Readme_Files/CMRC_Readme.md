@@ -24,7 +24,7 @@ These are the minimum recommended specifications to run the list though there ma
 - NVIDIA GeForce RTX 4070 Ti or AMD equivalent (Older GPUs might work but I can't guarantee decent performance)
 - 64 GB RAM
 - 40 GB Pagefile
-- At least 505 GB of free space
+- At least 542 GB of free space (195 GB for Downloads + 30 GB Free Space & 317 GB for Installation)
 
 ## Backup Download Links
 - [Download v1.0.21.0]() **[!] Latest Version**
