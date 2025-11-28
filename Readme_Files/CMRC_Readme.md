@@ -21,8 +21,8 @@
 ## Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
 - 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models (AVX1 Support is a Hard-Requirement)
-- A GPU with at least 16 GB VRAM is recommended or you will experience major performance dips in the Whiterun Outskirts
-- 64 GB RAM
+- A GPU with at least 12-16 GB VRAM is recommended or you will experience major performance dips in the Whiterun Outskirts
+- 32-64 GB RAM
 - 40 GB Pagefile
 - At least 542 GB of free space (195 GB for Downloads + 30 GB Free Space & 317 GB for Installation)
 
