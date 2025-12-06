@@ -24,10 +24,10 @@ These are the minimum recommended specifications to run the list though there ma
 - A GPU with at least 12-16 GB VRAM is recommended or you will experience major performance dips in the Whiterun Outskirts
 - 32-64 GB RAM
 - 40 GB Pagefile
-- At least 542 GB of free space (195 GB for Downloads + 30 GB Free Space & 317 GB for Installation)
+- At least 595 GB of free space (217 GB for Downloads + 30 GB Free Space & 349 GB for Installation)
 
 ## Backup Download Links
-- [Download v1.0.22.0](https://www.mediafire.com/file_premium/3hu2mxdp2m6mdfg/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.23.0](https://www.mediafire.com/file_premium/s4q3wl1a0drjw6c/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
