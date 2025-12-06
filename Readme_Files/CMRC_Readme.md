@@ -72,7 +72,9 @@ Now, before playing, you should do the following things:
 
 3) Next you'll want to navigate to the Improved Camera SE profile folder for the beta build, which if you followed my instructions will be <ins>*MO2 > mods > Improved Camera SE > SKSE > Plugins > ImprovedCameraSE > Profiles*</ins> and open the Default.json file in notepad. After that change line 138 of Headbob.json from **"bEnableFirstPersonArmsMovement": false,** to **"bEnableFirstPersonArmsMovement": true,** and save your changes.
 
-4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/3jz3oo03sx16leu/LOOT-backup-20251202T072117.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+4) Finally go to Dynamic Sprint in your load order and remove all animations except the combat animations. This will fix the exaggerated headbob while sprinting out of combat.
+
+5) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/3jz3oo03sx16leu/LOOT-backup-20251202T072117.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
