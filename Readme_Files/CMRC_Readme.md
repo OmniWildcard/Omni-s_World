@@ -57,7 +57,7 @@ Want to try the challenge run for yourself? Then simply [spin the wheel](https:/
 Most of all I hope you enjoy the list! It is the product of a lot of hard work creating a functional base that all my challenge lists could be based off of. So I hope you appreciate the effort and custom patch work that went into its creation. With that said let's move on to the installation instructions!
 
 ## What are the Controls?
-<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/41e0fceb-c235-4ceb-b925-adfe3bbbbbf1" />
+<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/7a8d2805-29a7-44d4-a767-1d17da8010dc" />
 Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
 
 # Post-Install Instructions
