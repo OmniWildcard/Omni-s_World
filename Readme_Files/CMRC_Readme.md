@@ -27,7 +27,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 595 GB of free space (216 GB for Downloads + 30 GB Free Space & 349 GB for Installation)
 
 ## Backup Download Links
-- [Download v1.0.23.1]() **[!] Latest Version**
+- [Download v1.0.24.0]() **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -72,6 +72,9 @@ Now, before playing, you should do the following things:
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
+
+> [!WARNING]
+> The following sections are currently under construction and in the process of being updated. Information contained within may be out-of-date and thus inaccurate to the current build of the list. Proceed at your own risk.
 
 ## How to Install and Prepare the HK Annotation Tools
 1) Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>. 
