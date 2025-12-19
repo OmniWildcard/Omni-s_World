@@ -27,7 +27,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 617 GB of free space (224 GB for Downloads + 30 GB Free Space & 363 GB for Installation)
 
 ## Backup Download Links
-- [Download v1.0.24.1]() **[!] Latest Version**
+- [Download v1.0.24.1](https://www.mediafire.com/file_premium/xyyux5xohqbuoo7/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
