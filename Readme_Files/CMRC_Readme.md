@@ -68,7 +68,7 @@ Now, before playing, you should do the following things:
 > [!Note]
 > Make sure you use the drop-down menu to select the name <ins>**Improved Camera SE**</ins> for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order. Also be sure to click replace when prompted by *Mod Organizer 2* so that all the old files are cleared out automatically.
 
-2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/qe3eoddib8n2a4y/LOOT-backup-20251220T110418.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/yw9mf9cnazpj47t/LOOT-backup-20251222T163332.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
