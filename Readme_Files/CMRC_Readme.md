@@ -27,7 +27,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 617 GB of free space (224 GB for Downloads + 30 GB Free Space & 363 GB for Installation)
 
 ## Backup Download Links
-- [Download v1.0.24.3](https://www.mediafire.com/file_premium/rq30i7tccbqskq1/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.25.0]() **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -57,7 +57,7 @@ Want to try the challenge run for yourself? Then simply [spin the wheel](https:/
 Most of all I hope you enjoy the list! It is the product of a lot of hard work creating a functional base that all my challenge lists could be based off of. So I hope you appreciate the effort and custom patch work that went into its creation. With that said let's move on to the installation instructions!
 
 ## What are the Controls?
-<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/7a8d2805-29a7-44d4-a767-1d17da8010dc" />
+<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/df137a41-c509-4432-9fd8-7a73c5854715" />
 Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
 
 # Post-Install Instructions
@@ -68,7 +68,12 @@ Now, before playing, you should do the following things:
 > [!Note]
 > Make sure you use the drop-down menu to select the name <ins>**Improved Camera SE**</ins> for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order. Also be sure to click replace when prompted by *Mod Organizer 2* so that all the old files are cleared out automatically.
 
-2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/yw9mf9cnazpj47t/LOOT-backup-20251222T163332.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+2) Download the appropriate DLL resource for your GPU based on the manufacturer and place it within the appropriate location found under <ins>*Modding> MO2 > mods > Upscaler Base Plugin > UpscalerBasePlugin*</ins>.
+	- [Nvidia DLSS/DLAA](https://us9-dl.techpowerup.com/files/0mPS6CR185u2x6E5qzo0wg/1766967456/nvngx_dlss_310.4.0.zip)
+	- [AMD FSR2](https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip)
+	- [Intel XeSS](https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll)
+
+3) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/bqb2rkev7610o0a/LOOT-backup-20251227T180538.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
