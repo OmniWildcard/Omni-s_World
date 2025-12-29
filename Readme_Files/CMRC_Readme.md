@@ -74,7 +74,7 @@ Now, before playing, you should do the following things:
 > [!Note]
 > Make sure you use the drop-down menu to select the name <ins>**Improved Camera SE**</ins> for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order. Also be sure to click replace when prompted by *Mod Organizer 2* so that all the old files are cleared out automatically.
 
-2) Download the appropriate DLL resource for your GPU based on the manufacturer and place it within the appropriate location found under <ins>*Modding> MO2 > mods > Upscaler Base Plugin > UpscalerBasePlugin*</ins>.
+2) Download the appropriate DLL resource for your GPU based on the manufacturer and place it within the appropriate location found under <ins>*Modding> MO2 > mods > SkyrimUpscaler > UpscalerBasePlugin*</ins>.
 	- [Nvidia DLSS/DLAA](https://us9-dl.techpowerup.com/files/0mPS6CR185u2x6E5qzo0wg/1766967456/nvngx_dlss_310.4.0.zip)
 	- [AMD FSR2](https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip)
 	- [Intel XeSS](https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll)
