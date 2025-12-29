@@ -19,19 +19,23 @@
 > - **If the answer provided to a FAQ does not work then submit a ticket and I will provide direct 1-on-1 support for the issue as I am able.**
 
 ## Requirements
-These are the minimum recommended specifications to run the list though there may be some wiggle-room on these specs:
+These are the minimum recommended specifications to run the list though there may be some wiggle-room on these specs (the degree of wiggle-room is noted directly below each requirement):
 - 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models (AVX1 Support is a Hard-Requirement)
 > [!Note]
 > This part has the most wiggle room alongside the GPU requisites as you'll only need a powerful enough CPU to avoid bottlenecking your GPU but the AVX1 support is a hard-requirement of the CPU for this list. So be sure it's supported by your CPU before installing.
+
 - A GPU with at least 12-16GB VRAM is recommended or you will experience major performance dips in the Whiterun Outskirts
 > [!Note]
 > 8GB VRAM is possible but it will require you to run either Octagon or the VRAMr to downscale the textures to a lower resolution. Both tools are included with the list.
+
 - 32-64GB RAM
 > [!Note]
 > 32GB is the minimum advised amount of RAM and running below that much can result in leaving you vulnerable to RAM-usage spikes from the Windows OS leading to general instability while running the game. 48-64GB is the recommended amount of RAM as it gives you adequate headroom for any sort of usage-spikes leading to greater stability while running the game.
+
 - 40 GB Pagefile
 > [!Note]
 > This part is non-negotiable and is just a standard for lists of this size.
+
 - At least 617 GB of free space (224 GB for Downloads + 30 GB Free Space & 363 GB for Installation)
 
 ## Backup Download Links
