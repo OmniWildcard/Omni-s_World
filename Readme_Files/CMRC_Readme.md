@@ -30,7 +30,7 @@ These are the minimum recommended specifications to run the list though there ma
 > [!Note]
 > 32GB is the minimum advised amount of RAM and running below that much can result in leaving you vulnerable to RAM-usage spikes from the Windows OS leading to general instability while running the game. 48-64GB is the recommended amount of RAM as it gives you adequate headroom for any sort of usage-spikes leading to greater stability while running the game.
 - 40 GB Pagefile
-- At least 617 GB of free space (224 GB for Downloads + 30 GB Free Space & 363 GB for Installation)
+- At least 644GB of free space (235GB for Downloads + 30GB Free Space & 379GB for Installation)
 
 ## Backup Download Links
 - [Download v1.0.25.0](https://www.mediafire.com/file_premium/u2rf4p8hv82u374/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
