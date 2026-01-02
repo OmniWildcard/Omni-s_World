@@ -33,7 +33,7 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 644GB of free space (235GB for Downloads + 30GB Free Space & 379GB for Installation)
 
 ## Backup Download Links
-- [Download v1.0.25.0](https://www.mediafire.com/file_premium/u2rf4p8hv82u374/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.0.25.1]() **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -74,7 +74,7 @@ Now, before playing, you should do the following things:
 > [!Note]
 > Make sure you use the drop-down menu to select the name <ins>**Improved Camera SE**</ins> for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order. Also be sure to click replace when prompted by *Mod Organizer 2* so that all the old files are cleared out automatically.
 
-2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/be1nvul47rny9l2/LOOT-backup-20251230T134336.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/xeyq8kdua739dok/LOOT-backup-20260102T103741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
@@ -298,7 +298,7 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [x] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [x] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
 - [ ] Some minor navmesh tweaks required in small towns and villages
-- [ ] Minor navmesh tweaks required in Ustengrav
+- [x] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
 - **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
