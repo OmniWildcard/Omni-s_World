@@ -72,7 +72,7 @@ Now, before playing, you should do the following things:
 1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version.
 
 > [!Note]
-> Make sure you use the drop-down menu to select the name <ins>**Improved Camera SE**</ins> for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order. Also be sure to click replace when prompted by *Mod Organizer 2* so that all the old files are cleared out automatically.
+> Make sure you use the drop-down menu to select the name <ins>**Improved Camera SE**</ins> for the mod name during install since it defaults to **ImprovedCameraSE** for some reason. If you don't do this it won't overwrite the original mod and place it properly in the load order. Also be sure to click REPLACE when prompted by *Mod Organizer 2* so that all the old files are cleared out automatically.
 
 2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/xeyq8kdua739dok/LOOT-backup-20260102T103741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
