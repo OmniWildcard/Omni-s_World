@@ -23,9 +23,9 @@ These are the minimum recommended specifications to run the list though there ma
 - 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models (AVX1 Support is a Hard-Requirement)
 > [!Note]
 > This part has the most wiggle room alongside the GPU requisites as you'll only need a powerful enough CPU to avoid bottlenecking your GPU but the AVX1 support is a hard-requirement of the CPU for this list. So be sure it's supported by your CPU before installing.
-- A GPU with at least 12-16GB VRAM is recommended or you will experience major performance dips in the Whiterun Outskirts
+- A GPU with at least 16GB VRAM is recommended or you will experience major performance dips in the Whiterun Outskirts
 > [!Note]
-> 8GB VRAM is possible but it will require you to run either Octagon or VRAMr to downscale the textures to a lower resolution. Both tools are included with the list.
+> 8GB and 12GB VRAM is possible but it will require you to run either Octagon to downscale the textures to a lower resolution. Config files for optimizing the textures for each tier of VRAM quantity are included with the list.
 - 32-64GB RAM
 > [!Note]
 > 32GB is the minimum advised amount of RAM and running below that much can result in leaving you vulnerable to RAM-usage spikes from the Windows OS leading to general instability while running the game. 48-64GB is the recommended amount of RAM as it gives you adequate headroom for any sort of usage-spikes leading to greater stability while running the game.
