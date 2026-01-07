@@ -33,15 +33,18 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 644GB of free space (235GB for Downloads + 30GB Free Space & 379GB for Installation)
 
 ## Backup Download Links
-- [Download v1.0.25.1](https://www.mediafire.com/file_premium/3md1bdxqsjleeok/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
+- [Download v1.1.0.0]() **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
 
 # Introduction
-This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3's tools are included with this mod list as of v1.0.4.2; so be sure to run them again if you make any additions to the list that adds new worldspaces. You can find instructions on how to generate new LODs and Grass Cache along with the exact settings I use down in the <ins>**How to Update LODs**</ins> and <ins>**How to Update Grass Cache**</ins> sections. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled off without issue. As of v1.0.19.24 the Combat Pathing Revolution (CPR) - Patching Tool, HKAnnotation tool and MCO-BFCO converter tool are included. So, if you add any new animations, ensure you convert all animations to BFCO's format and annotations. You'll also want to update the equip and unequip animations using this tool to add the CPR annotations to the files. Without these CPR annotations, CPR breaks and stops working entirely; so it's important that any new animations, that aren't vanilla replacers, are properly patched to work with the system. If you need a guide on how to go about this process you can find a guide under the <ins>**How to Install and Prepare the HK Annotation Tools**</ins> and <ins>**How to Update Animations**</ins> sections.
+## Foreword
+When I made this list I wanted to create a modded environment that stayed true to the original themes of the vanilla game but made them grander and more visually striking. What we ended up with is a war-torn but beautiful landscape. Roads are uneven at times showing neglect and lack of maintenance with the occasional pothole forming as a result. Whiterun, a hold overrun with bandits and outlaws, has been expanded but the walls are clearly crumbling with wooden fortifications having been built atop the decaying structures. The lack of Whiterun-controlled mines to source stone has allowed this deterioration to occur and affects structures from the walls of the keep to even the fences of the farmland. Meanwhile places with hefty sources of lumber and stone seem relatively untouched by the war and the disruption of the economy that came with it. This is just a facade though as the strain on merchant and trader's supplies is pushed to the limit by the civil war leading to jacked-up prices for goods of all kinds. Yet despite all this we still have the beautiful forests of Falkreath, the gorgeous vista's seen from the mountaintops and the frost-bitten but serene landscapes of the northern holds.
 
-If any of the included tools are ever out-of-date I suggest manually updating them, while keeping them within their MO2 directories, to avoid messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
+Now, while this list may've originally been intended only for personal use in my videos on my YouTube channel it has long since evolved past that point. Now I see each of my lists as a love letter to a different part of the Skyrim community. This particular list is my love letter to those fans of the Rigmor series and the various tales that can be told through the Creation Engine. Say what you will about Bethesda's choice of engine for their games but one thing the Creation Engine does best that can't be denied is it's ability to create complicated questlines and weave stories limited only by the imagination of the mod author. With all that said I hope you enjoy the fruits of my labor and appreciate all the work that went into creating this list for you. Cheers!
+
+## My Socials
 
 If you wanted to see the list in action you can visit my YouTube channel and watch the episodic series covering the challenge run this mod list is named after. I also have a Discord server where I offer support for the mod list and post updates for when I go live or post videos.
 
@@ -63,7 +66,12 @@ Want to try the challenge run for yourself? Then simply [spin the wheel](https:/
 Most of all I hope you enjoy the list! It is the product of a lot of hard work creating a functional base that all my challenge lists could be based off of. So I hope you appreciate the effort and custom patch work that went into its creation. With that said let's move on to the installation instructions!
 
 ## What are the Controls?
+If you're using a QWERTY Keyboard (the default control scheme for the list) these are the controls:
 <img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/5a885727-6598-486e-b7a7-0cfd083e2b02" />
+
+And as of v1.1.0.0 we've added support for AZERTY Keyboard users:
+<img width="1920" height="1080" alt="azerty-keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/33b1e9d3-8639-4e57-9858-5515a4c19992" />
+
 Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
 
 # Post-Install Instructions
