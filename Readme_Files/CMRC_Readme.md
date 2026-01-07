@@ -28,7 +28,7 @@ These are the minimum recommended specifications to run the list though there ma
 > 8GB and 12GB VRAM is possible but it will require you to run Octagon to downscale the textures to a lower resolution. Config files for optimizing the textures for each tier of VRAM quantity are included with the list.
 - 32-64GB RAM
 > [!Note]
-> 32GB is the minimum advised amount of RAM and running below that much can result in leaving you vulnerable to RAM-usage spikes from the Windows OS leading to general instability while running the game. 48-64GB is the recommended amount of RAM as it gives you adequate headroom for any sort of usage-spikes leading to greater stability while running the game.
+> Depending on your situation the recommended amount of RAM varies between these two points. For the average user if you have very few background processes running 32GB DDR5 RAM will be enough to run the list and avoid stability issues caused by it falling back on the pagefile. If you're on the slower DDR4 RAM 32GB should be enough provided you don't have memory-hungry background processes running but I'd recommend 48-64GB for DDR4 RAM users to give the most amount of headroom.
 - 40 GB Pagefile
 - At least 644GB of free space (235GB for Downloads + 30GB Free Space & 379GB for Installation)
 
