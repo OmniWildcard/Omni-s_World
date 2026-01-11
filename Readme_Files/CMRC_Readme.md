@@ -328,12 +328,10 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [x] DynDOLOD issue with the Windmill on Katla's Farm | **Fixed as of v1.0.11.72**
 - [x] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [x] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower
-- [ ] Some minor navmesh tweaks required in small towns and villages
+- [x] Some minor navmesh tweaks required in small towns and villages
 - [x] Minor navmesh tweaks required in Ustengrav
 
 # FAQs
-- **Question:** I'm stuck on the Rigmor of Bruma questline. What do I do?
-	- **Answer:** With the current version of Rigmor of Bruma it doesn't function flawlessly within the confines of the list. This will eventually be altered in a later update so if you want to play Rigmor of Bruma as it will eventually be intended in the list make sure you've completed Unbound and been told to go to the Jarl of Whiterun before talking to Rose.
 
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
