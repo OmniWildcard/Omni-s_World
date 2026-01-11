@@ -94,6 +94,7 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 
 2) This will open a Windows Explorer window. Navigate to the Octagon install folder located under <ins>*Modding > MO2 > Optimization Tools > Octagon*</ins> and select the appropriate config for your GPU's quantity of VRAM (see image below).
 <img width="1920" height="1032" alt="Octagon Guide Part 2" src="https://github.com/user-attachments/assets/f22533d2-73c5-41c7-a8d1-618acc1c538c" />
+
 > [!Note]
 > As stated in the accompanying visual guide, if you have only 8GB VRAM you will need to do this process twice to reach optimal texture sizes. In this case start with the **8GB VRAM (Step 1)** config file and when running a second time use the **8GB VRAM (Step 2)** config and repeat the other steps again. This will ensure your textures are all downscaled to the appropriate sizes.
 
