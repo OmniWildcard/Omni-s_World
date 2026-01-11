@@ -30,10 +30,10 @@ These are the minimum recommended specifications to run the list though there ma
 > [!Note]
 > Depending on your situation the recommended amount of RAM varies between these two points. For the average user if you have very few background processes running 32GB DDR5 RAM will be enough to run the list and avoid stability issues caused by it falling back on the pagefile. If you're on the slower DDR4 RAM 32GB should be enough provided you don't have memory-hungry background processes running but I'd recommend 48-64GB for DDR4 RAM users to give the most amount of headroom.
 - 40 GB Pagefile
-- At least 644GB of free space (235GB for Downloads + 30GB Free Space & 379GB for Installation)
+- At least 671GB of free space (241GB for Downloads + 30GB Free Space & 400GB for Installation)
 
 ## Backup Download Links
-- [Download v1.1.0.0]() **[!] Latest Version**
+- [Download v1.1.0.0](https://www.mediafire.com/file_premium/778991tjyoxkhu9/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
@@ -80,6 +80,31 @@ Now, before playing, you should do the following things:
 1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their updates channel. Install and place it under the "Modular Extras" section. This will ensure the included profile edits win the conflict.
 
 2) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/23cu0m5m8mea73z/LOOT-backup-20260110T004612.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+
+3) If you have less than 16GB VRAM you'll want to run Octagon to optimize the texture sizes for the limitations of your GPU. Refer to the guide below for more detailed instructions.
+
+## How to use Octagon
+> [!WARNING]
+> It is highly advised you either have a backup of the mods folder or the full downloads folder from installation in case you mess up. If you have neither of these you will have to completely redownload and reinstall the list if things go wrong due to how Octagon works.
+
+Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
+
+1) Go to the top-left corner of the UI to open the file menu and select the **Open Configuration** option (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 1" src="https://github.com/user-attachments/assets/7378e38d-3fdb-4ac4-9ced-a7798f77ad93" />
+
+2) This will open a Windows Explorer window. Navigate to the Octagon install folder located under <ins>*Modding > MO2 > Optimization Tools > Octagon*</ins> and select the appropriate config for your GPU's quantity of VRAM (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 2" src="https://github.com/user-attachments/assets/f22533d2-73c5-41c7-a8d1-618acc1c538c" />
+> [!Note]
+> As stated in the accompanying visual guide, if you have only 8GB VRAM you will need to do this process twice to reach optimal texture sizes. In this case start with the **8GB VRAM (Step 1)** config file and when running a second time use the **8GB VRAM (Step 2)** config and repeat the other steps again. This will ensure your textures are all downscaled to the appropriate sizes.
+
+3) Now that you've loaded the config you need to update a few file paths. First update the file path to your MO2 mods folder (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 3" src="https://github.com/user-attachments/assets/f963ddda-bac4-452f-a5d7-2598d18165a0" />
+
+4) Next you want to go to the **Tool Paths** tab of *Octagon* and change the paths for **BSArch** and **GMIC** to point to their respective executables located in their respective subdirectories found under <ins>*Modding > MO2 > Optimization Tools*</ins> so that Octagon can find them (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 4" src="https://github.com/user-attachments/assets/81f1ea4b-33c1-4491-aa11-02981bb1a2e0" />
+
+5) Finally you can return to the **General** tab of *Octagon* and press start.
+<img width="1920" height="1032" alt="Octagon Guide Part 5" src="https://github.com/user-attachments/assets/71238249-8cf6-4073-bc16-46780d52c701" />
 
 > [!Note]
 > The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
