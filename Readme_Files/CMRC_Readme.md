@@ -72,6 +72,9 @@ If you're using a QWERTY Keyboard (the default control scheme for the list) thes
 And as of v1.1.0.0 we've added support for AZERTY Keyboard users:
 <img width="1920" height="1080" alt="azerty-keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/33b1e9d3-8639-4e57-9858-5515a4c19992" />
 
+> [!Note]
+> You will need to enabled the **AZERTY Control Scheme** and disable the **QWERTY Control Scheme** found under Accessibility Options and then reset controls to default once ingame for the changes to take. This additional step is only required for AZERTY users and is unfortunately the only way I've found that is consistent for remapping the keys properly.
+
 Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
 
 # Post-Install Instructions
