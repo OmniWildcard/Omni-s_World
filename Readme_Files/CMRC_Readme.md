@@ -30,10 +30,10 @@ These are the minimum recommended specifications to run the list though there ma
 > [!Note]
 > Depending on your situation the recommended amount of RAM varies between these two points. For the average user if you have very few background processes running 32GB DDR5 RAM will be enough to run the list and avoid stability issues caused by it falling back on the pagefile. If you're on the slower DDR4 RAM 32GB should be enough provided you don't have memory-hungry background processes running but I'd recommend 48-64GB for DDR4 RAM users to give the most amount of headroom.
 - 40 GB Pagefile
-- At least 671GB of free space (241GB for Downloads + 30GB Free Space & 400GB for Installation)
+- At least 678GB of free space (244GB for Downloads + 30GB Free Space & 404GB for Installation)
 
 ## Backup Download Links
-- [Download v1.2.0.0]() **[!] Latest Version**
+- [Download v1.2.0.0](https://www.mediafire.com/file_premium/j7qe8tnnz9cqvlo/Chaos_Mage_Randomized_Challenge.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
