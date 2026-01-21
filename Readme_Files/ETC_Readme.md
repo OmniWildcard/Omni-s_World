@@ -323,23 +323,58 @@ If you're unsure that the load order is correct you can download my custom rules
 
 Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 
-1) Go to the top-left corner of the UI to open the file menu and select the **Open Configuration** option (see image below).
+1. Go to the top-left corner of the UI to open the file menu and select the **Open Configuration** option (see image below).
 <img width="1920" height="1032" alt="Octagon Guide Part 1" src="https://github.com/user-attachments/assets/7378e38d-3fdb-4ac4-9ced-a7798f77ad93" />
 
-2) This will open a Windows Explorer window. Navigate to the Octagon install folder located under <ins>*Modding > MO2 > Optimization Tools > Octagon*</ins> and select the appropriate config for your GPU's quantity of VRAM (see image below).
+2. This will open a Windows Explorer window. Navigate to the Octagon install folder located under <ins>*Modding > MO2 > Optimization Tools > Octagon*</ins> and select the appropriate config for your GPU's quantity of VRAM (see image below).
 <img width="1920" height="1032" alt="Octagon Guide Part 2" src="https://github.com/user-attachments/assets/f22533d2-73c5-41c7-a8d1-618acc1c538c" />
 
 > [!Note]
 > As stated in the accompanying visual guide, if you have only 8GB VRAM you will need to do this process twice to reach optimal texture sizes. In this case start with the **8GB VRAM (Step 1)** config file and when running a second time use the **8GB VRAM (Step 2)** config and repeat the other steps again. This will ensure your textures are all downscaled to the appropriate sizes.
 
-3) Now that you've loaded the config you need to update a few file paths. First update the file path to your MO2 mods folder (see image below).
+3. Now that you've loaded the config you need to update a few file paths. First update the file path to your MO2 mods folder (see image below).
 <img width="1920" height="1032" alt="Octagon Guide Part 3" src="https://github.com/user-attachments/assets/f963ddda-bac4-452f-a5d7-2598d18165a0" />
 
-4) Next you want to go to the **Tool Paths** tab of *Octagon* and change the paths for **BSArch** and **GMIC** to point to their respective executables located in their respective subdirectories found under <ins>*Modding > MO2 > Optimization Tools*</ins> so that Octagon can find them (see image below).
+4. Next you want to go to the **Tool Paths** tab of *Octagon* and change the paths for **BSArch** and **GMIC** to point to their respective executables located in their respective subdirectories found under <ins>*Modding > MO2 > Optimization Tools*</ins> so that Octagon can find them (see image below).
 <img width="1920" height="1032" alt="Octagon Guide Part 4" src="https://github.com/user-attachments/assets/81f1ea4b-33c1-4491-aa11-02981bb1a2e0" />
 
-5) Finally you can return to the **General** tab of *Octagon* and press start.
+5. Finally you can return to the **General** tab of *Octagon* and press start.
 <img width="1920" height="1032" alt="Octagon Guide Part 5" src="https://github.com/user-attachments/assets/71238249-8cf6-4073-bc16-46780d52c701" />
+
+## How to Install and Prepare the HK Annotation Tools
+1. Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>. 
+
+2. Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
+
+3. Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>.
+> [!Note]
+> You can now update the annotations of MCO animations to the BFCO annotations using the converter.
+
+## How to Update Animations
+1. First you'll want to launch the **MCO to BFCO Converter** via *Mod Organizer 2*.
+
+2. Next you'll want to select the target folder which contains the animations you want updated. Click the **Select Folder** button and navigate to the specific Animation Mod folder in your MO2 directory that you wish to patch. For the purposes of this example we'll navigate to <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2*</ins> and confirm our selection.
+
+3. Now press the **Run** button followed by the **Update Annotation** button and wait for it to finish.
+
+4. You can now exit out of the MCO to BFCO Converter.
+
+5. Now you want to launch the **CPR Patcher Tool** via *Mod Organizer 2*.
+
+6. You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2(CMRC) > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
+
+7. You will now match the settings from the image below to fill out the input fields in the UI that appears (see image below).
+<img width="635" height="589" alt="CPR Patcher Settings" src="https://github.com/user-attachments/assets/ea1d602a-8619-4a82-bac6-03535654b2e6" />
+
+8. Once you have filled out all the input fields you will click the **Start Patching** button and wait for it to complete.
+
+9. You may now exit the **CPR Patcher Tool**
+
+10. Run **Nemesis** via *Mod Organizer 2* and click both the **Update Engine** and **Launch Nemesis Behavior Engine** buttons.
+
+11. Once they've both run to completion you may exit **Nemesis**.
+
+12. You have now finished updating an animation set to work with this list. Congratulations!
 
 # Playing the List
 >[!WARNING]
