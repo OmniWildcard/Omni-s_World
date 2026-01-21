@@ -33,8 +33,8 @@
   - [How to use Octagon](#how-to-use-octagon)
 - [Playing the List](#playing-the-list)
   - [Before Launching the Game](#before-launching-the-game)
-  - [Actually Playing the Game](#actually-playing-the-game)
   - [What is the Challenge for this List](#what-is-the-challenge-for-this-list) 
+  - [Actually Playing the Game](#actually-playing-the-game)
 - [What are the Controls?](#what-are-the-controls?)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
@@ -360,6 +360,17 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 
     </Details>
 
+## What is the Challenge for this List
+I'm glad you asked, the challenge element is mostly handled outside of game and not via any mod-implementation allowing you to just use the list "as-is" or attempt the challenge I did yourself.
+
+Want to try the challenge run for yourself? Then simply [spin the wheel](https://wheelofnames.com/) using the templates provided below and limit yourself to the results. You'll spin for a new school every ingame day at midnight. And your task for the day will be selected via its own wheel. Then set yourself an ultimate goal you must complete with this handicap and you've got your very own version of the run! The template follows my variation where I have to complete the entirety of the **College of Winterhold** with these handicaps, but you can change it out with whatever you wish.
+- [School of Magic Wheel](https://www.mediafire.com/file_premium/x5b77bpov4v2vxo/School_of_Magic.wheel/file)
+- [Daily Task Wheel](https://www.mediafire.com/file_premium/3gn5r0w7szzcwyk/Daily_Task.wheel/file)
+- [Random Dungeon Wheel](https://www.mediafire.com/file_premium/psx97mryritzqoh/Random_Dungeon.wheel/file)
+- [Random Side Quest Wheel](https://www.mediafire.com/file_premium/wsloj3p1k8db3l0/Random_Side_Quest.wheel/file)
+
+Most of all I hope you enjoy the list! It is the product of a lot of hard work creating a functional base that all my challenge lists could be based off of. So I hope you appreciate the effort and custom patch work that went into its creation. With that said let's move on to the installation instructions!
+
 ## Actually Playing the Game
  1. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
    >[!CAUTION]
@@ -369,15 +380,6 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
  4. Walk up to the strange glowing stone shrine directly in front of you and select the race option in the pop-up window that appears when you interact with it. This is so that the Helm Hair Updated mod can register your main hairstyle.
  5. Repeat this interaction two more times for Birthsign and Class selection.
  6. Simply open the singular door in the room and step into the black void gazing at you to begin your adventure.
-
-## What is the Challenge for this List
-I'm glad you asked, the challenge element is mostly handled outside of game and not via any mod-implementation allowing you to just use the list "as-is" or attempt the challenge I did yourself.
-
-Want to try the challenge run for yourself? Then simply [spin the wheel](https://wheelofnames.com/) using the templates provided below and limit yourself to the results. You'll spin for a new school every ingame day at midnight. And your task for the day will be selected via its own wheel. Then set yourself an ultimate goal you must complete with this handicap and you've got your very own version of the run! The template follows my variation where I have to complete the entirety of the **College of Winterhold** with these handicaps, but you can change it out with whatever you wish.
-- [School of Magic Wheel](https://www.mediafire.com/file_premium/x5b77bpov4v2vxo/School_of_Magic.wheel/file)
-- [Daily Task Wheel](https://www.mediafire.com/file_premium/3gn5r0w7szzcwyk/Daily_Task.wheel/file)
-- [Random Dungeon Wheel](https://www.mediafire.com/file_premium/psx97mryritzqoh/Random_Dungeon.wheel/file)
-- [Random Side Quest Wheel](https://www.mediafire.com/file_premium/wsloj3p1k8db3l0/Random_Side_Quest.wheel/file)
 
 # What are the Controls?
 If you're using a QWERTY Keyboard (the default control scheme for the list) these are the controls:
