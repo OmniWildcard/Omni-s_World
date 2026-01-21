@@ -424,5 +424,6 @@ Simply delete the Chaos Mage folder. Congratulations, you have uninstalled Chaos
 
 - **Question:** I added a mod to the list and now I'm getting constant CTD's. What do I do?
 	- **Answer:** Sadly if you modify the list yourself what support I can offer is extremely limited, especially if it's a hard-incompatibility. But submit a ticket on Discord and if it's something I can help with I'll do what I can to remedy the issue.
+
 - **Question:** My animations are locking up and freezing me in place. What do I do?
   	- **Answer:** Exit the game and re-run Nemesis. This should fix the issue and if it doesn't submit a ticket on the Discord server for further support.
