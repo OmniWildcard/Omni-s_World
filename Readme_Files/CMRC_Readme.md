@@ -384,7 +384,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.
 
 - `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
 - `MINOR`: Any release with a number change here will be considered a minor update, these updates will **not** be save safe, unless otherwise specified.
-- `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
+- `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe unless otherwise stated and will be used primarily for bugfixes.
 - `REVISION`: Any release with a number change here will be considered a revision. These updates are usually hotfixes, minor gameplay changes or consistency tweaks and should be save safe unless otherwise noted.
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
