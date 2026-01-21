@@ -317,7 +317,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their updates channel. Install and place it under the "Modular Extras" section. This will ensure the included profile edits win the conflict.
 
 ## Custom LOOT Ruleset
-If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/23cu0m5m8mea73z/LOOT-backup-20260110T004612.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/tc9oxafu9ogig4b/LOOT-backup-20260121T115624.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
 ## How to use Octagon
 > [!WARNING]
