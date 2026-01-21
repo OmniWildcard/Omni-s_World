@@ -1,5 +1,5 @@
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/be34da4a-680b-4043-b529-50ef67f5e29d)
-**Mod List Support: [Omni's Star Cluster](https://discord.gg/rMZKDNrZQS)
+**Mod List Support: [Omni's Star Cluster](https://discord.gg/rMZKDNrZQS)**
 > [!IMPORTANT]
 > **This list requires v1.6.1170.0 of Skyrim, v1.6.1378.1 of the Creation Kit, the AE Upgrade and DLC**
 
