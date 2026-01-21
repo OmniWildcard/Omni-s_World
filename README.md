@@ -1,6 +1,6 @@
 # Welcome to My World!
 This is a repository containing all of my mod lists that are part of the overarching collection I like to call Omni's World!
-<img width="1920" height="1080" alt="Omni&#39;s World GitHub Main Page Thumbnail" src="https://github.com/user-attachments/assets/54d12f44-b9b0-4b6a-b396-95e50265292e" />
+<img width="1920" height="1080" alt="Omni&#39;s World GitHub Main Page Thumbnail" src="https://github.com/user-attachments/assets/0ca34306-aa9c-4c88-b73c-4ce2d8c7dfc0" />
 
 # About the Mod Lists
 All of these mod lists make use of a similar foundation but have different modular gameplay elements and exclusives. Every list except Omni's World also has its own challenge you can attempt if you're looking for something to spice up your next Skyrim run. The lists should be able to be safely modified in two specific areas, as I left them largely untouched from vanilla:
