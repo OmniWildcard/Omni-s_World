@@ -1,5 +1,6 @@
 <img width="2254" height="1080" alt="1-splash" src="https://github.com/user-attachments/assets/9d05cde8-8a7b-4fdc-a2b7-c2f372e96b56" />
 **Mod List Support: [Omni's Star Cluster](https://discord.gg/rMZKDNrZQS)**
+
 > [!IMPORTANT]
 > **This list requires v1.6.1170.0 of Skyrim, v1.6.1378.1 of the Creation Kit, as well as the AE Upgrade and DLC**
 
