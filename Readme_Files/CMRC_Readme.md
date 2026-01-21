@@ -35,7 +35,7 @@
   - [Before Launching the Game](#before-launching-the-game)
   - [What is the Challenge for this List](#what-is-the-challenge-for-this-list) 
   - [Actually Playing the Game](#actually-playing-the-game)
-- [What are the Controls?](#what-are-the-controls)
+- [What are the Controls](#what-are-the-controls)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Known Issues](#known-issues)
