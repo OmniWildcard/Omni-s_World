@@ -150,7 +150,7 @@ To change your Skyrim SE's language:
 >[!WARNING]
 > ***Do NOT skip this step or your install may fail!***
 
-Since this list requires the full AE DLC this step is not that complicated. Simply ensure that you have purchased the AE Upgrade and launch the game through Steam afterwards. It will prompt you to download the AE content once you've loaded into the main menu confirm and allow the process to run to completion. When it is finished downloading the additional files you can safely close the game.
+Since this list requires the full AE DLC this step is not that complicated. Simply ensure that you have purchased the AE Upgrade and launch the game through Steam afterwards. It will prompt you to download the AE content once you've loaded into the main menu. Simply confirm and allow the process to run to completion. When it is finished downloading the additional files you can safely close the game.
 
 >[!IMPORTANT]
 >
