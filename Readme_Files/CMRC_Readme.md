@@ -376,7 +376,7 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 
 11. Once they've both run to completion you may exit **Nemesis**.
 
-12. You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
+12. You have now finished updating an animation set to work with this list. Congratulations!
 
 # Playing the List
 >[!WARNING]
