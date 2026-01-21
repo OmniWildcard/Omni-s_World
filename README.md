@@ -8,7 +8,7 @@ All of these mod lists make use of a similar foundation but have different modul
 <img width="1920" height="1011" alt="List Exclusives" src="https://github.com/user-attachments/assets/cad03391-4de8-41c0-b54d-be8048ccd6cb" />
 
 > [!WARNING]
-> If you modify the list any support you can recieve will be limited and subject to my discretion.
+> If you modify the lists any support you can recieve will be limited and subject to my discretion.
 
 # Want to see the Mod List's in action?
 If you want to see each individual mod list in action visit my YouTube channel or Twitch Channel. Links to both can be found below:
