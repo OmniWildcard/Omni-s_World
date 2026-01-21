@@ -35,7 +35,7 @@
   - [Before Launching the Game](#before-launching-the-game)
   - [What is the Challenge for this List](#what-is-the-challenge-for-this-list) 
   - [Actually Playing the Game](#actually-playing-the-game)
-- [What are the Controls?](#what-are-the-controls?)
+- [What are the Controls?](#what-are-the-controls)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Known Issues](#known-issues)
@@ -381,7 +381,7 @@ Most of all I hope you enjoy the list! It is the product of a lot of hard work c
  5. Repeat this interaction two more times for Birthsign and Class selection.
  6. Simply open the singular door in the room and step into the black void gazing at you to begin your adventure.
 
-# What are the Controls?
+# What are the Controls
 If you're using a QWERTY Keyboard (the default control scheme for the list) these are the controls:
 <img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/5a885727-6598-486e-b7a7-0cfd083e2b02" />
 
