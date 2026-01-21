@@ -31,6 +31,8 @@
   - [Improved Camera SE](#improved-camera-se)
   - [Custom Loot Ruleset](#custom-loot-ruleset)
   - [How to use Octagon](#how-to-use-octagon)
+  - [How to Install and Prepare the HK Annotation Tools](#how-to-install-and-prepare-the-hk-annotation-tools)
+  - [How to Update Animations](#how-to-update-animations)
 - [Playing the List](#playing-the-list)
   - [Before Launching the Game](#before-launching-the-game)
   - [Actually Playing the Game](#actually-playing-the-game)
