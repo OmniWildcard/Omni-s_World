@@ -59,10 +59,10 @@ These are the minimum recommended specifications to run the list though there ma
 - At least 678GB of free space (244GB for Downloads + 30GB Free Space & 404GB for Installation)
 
 ## Backup Download Links
-- [Download v1.3.0.0]() **[!] Latest Version**
+TEMPORARILY UNAVAILABLE
 
 ## Load Order Library
-You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
+TEMPORARILY UNAVAILABLE
 
 # Installation
 Installing Ad Mortem is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
@@ -414,5 +414,6 @@ Simply delete the Ad Mortem folder. Congratulations, you have uninstalled Ad Mor
 
 - **Question:** I added a mod to the list and now I'm getting constant CTD's. What do I do?
 	- **Answer:** Sadly if you modify the list yourself what support I can offer is extremely limited, especially if it's a hard-incompatibility. But submit a ticket on Discord and if it's something I can help with I'll do what I can to remedy the issue.
+
 - **Question:** My animations are locking up and freezing me in place. What do I do?
   	- **Answer:** Exit the game and re-run Nemesis. This should fix the issue and if it doesn't submit a ticket on the Discord server for further support.
