@@ -33,8 +33,8 @@
   - [How to use Octagon](#how-to-use-octagon)
 - [Playing the List](#playing-the-list)
   - [Before Launching the Game](#before-launching-the-game)
-  - [Actually Playing the Game](#actually-playing-the-game)
   - [What is the Challenge for this List](#what-is-the-challenge-for-this-list)
+  - [Actually Playing the Game](#actually-playing-the-game)
 - [What are the Controls?](#what-are-the-controls?)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
@@ -360,6 +360,13 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 
     </Details>
 
+## What's the Challenge for this List?
+I'm glad you asked, because there are some things you should know before playing this list for the first time. First-off, however, if you want to forego the challenge elements you can disable them in your mod list via *Mod Organizer 2* by un-ticking the box next to the associated mods located under the **Modular Gameplay** section.
+
+Now, you might ask, what is the challenge that is at the center of this list's focus? Well the answer is rather simple, it's what I like to call the **"End Times" Challenge**. The **"End Times" Challenge** pits you in a race against a **100 day timer** as you attempt to complete the main story quests for **Skyrim** and the **Dawnguard DLC expansion**! The timer for defeating **Alduin** starts as soon as you finish creating your character. So it's best to go in with a solid plan. The timer for **Dawnguard**, however, will not start counting down until you reach **level ten** and **begin the Dawnguard quest-line**.
+
+If you wish to completely replicate the rules I set forth for my own version of this challenge run you will need to be able to change the timer settings, which are locked by default. To do this simply go down to the **Maintenance** section of the **End Times** and **End Times Dawnguard** MCM menus and tick the box next to **Debug**. This will allow you to unlock the settings and lower the timers by one day for every death as I did in my run. Beyond that there's nothing more to say other than that I hope you enjoy the list and I wish you luck with your challenge run!
+
 ## Actually Playing the Game
  1. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
    >[!CAUTION]
@@ -369,13 +376,6 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
  4. Walk up to the strange glowing stone shrine directly in front of you and select the race option in the pop-up window that appears when you interact with it. This is so that the Helm Hair Updated mod can register your main hairstyle.
  5. Repeat this interaction two more times for Birthsign and Class selection.
  6. Simply open the singular door in the room and step into the black void gazing at you to begin your adventure.
-
-## What's the Challenge for this List?
-I'm glad you asked, because there are some things you should know before playing this list for the first time. First-off, however, if you want to forego the challenge elements you can disable them in your mod list via *Mod Organizer 2* by un-ticking the box next to the associated mods located under the **Modular Gameplay** section.
-
-Now, you might ask, what is the challenge that is at the center of this list's focus? Well the answer is rather simple, it's what I like to call the **"End Times" Challenge**. The **"End Times" Challenge** pits you in a race against a **100 day timer** as you attempt to complete the main story quests for **Skyrim** and the **Dawnguard DLC expansion**! The timer for defeating **Alduin** starts as soon as you finish creating your character. So it's best to go in with a solid plan. The timer for **Dawnguard**, however, will not start counting down until you reach **level ten** and **begin the Dawnguard quest-line**.
-
-If you wish to completely replicate the rules I set forth for my own version of this challenge run you will need to be able to change the timer settings, which are locked by default. To do this simply go down to the **Maintenance** section of the **End Times** and **End Times Dawnguard** MCM menus and tick the box next to **Debug**. This will allow you to unlock the settings and lower the timers by one day for every death as I did in my run. Beyond that there's nothing more to say other than that I hope you enjoy the list and I wish you luck with your challenge run!
 
 # What are the Controls?
 If you're using a QWERTY Keyboard (the default control scheme for the list) these are the controls:
