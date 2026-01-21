@@ -1,287 +1,399 @@
-> [!Important]
-> **This is the documentation for the list you just downloaded. If you choose not to read this you forfeit access to any support.**
-# Welcome to the *"End Times" Challenge* Readme!
-![ETC Mod Page Thumbnail](https://github.com/user-attachments/assets/8fdc9f6d-4a41-409b-b027-af2fc2218649)
+<img width="2254" height="1080" alt="ETC GitHub Page Thumbnail" src="https://github.com/user-attachments/assets/1d322466-6c23-44a8-82d4-892223fd7d6f" />
 
-> [!Warning]
-> **This list requires v1.6.1170.0 of Skyrim**
+**Mod List Support: [Omni's Star Cluster](https://discord.gg/rMZKDNrZQS)**
 
-> [!Warning]
-> **This list requires v1.6.1378.1 of the Creation Kit**
+> [!IMPORTANT]
+> **This list requires v1.6.1170.0 of Skyrim, v1.6.1378.1 of the Creation Kit, as well as the AE Upgrade and DLC**
 
-> [!WARNING]
-> **This list requires the AE Upgrade and DLC**
+<header>
+    <h1>Contents</h1>
+</header>
 
+- [Foreword](#foreword)
+  - [System Requirements](#system-requirements)
+  - [Backup Download Links](#backup-download-links)
+  - [Load Order Library](#load-order-library)
+- [Installation](#installation)
+  - [Pre-Installation](#pre-installation)
+    - [Installing Microsoft Visual C++ and .NET](#installing-microsoft-visual-c-and-net)
+    - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
+    - [Setting Shader Cache Size (NVIDIA Users Only)](#setting-shader-cache-size-nvidia-users-only)
+    - [Steam Setup](#steam-setup)
+    - [Changing the Game Language](#changing-the-game-language)
+    - [Installing Creation Club Files](#installing-creation-club-files)
+  - [Wabbajack Installation](#wabbajack-installation)
+    - [Installing Wabbajack](#installing-wabbajack)
+    - [Downloading and Installing End Times](#downloading-and-installing-end-times)
+  - [Problems with installation](#problems-with-installation)
+- [Post-Installation](#post-installation)
+  - [Game Folder](#game-folder)
+  - [Antivirus Exceptions](#antivirus-exceptions)
+  - [Improved Camera SE](#improved-camera-se)
+  - [Custom Loot Ruleset](#custom-loot-ruleset)
+  - [How to use Octagon](#how-to-use-octagon)
+- [Playing the List](#playing-the-list)
+  - [Before Launching the Game](#before-launching-the-game)
+  - [Actually Playing the Game](#actually-playing-the-game)
+- [What are the Controls?](#what-are-the-controls?)
+- [Updating the Modlist](#updating-the-modlist)
+- [Removing the Modlist](#removing-the-modlist)
+- [Known Issues](#known-issues)
+- [FAQ](#faq)
+
+# Foreword
+When I made this list I wanted to create a modded environment that stayed true to the original themes of the vanilla game, but made them grander and more visually striking. What we ended up with is a war-torn, but beautiful landscape. Roads are uneven, showing signs of neglect and a lack of maintenance; with the occasional pothole forming as a result. Whiterun, a hold overrun with bandits and outlaws, has been greatly expanded in both size and scope. However, the walls are dotted with wooden fortifications built atop the decaying and crumbling walls of the city; the lack of Whiterun-controlled mines to source stone has allowed this deterioration to occur. It affects all the structures outside the main city, ranging from the walls of the keep to even the fences cordoning off the farmland.
+
+Meanwhile, places with hefty sources of lumber and stone seem relatively untouched, neither by the war nor the disruption of the economy that came with it. This is just a facade though, as the strain on merchant's supplies is pushed to the limit by the civil war leading to increased prices for goods of all kinds. Yet, despite all this, we still have the beautiful forests of Falkreath, the gorgeous vista's seen from the mountaintops and the frost-bitten but serene landscapes of the northern holds.
+
+Now, while this list may've originally been intended only for personal use on my YouTube channel, it has long since evolved past that point. Now I see each of my lists as a love letter to a different part of the Skyrim community. This particular list is my love letter to those fans of the Rigmor series, and the various tales that can be told through the Creation Engine. Say what you will about Bethesda's choice of engine for their games, but one thing the Creation Engine does best is create quests and weave stories; all-the-while limited only by the imagination of the author. With all that said, I hope you enjoy the fruits of my labor, and appreciate all the work that went into creating this list for you. Cheers!
+
+## System Requirements
+These are the minimum recommended specifications to run the list though there may be some wiggle-room on these specs (the degree of wiggle-room is noted directly below each requirement where it applies):
+- 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models
+- A GPU with at least 16GB VRAM is ideal and the list's default state is optimized for this quantity of VRAM.
 > [!Note]
-> **Answers to the *FAQs* and the *Known Issues* for the list are located at the bottom of this document.**
-> - ***Known Issues* are being actively worked on and patched, and will be marked off the list as they are resolved; so do not bother reporting them as they are already being dealt with and will be resolved as I release the patches.**
-> 
-> - **If the answer provided to a FAQ does not work then submit a ticket and I will provide direct 1-on-1 support for the issue as I am able.**
-
-## Requirements
-These are the minimum recommended specifications to run the list though there may be some wiggle-room on the GPU and RAM:
-- 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models (AVX1 Support is a Hard-Requirement)
-- NVIDIA GeForce RTX 4070 Ti or AMD equivalent (Older GPUs might work but I can't guarantee decent performance)
-- 64 GB RAM
+> It is possible to run the list with 8GB or 12GB of VRAM, but it will require you to use Octagon to downscale the textures to a lower resolution. Config files for optimizing the textures for each tier of VRAM quantity are included with the install.
+- 32GB DDR5 or 32-64GB DDR4 RAM
 - 40 GB Pagefile
-- At least 500 GB of free space
+- At least 678GB of free space (244GB for Downloads + 30GB Free Space & 404GB for Installation)
 
 ## Backup Download Links
-TEMPORARILY UNAVAILABLE
+- [Download v1.3.0.0]() **[!] Latest Version**
 
-# Introduction
-This mod list runs off of the BFCO combat system which mixes modern and vanilla combat rather seamlessly. It was designed with a focus on immersion and overhauling the game in just about every aspect; all-the-while striking a balance between realism and game-like convenience. xLODGen and DynDOLOD 3 are included with this mod list as of v1.0.8.0; so be sure to run them again if you make any additions to the list that adds new worldspaces. You can find instructions on how to generate new LODs and Grass Cache along with the exact settings I use down in the **How to Update LODs** and **How to Update Grass Cache** sections. Gameplay elements that aren't togglable via an ingame MCM are located under the Modular Gameplay section of the load order and can be toggled off without issue. As of v1.0.19.24 the Combat Pathing Revolution (CPR) - Patching Tool, HKAnnotation tool and MCO-BFCO converter tool are included. So, if you add any new animations, ensure you convert all animations to BFCO's format and annotations. You'll also want to update the equip and unequip animations using this tool to add the CPR annotations to the files. Without these CPR annotations, CPR breaks and stops working entirely; so it's important that any new animations, that aren't vanilla replacers, are properly patched to work with the system. If you need a guide on how to go about this process you can find a guide under the <ins>**How to Install and Prepare the HK Annotation Tools**</ins> and <ins>**How to Update Animations**</ins> sections.
+## Load Order Library
+You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
 
-If any of the included tools are ever out-of-date I suggest manually updating them, while keeping them within their MO2 directories, to avoid messing with Skyrim's root directory. This is because Wabbajack installs require a clean Skyrim install to function. If you need help or want me to walk you through the process I'd be glad to help you on my Discord server. Simply submit a ticket and I'll get to you as soon as possible!
+# Installation
+Installing End Times is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
-If you wanted to see the list in action you can visit my Twitch channel when I'm live or watch the VODs when they're uploaded to my YouTube channel every Wednesday. I also have a Discord server where I offer support for the mod list and post updates for when I go live, post videos or release updates to my various mod lists.
+## Pre-Installation
+These steps are only required for installing the modlist for the first time. Additionally, many of these steps may be covered in other modlist installs, for new users I suggest reading through here regardless.
 
-To join the Discord use the link below:
-- https://discord.gg/rMZKDNrZQS
+### Installing Microsoft Visual C++ and .NET
+ 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+ 2. Install [.NET Runtime 9.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
+ 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 
-To find my Twitch channel use the link below:
-- https://twitch.tv/omnithestarspawn
+>[!WARNING]
+>If you already have Visual C++ installed, please make sure you install it again and use the `Repair` option to get the latest version of the redistributables. **Do NOT skip this step or MO2 and the game may fail to launch.**
 
-And to find my YouTube channel use the link below:
-- https://www.youtube.com/channel/UC82BYjxRvHxzIQ519TrkzqQ
+### Pagefile and Crash Prevention
+>[!WARNING]
+>Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Apostasy's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
 
-## What's the Challenge for this List?
-I'm glad you asked, because there are some things you should know before playing this list for the first time. First-off, however, if you want to forego the challenge elements you can disable them in your mod list via *Mod Organizer 2* by un-ticking the box next to the associated mods located under the **Modular Gameplay** section.
+**To set up a Pagefile:**
 
-Now, you might ask, what is the challenge that is at the center of this list's focus? Well the answer is rather simple, it's what I like to call the **"End Times" Challenge**. The **"End Times" Challenge** pits you in a race against a **100 day timer** as you attempt to complete the main story quests for **Skyrim** and the **Dawnguard DLC expansion**! The timer for defeating **Alduin** starts as soon as you finish creating your character. So it's best to go in with a solid plan. The timer for **Dawnguard**, however, will not start counting down until you reach **level ten** and **begin the Dawnguard quest-line**.
+ 1. Press `Win Key + R`
+ 2. Type `sysdm.cpl ,3` and hit `ENTER`
+ 3. Navigate to **Performance** and click the box `Settings...`
+ 4. Click the **Advanced** tab at the top
+ 5. Under **Virtual Memory** click the box `Change...`
+ 6. Uncheck `Automatically Manage` if it is checked
+ 7. Select your disk drive, ideally your fastest solid state drive
+ 8. Click `Custom Size:`
+ 9. In the box next to **Initial Size (MB)**, type `40960`
+ 10. In the box next to **Maximum Size (MB)**, type `40960`
+ 11. Click `Set`.
+ 12. Click `OK`.
+ 13. Click `Apply`.
+ 14. Click `OK`.
+ 15. **Restart your PC**.
 
-If you wish to completely replicate the rules I set forth for my own version of this challenge run you will need to be able to change the timer settings, which are locked by default. To do this simply go down to the **Maintenance** section of the **End Times** and **End Times Dawnguard** MCM menus and tick the box next to **Debug**. This will allow you to unlock the settings and lower the timers by one day for every death as I did in my run. Beyond that there's nothing more to say other than that I hope you enjoy the list and I wish you luck with your challenge run!
+>[!TIP]
+> Your pagefile does not need to be on the same drive as your Wabbajack install or Steam install of the game.
 
-## What are the Controls?
-<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/38fb5b36-9a8c-4822-9081-9cfcd6cac85b" />
-Eventually this will be viewable ingame via a Hotkey but for now I advise you save this image somewhere and view it on a second monitor until you get used to the controls.
+<Details>
+<summary>ICYWW: Why do we need a Pagefile?</summary>
 
-# Post-Install Instructions
-Now, before playing, you should do the following things:
+Skyrim is a very old game (originally released in 2011) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
 
-1) Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.0 beta build from their updates channel. Install it over the included Improved Camera SE version and ensure all old files from the included Improved Camera are removed.
+Through lots of experience and trial-and-error, we have discovered that increasing the window's pagefile can fix certain types of Skyrim crashes, the two most common examples being `Unhandled native exception occurred at 0x7FF6ADC8DDDA` and `Unhandled native exception occurred at 0x0`.  
 
-2) Open the *ImprovedCameraSE.json* file located under <ins>*Modding > MO2 > mods > ImprovedCameraSE > skse > plugins > ImprovedCameraSE*</ins> and edit the 24th line. You'll want to change **"Default"** to **"NoHeadbob"** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+But why is this? Skyrim appears to use system memory in very unexpected ways, for example it will frequently dip into the pagefile memory despite there being available RAM. Skyrim heavily favors high speed, low latency RAM (the best you can get as of writing this is 6000MHz and CL30 for DDR5).  
 
-3) Now you want to open the Profiles folder located in the same directory and edit the *NoHeadbob.json* file with a text editor. Change the entry **"fCombatDistance": 7.0,** to **"fCombatDistance": 2.0,** while being sure to enter the text in bold exactly as it appears in this Readme. Afterwards save the changes.
+</Details>
 
-4) If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/2dqd12dhks6ymdi/LOOT-backup-20251103T153741.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting.
+### Setting Shader Cache Size (NVIDIA Users Only)
+>[!IMPORTANT]
+>For NVIDIA users, it is recommended to boost the size of the shader cache. These settings have been shown to improve stability, while it may not be entirely necessary, it is still recommended.
+
+**To do this:**
+
+- Right-click on your desktop and select `NVIDIA Control Panel`
+- Navigate and click `Manage 3D Settings`
+- Scroll down the **Global Settings** tab until you see **Shader Cache Size**
+- Double-click `Driver Default` to the right of **Shader Cache Size** and select `100 GB`
+- Click `Apply` in the bottom right hand corner
+- Exit out of the application
+
+### Steam Setup
+>[!WARNING]
+>If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
+
+ 1. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+ 2. Right click on Skyrim SE and click on properties, untick the `Enable Steam Overlay while in-game.`
+ 3. Please ensure you follow the steps outlined in the [Installing Creation Club Files](#installing-creation-club-files) section. **DO NOT SKIP THIS STEP OR YOUR INSTALL WILL FAIL.**
+
+### Changing the Game Language
+>[!WARNING]
+>**The English Steam version of Skyrim SE is the only supported version.**
+
+I understand that this may be frustrating for non-English speaking users or users with the GOG/Bethesda.net versions, but due to the core file differences between the different versions, I am only able to support one game version.
+
+To change your Skyrim SE's language:
+
+ 1. Right click on Skyrim SE in Steam
+ 2. Click `Properties`
+ 3. Click `Language`
+ 4. Set the Language to `English`
+
+### Installing Creation Club Files
+>
+>[!WARNING]
+> ***Do NOT skip this step or your install may fail!***
+
+Since this list requires the full AE DLC this step is not that complicated. Simply ensure that you have purchased the AE Upgrade and launch the game through Steam afterwards. It will prompt you to download the AE content once you've loaded into the main menu. Simply confirm and allow the process to run to completion. When it is finished downloading the additional files you can safely close the game.
+
+>[!IMPORTANT]
+>
+>- **DO NOT** Alt+Tab during this process or it will fail to properly download these files.
+>- **DO NOT** verify your game files after doing the steps above as it will revert the "correct" file hashes for the CC files you downloaded in this step.
+
+## Wabbajack Installation
+
+### Installing Wabbajack
+Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+
+1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example.
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Skyrim's Steam folder, or in any folders related to the modlist itself (the downloads or install folder).**
+    > - The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be on an HDD for the sake of saving space.
+
+2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
+
+3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
+
+>[!IMPORTANT]
+>The list has only been tested with Wabbajack version **4.0.0.0 or later**. Installing the modlist with older versions of Wabbajack is untested at this time and is not recommended and generally unsupported.
+
+### Downloading and Installing End Times
+>[!CAUTION]
+>**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked exes.  
+
+Downloading and installing End Times can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
+
+To install End Times, complete the following steps.
+
+ 1. Open Wabbajack and click `Browse lists`
+ 2. Pick the **Skyrim Special Edition** option from the game filter drop-down box (or use the search bar to find the modlist).
+ 3. Press the download arrow on the End Times UI card and wait for it to download
+ 4. Set the `Installation Location` to a folder such as `C:\End Times`.
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
+    > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
+ 5. Press the `Install` button.
+ 6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
+ 7. If the installation is successful, then you're all set to move on to [post installation](#post-installation). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/rMZKDNrZQS) for support.
+
+## Problems with installation
+It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+<Details>
+<summary>I'm having trouble downloading Non-Nexus files or specific files!</summary>
+
+Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location`.
+
+This issue can also occur with files sources from Google Drive, MEGA, Patreon, and other sites. Missing Manual Downloads are listed [here](#missing-manual-downloads).
+
+</Details>
+
+<Details>
+<summary>Wabbajack couldn't find my game folder!</summary>
+
+Either buy the game or re-read the [Pre-Installation](#pre-installation) section.  
+
+</Details>  
+
+<Details>
+<summary>Unable to download 'Data_ccbgssse037-curios': </summary>
+
+Please make sure you are following the steps outlined in the [Installing Creation Club Files](#installing-creation-club-files) section
+
+</Details>  
+
+<Details>
+<summary>Unable to download Skyrim_Default.ini or SkyrimPrefs.ini:</summary>
+
+This error means you failed to follow this Readme. Go back and follow the steps outlines in the [Changing the Game Language](#changing-the-game-language) section
+
+</Details>  
+
+<Details>
+<summary>Could not find part of the path "TEMP_BSA_FILES"</summary>
+
+This is typically caused by a problem extracting zip files.  
+
+The quickest solution is as follows:  
+ 1. Close Wabbajack.
+ 2. Go to your install folder and locate the `TEMP_BSA_FILES` folder (if it exists).
+ 3. Delete that folder (if it exists).
+ 4. Restart Wabbajack.
+ 5. Restart the modlist installation.  
+
+If the `TEMP_BSA_FILES` folder does not exist, then delete the download file for the mod being referenced before restarting Wabbajack.  
+
+**Note**: Using the retry button will not work as Wabbajack does not understand that there was an issue with extraction and will not retry extraction steps.
+
+</Details>  
+
+<Details>
+<summary>My antivirus reports a virus with the program or modlist!</summary>
+
+Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](#antivirus-exceptions).  
+
+</Details>
+
+<Details>
+<summary>Sanity check error extracting file:</summary>
+
+Wabbajack will sometimes have issues extracting files if they use special characters. If you encounter this issue in a Wabbajack log, please try the steps down below:
+
+ 1. Press `Win Key + R`.
+ 2. Type `intl.cpl` and hit `ENTER`.
+ 3. Navigate to *Administrative* and click `Change system locale...`.
+ 4. Change the *Current system locale:* to `English (United Kingdom)`.
+ 5. **Uncheck** `Beta: Use Unicode UTF-8 for worldwide language support`
+ 6. Click `OK`
+ 7. **Restart your PC** and rerun the Wabbajack installer.
+
+</Details>  
+
+<Details>
+<summary>Wabbajack is crashing during the installation!</summary>
+
+If you find yourself struggling to run Wabbajack without it crashing, freezing up, or blue-screening your PC, please try lowering Wabbajack's resource usage with these steps:
+
+ 1. Open Wabbajack.
+ 2. Click the **Settings** button in the bottom left corner of the Wabbajack window.
+ 3. Under the **Performance** box, lower each number for each category to half of what it is currently set.
+ 4. Continue Installation.
+
+>[!TIP]
+> It is suggested to have a program installed on your PC that can open `.json` files, like [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/)
+
+</Details>
+
+## Post-Installation
+
+## Game Folder
+End Times uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+
+## Antivirus Exceptions
+>[!WARNING]
+>Antivirus programs are notorious for false flagging [MO2's Virtual File System](https://stepmodifications.org/wiki/Guide:Mod_Organizer/Advanced), which can and will cause crashes and other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will need to fully remove them from your PC in order to actually launch the game through MO2. It is 2024, Windows Defender and being smart online is more than adequate to protect yourself from malicious software.
+
+If you use Windows Defender, it is advised that you set up an exception for the modlist.
+
+<Details>
+<summary>Setting up Windows Defender Exceptions:</summary>
+
+ 1. Press the Windows Key.
+ 2. Type "Windows Defender" in the search bar and select "Windows Security".
+ 3. Click on "Virus & threat protection" in the left pane.
+ 4. Click the "Manage settings" option under "Virus & threat protection settings".
+ 5. Scroll down to "Exclusions" and click "Add or remove exclusions".
+ 6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
+ 7. Click the "Add an exclusion" button at the top and choose "Folder".
+ 8. Navigate to your Install folder for the list and click "Select Folder".
+ 9. **(OPTIONAL)** You can repeat these steps for the other executables:
+    - ModOrganizer.exe (`[Path to Modlist]\ModOrganizer.exe`)
+    - Nemesis Unlimited Behavior Engine.exe (`[Path to Modlist]\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`)
+    - Synthesis.exe (`[Path to Modlist]\tools\Synthesis\Synthesis.exe`)
+
+</Details>
+
+## Improved Camera SE
+Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their updates channel. Install and place it under the "Modular Extras" section. This will ensure the included profile edits win the conflict.
+
+## Custom LOOT Ruleset
+If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/23cu0m5m8mea73z/LOOT-backup-20260110T004612.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
+
+## How to use Octagon
+> [!WARNING]
+> It is highly advised you either have a backup of the mods folder or the full downloads folder from installation in case you mess up. If you have neither of these you will have to completely redownload and reinstall the list if things go wrong due to how Octagon works.
+
+Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
+
+1) Go to the top-left corner of the UI to open the file menu and select the **Open Configuration** option (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 1" src="https://github.com/user-attachments/assets/7378e38d-3fdb-4ac4-9ced-a7798f77ad93" />
+
+2) This will open a Windows Explorer window. Navigate to the Octagon install folder located under <ins>*Modding > MO2 > Optimization Tools > Octagon*</ins> and select the appropriate config for your GPU's quantity of VRAM (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 2" src="https://github.com/user-attachments/assets/f22533d2-73c5-41c7-a8d1-618acc1c538c" />
 
 > [!Note]
-> The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
+> As stated in the accompanying visual guide, if you have only 8GB VRAM you will need to do this process twice to reach optimal texture sizes. In this case start with the **8GB VRAM (Step 1)** config file and when running a second time use the **8GB VRAM (Step 2)** config and repeat the other steps again. This will ensure your textures are all downscaled to the appropriate sizes.
 
-## How to Install and Prepare the HK Annotation Tools
-1) Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>. 
+3) Now that you've loaded the config you need to update a few file paths. First update the file path to your MO2 mods folder (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 3" src="https://github.com/user-attachments/assets/f963ddda-bac4-452f-a5d7-2598d18165a0" />
 
-2) Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
+4) Next you want to go to the **Tool Paths** tab of *Octagon* and change the paths for **BSArch** and **GMIC** to point to their respective executables located in their respective subdirectories found under <ins>*Modding > MO2 > Optimization Tools*</ins> so that Octagon can find them (see image below).
+<img width="1920" height="1032" alt="Octagon Guide Part 4" src="https://github.com/user-attachments/assets/81f1ea4b-33c1-4491-aa11-02981bb1a2e0" />
 
-3) Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2 > Patching Tools*</ins>.
-> [!Note]
-> You can now update the annotations of MCO animations to the BFCO annotations using the converter.
+5) Finally you can return to the **General** tab of *Octagon* and press start.
+<img width="1920" height="1032" alt="Octagon Guide Part 5" src="https://github.com/user-attachments/assets/71238249-8cf6-4073-bc16-46780d52c701" />
 
-## How to Update Animations
-1) First you'll want to launch the **MCO to BFCO Converter** via *Mod Organizer 2*.
+# Playing the List
+>[!WARNING]
+>Before doing anything else, or even launching the game, make sure that the control scheme that matches your keyboard configuration is the only one enabled (ie. if you have an AZERTY keyboard disable the QWERTY Control Scheme and enable the AZERTY Control Scheme).
 
-2) Next you'll want to select the target folder which contains the animations you want updated. Click the **Select Folder** button and navigate to the specific Animation Mod folder in your MO2 directory that you wish to patch. For the purposes of this example we'll navigate to <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2*</ins> and confirm our selection.
+## Before Launching the Game
+ 1. Head over to your modlist installation folder (e.g. `C:\End Times`), locate an executable named `ModOrganizer.exe`, and launch it. Your first launch of Mod Organizer 2 may take several minutes due to GitHub repository downloads, so please be patient.
+ 2. Set up your CPU Affinity by following the instructions below. **Please do not skip this step!**
+  
+    <Details>
+    <summary>Setting CPU Affinity</summary>
 
-3) Now press the **Run** button followed by the **Update Annotation** button and wait for it to finish.
+    1. Click the `Puzzle Piece` button at the top of MO2 and select `Set CPU Affinity` and press `OK` on the pop-up box.
+  
+        ![](https://raw.githubusercontent.com/Oghma-Infinium/Vagabond/main/images/cpu%20affinity%20example.png)  
 
-4) You can now exit out of the MCO to BFCO Converter.
+    2. That's it, it's really that simple. **Please, please, please** do this before launching the game and whenever you update the modlist.
 
-5) Now you want to launch the **CPR Patcher Tool** via *Mod Organizer 2*.
+    </Details>
 
-6) You'll want to select the equip, unequip animation and SCAR Dummy files located under <ins>*Modding > MO2 > mods > ADXP I MCO MGRR Greatsword Moveset for NPC > meshes > actors > character > animations > Open Animation Replacer > GreatSwordNPC2 > Basic*</ins> and press the **Continue** button.
+## Actually Playing the Game
+ 1. Launch the "Play" Executable in MO2. The game may take several minutes to load on your first launch. Please be patient and **DO NOT** click the `Unlock` button on the MO2 prompt.
+   >[!CAUTION]
+   >**FOR THE LOVE OF AKATOSH, DO NOT CLICK THE UNLOCK BUTTON!**
+ 2. Select the **New Game** button.
+ 3. Create your lovely character.
+ 4. Walk up to the strange glowing stone shrine directly in front of you and select the race option in the pop-up window that appears when you interact with it. This is so that the Helm Hair Updated mod can register your main hairstyle.
+ 5. Repeat this interaction two more times for Birthsign and Class selection.
+ 6. Simply open the singular door in the room and step into the black void gazing at you to begin your adventure.
 
-7) You will now match the settings from the image below to fill out the input fields in the UI that appears (see image below).
-<img width="635" height="589" alt="CPR Patcher Settings" src="https://github.com/user-attachments/assets/ea1d602a-8619-4a82-bac6-03535654b2e6" />
+# What are the Controls?
+If you're using a QWERTY Keyboard (the default control scheme for the list) these are the controls:
+<img width="1920" height="1080" alt="keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/5a885727-6598-486e-b7a7-0cfd083e2b02" />
 
-8) Once you have filled out all the input fields you will click the **Start Patching** button and wait for it to complete.
+And as of v1.1.0.0 we've added support for AZERTY Keyboard users:
+<img width="1920" height="1080" alt="azerty-keyboard+mouse-control-layout" src="https://github.com/user-attachments/assets/33b1e9d3-8639-4e57-9858-5515a4c19992" />
 
-9) You may now exit the **CPR Patcher Tool**
+> [!IMPORTANT]
+> You will need to enabled the **AZERTY Control Scheme** and disable the **QWERTY Control Scheme** found under Accessibility Options. Then, once in-game, you'll need to reset controls to default for the changes to take. This additional step is only required for AZERTY users and is unfortunately the only way I've found that is consistent for remapping the keys properly.
 
-10) Run **Nemesis** via *Mod Organizer 2* and click both the **Update Engine** and **Launch Nemesis Behavior Engine** buttons.
-   
-11) Once they've both run to completion you may exit **Nemesis**.
+# Updating the Modlist
+Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.REVISION`.
 
-12) You have now finished updating an animation set to work with this list. Congratulations! Now get out there and start playing; that is unless you need to update the LODs and Grass Cache. In that case please continue to the next section.
+- `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
+- `MINOR`: Any release with a number change here will be considered a minor update, these updates will **not** be save safe, unless otherwise specified.
+- `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe unless otherwise stated and will be used primarily for bugfixes.
+- `REVISION`: Any release with a number change here will be considered a revision. These updates are usually hotfixes, minor gameplay changes or consistency tweaks and should be save safe unless otherwise noted.
 
-> [!Note]
-> The following sections below are only for those who have modified the list. If you are playing the list as-is you can ignore these and go straight to the **Known Issues** section.
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
-## How to Update Grass Cache
-Updating the Grass Cache is a multi-step process that utilizes both SSEEdit and the Creation Kit. As such, I've separated them into their own subsections to keep things as simple as possible. 
+>[!IMPORTANT]
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** in the Changelogs which are regularly posted to the Discord. It is suggested that you backup your saves before updating if you plan on continuing them.
 
-> [!Note]
-> **This guide will only show you how to update the existing Grass Bound Records to generate a new Grass Cache within the confines of this list. For a full guide on how to generate Grass Cache for your own lists I recommend Biggie_Boss's guide on YouTube.**
-
-> [!Warning]
-> **I advise generating the updated Grass Cache before generating new LODs, but you are free to disregard my suggestion at your own peril.**
-
-### Updating the Grass Bound Records via SSEEdit
-1) First, you'll want to ensure that the existing <ins>*Grass Cache*</ins> is disabled and the <ins>*Grass Bound Records</ins> are enabled; after which you will launch **SSEEdit** via *Mod Organizer 2* (see image below).
-![Setting Things Up for SSEEdit](https://github.com/user-attachments/assets/1f273021-5b21-4468-9c6b-4f4e61e0c1ab)
-
-2) After launching **SSEEdit** you will eventually reach the **Module Selection** screen. You will want to right-click, to open a drop down menu, then click <ins>*Select All*</ins> before finally clicking the **OK** button in the bottom-right.
-![Module Selection Screen 1](https://github.com/user-attachments/assets/ac959d89-c536-452f-84e1-4312ed430b77)
-
-3) After it builds the records you will be greeted with another screen asking you to make selections. You'll want to ensure that everything on this list is enabled before clicking the **OK** button in the bottom-right (see image below).
-![Module Selection Screen 2](https://github.com/user-attachments/assets/a6b2dc69-3f67-49bd-89e9-888b186ebf32)
-
-4) Next you will want to right-click anywhere in the left-most panel and click <ins>*Apply Script*</ins> (see image below).
-![Apply Scripts 1](https://github.com/user-attachments/assets/979c4b24-f0e4-45d9-a763-471c964c99d1)
-
-5) After this you will be brought to the **Apply Script** menu. Type "grass" into the **Filter** field and select the <ins>*List worldspaces with grass*</ins> script before finally clicking the **OK** button in the bottom-right (see image below).
-![Apply Scripts 2](https://github.com/user-attachments/assets/e4bd1b43-4e7e-45b8-ba4c-5da9e0017fbd)
-
-6) This will bring you to a second screen. Ignore the options it presents and simply click the **OK** button to continue (see image below).
-![Apply Scripts 3](https://github.com/user-attachments/assets/f7867eee-7b82-49a2-9593-f329cafadf72)
-
-7) Let the script run and it will eventually prompt you with another screen. You'll want to copy-and-paste the output into your **GrassControl.ini** file, located under <ins>*Modding > MO2 > mods > Grasscontrol.ini > SKSE > Plugins*</ins>, and place it within the quotations under the highlighted section. Only after all of this is done should you click the **OK** button to proceed (see images below).
-![Apply Scripts 4](https://github.com/user-attachments/assets/61509eb1-48fd-4e0e-8afc-70166f3b4f12)
-![Apply Scripts 5](https://github.com/user-attachments/assets/27b083dd-39b8-419f-9c87-250670924531)
-
-8) Now you want to apply a filter to show only the areas with grass records. To do this right-click anywhere in the left-most panel and click *Apply Filter* (see image below).
-![Apply Filter 1](https://github.com/user-attachments/assets/faa917d5-2338-4993-8cc2-07b7a5ce8a92)
-
-9) This will open up another menu that will prompt you with a variety of options. Ensure that the <ins>*by Record Signature*</ins> box is ticked and that only the <ins>*GRAS - Grass*</ins> records are selected. Then click the **Filter** button to proceed to the next step (see image below).
-![Apply Filter 2](https://github.com/user-attachments/assets/f77cddf0-3322-4591-89a9-565e70fd79ca)
-
-10) Now you will notice that all of the areas with grass records are highlighted in various colors. This is because they are being overwritten by the overrides copied into the Grass Bound Records.esp file. If you added any new worldspaces via a mod that mod will not be highlighted as they are not yet copied into the Grass Bound Records.esp file. You will want to open up the records for that new mod and navigate into the Grass subsection. Then you will select all of the existing records within that subsection, right-click and select <ins>*Copy as override into...*</ins> from the drop-down menu (see image below).
-![Copy as Override 1](https://github.com/user-attachments/assets/5aeac971-bfb5-4753-b615-38e9e8b3e048)
-
-11) This will result in a prompt appearing asking if you're certain you want to edit the module file. Click the **Yes I'm absolutely sure** button to proceed (see image below).
-![Copy as Override 2](https://github.com/user-attachments/assets/8a0d04be-6880-4a66-9c2d-28b47ad4b58c)
-
-12) You will then be shown a list of modules you can copy the override into. Scroll to the bottom and select <ins>*Grass Bound Records.esp*</ins>, by ticking the box next to it, then click the **OK** button in the bottom-right (see image below).
-![Copy as Override 3](https://github.com/user-attachments/assets/2f909719-5720-4895-9667-4619ee707abd)
-
-13) Afterwards you will close SSEEdit and when it prompts you to save your changes you will click the **OK** button in the bottom-right of the prompt window.
-
-### Recalculating Bounds via the Creation Kit
-1) First we have to launch the included **Creation Kit** via *Mod Organizer 2*. Once you have done that click the little folder button in the top-right. This will open up another window which you will scroll to the bottom of, select <ins>*Grass Bound Records.esp*</ins> and then click the **Set as Active File** button. After this you can click the **OK** button to proceed to the next step (see image below).
-![Creation Kit 1](https://github.com/user-attachments/assets/ad09fa0e-334f-41a4-a71a-75427dd571ed)
-
-2) After it loads up all the files you will want to navigate to **WorldObjects** and select the **Grass** subsection. From there you will select all the grass, listed under the **Object Window**, right-click and select <ins>*Recalc Bounds*</ins> (see image below).
-![Creation Kit 2](https://github.com/user-attachments/assets/6303d91c-8af0-45e3-a9ef-7cb1f8a0a249)
-
-3) Once this is done you want to keep an eye on the **Log Window** that opens up when you launch the **Creation Kit**. Wait until it stops updating with new messages and then click the **Save** button in the upper-right corner of the **Creation Kit** window (see image below).
-![Creation Kit 3](https://github.com/user-attachments/assets/5b2d735e-3461-4b4e-82f8-deda6b5d84f3)
-
-### Generating the New Grass Cache
-1) First, you want to disable several mods in the list as they can cause the Grass Cache to crash during generation or even prevent it from completing (see image below).
-![Grass Cache Generation 1](https://github.com/user-attachments/assets/63f8cf67-a4e2-4390-b777-7f2dad483728)
-
-2) Next you want to modify the SSEDisplayTweaks.ini file. You can find it located under <ins>*Modding > MO2 > mods > Mod List Patches, Bug Fixes & Overwrites > SKSE > Plugins*</ins>. You will want to edit the 66th line, remove the # symbol and save (see image below).
-![Grass Cache Generation 2](https://github.com/user-attachments/assets/68757dac-623a-4e3f-9185-0257cc7f9e2b)
-
-3) The last few things you'll want to do is ensure that <ins>*Grass Bound Records*</ins> and <ins>*Northern Roads - NGIO Patch*</ins> is enabled; then, finally, ensure that the existing <ins>*Grass Cache*</ins> is disabled before you begin the process of precaching the grass (see image below).
-![Final Preparation for Precache Process](https://github.com/user-attachments/assets/0fbd35de-4146-4751-aa40-1f9916053b7f)
-
-4) Now you want to return to MO2, click the icon that resembles a jigsaw puzzle to open a drop-down menu and select **Precache Grass** (see image below).
-![Grass Cache Generation 3](https://github.com/user-attachments/assets/85a08648-bb57-4046-96de-3c10936be45e)
-
-5) This process will take a while and the game might crash several times during it. Simply let the process run to completion. It will prompt you when it's done.
-
-6) After the process is completed you want to re-enable the mods you previously disabled for the purposes of generating a grass cache. Then you will navigate to your overwrite folder, located under <ins>*Modding > MO2 > Overwrite*</ins>, select the generated **grass** folder and move it to your **Grass Cache** mod folder. You can find the **Grass Cache** mod folder located under <ins>*Modding > MO2 > mods > Grass Cache*</ins>.
-
-7) Finally you will want to re-open the SSEDisplayTweaks.ini file and add the # symbol back to line 66, disable <ins>*Grass Bound Records*</ins>, disable the <ins>*Northern Roads - NGIO Patch*</ins> and re-enable the mods you disabled in step 1 (see images below).
-![Grass Cache Generation 4](https://github.com/user-attachments/assets/22aae1a8-c9bd-41a5-8ad9-567d6c9c4c6c)
-![Post-Precache Process Cleanup](https://github.com/user-attachments/assets/8e188486-a69e-471a-aab1-b7cd7d81f9bb)
-
-## How to Update LODs
-I use very specific settings when generating the LODs for these lists so, if you want to maintain the visual quality and consistency, I recommend following these instructions to the letter.
-
-> [!Note]
-> **For the sake of simplicity, the instructions are divided into subsections.**
-
-### Updating the SSELODGen_Ouput
-1) First, you want to launch **SSELODGenx64**.
-
-2) When you get to the **LODGen Options** menu you'll want to tick the boxes of all the worldspaces available for LOD generation, ensure the box next to <ins>*Seasons*</ins> is unticked, and that only <ins>*Terrain LOD*</ins> is selected (see image below).
-![Regions + Seasons](https://github.com/user-attachments/assets/3b1003e9-1c4d-4ad8-b10f-da3e7a5fe762)
-
-3) Next you'll want to ensure your settings for each level of LOD (LOD4, LOD8, etc.) match the settings I use (see images below).
-![LOD4](https://github.com/user-attachments/assets/9a147e48-ce9e-4c02-bc83-3116a0d19ad5)
-![LOD8](https://github.com/user-attachments/assets/4dc26b7f-eb03-435d-b41a-fb1833ddefdb)
-![LOD16](https://github.com/user-attachments/assets/97144c3a-11e3-4445-a2ee-084fe53f7dfe)
-![LOD32](https://github.com/user-attachments/assets/dbca6ad5-48d8-4f28-8053-7a053c643224)
-
-4) After doing that simply click **Generate** and when the process completes close **SSELODGenx64** (see image below).
-![Generate](https://github.com/user-attachments/assets/97e79223-dac3-4f8e-8eca-35bb3269fd69)
-
-5) Afterwards ensure that you have disabled <ins>*xLODGen Resources - SSE Terrain Tamriel*</ins> before moving on to the next step.
-![Turn off LODGen Resources](https://github.com/user-attachments/assets/65ac73c7-3ca1-4286-94bd-a72830ea8e63)
-
-### Updating the TexGen_Output
-1) First, you want to re-enable <ins>*Grass Bound Records*</ins> and launch **TexGenx64** (see image below).
-![Ensure Grass Bound Records is On](https://github.com/user-attachments/assets/28a2eeda-64e9-4c06-a2e0-e2c3dc96fa87)
-
-2) After launching TexGenx64 you will be greeted by a screen with a set of options. Select the **-SSE = Skyrim SE, Skyrim AE or Enderal SE mod version** option and then press the **Start TexGen** button (see image below).
-
-![TexGen Launch](https://github.com/user-attachments/assets/e6e0ccf5-9e32-4b5d-84f9-fa62b0d4d33b)
-
-3) Once you do so you will eventually reach the **TexGen Options** menu. Ensure your settings for <ins>*Stitched Object LOD Textures*</ins>, <ins>*Rendered Object LOD Textures*</ins> and <ins>*Tree/Grass LOD Billboards*</ins> match mine and then press the **Start** button at the bottom to begin processing (see image below).
-
-![TexGen Options](https://github.com/user-attachments/assets/f750caa2-02ba-40ee-b0c3-f9b61b118557)
-
-4) When the process completes you will be prompted with several options. If you select **Exit TexGen** you will simply cut-and-paste the generated *TexGen_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *TexGen_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
-
-5) Finally, ensure that <ins>*Grass Bound Records*</ins> is disabled once more before proceeding to the next step. 
-![Ensure Grass Bound Records is Off](https://github.com/user-attachments/assets/bcb1f491-39d1-4bcc-a5f6-431330c29cb6)
-
-### Updating the DynDOLOD_Output
-1) First, you will want to find the *DynDOLOD_SSE.ini* located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD > Edit Scripts > DynDOLOD*</ins> and change the 11th line from **Expert=0** to **Expert=1** and launch **DynDOLODx64** via *Mod Organizer 2* (see image below).
-![Change to Expert mode](https://github.com/user-attachments/assets/f3b8c5d5-601b-4df1-86ba-438d80162e8f)
-
-2) After launching **DynDOLODx64** you will eventually be greeted with a screen that provides a series of options. Select the **-SSE = Skyrim SE, Skyrim AE or Enderal SE mod version** option and then press the **Start DynDOLOD** button (see image below).
-
-![DynDOLOD Launch](https://github.com/user-attachments/assets/3437f8e3-e9c7-443a-b72f-7a3223451414)
-
-3) When you reach the **DynDOLOD Expert** menu you'll see a lot of options to mess with so we'll go through this section-by-section to make sure this is done correctly. First thing you'll want to do is go to the list of worldspaces it can generate LODs for and tick all the boxes (see image below).
-![All Regions](https://github.com/user-attachments/assets/6d127632-25da-4c9a-97cf-a9797a22e4b1)
-
-4) Next you'll want to click the button labeled **High**, then tick the boxes next to **Candles** and **FXGlow** (see image below).
-![High Settings](https://github.com/user-attachments/assets/68f822c0-0fe4-40b6-921b-a4e8c494c87a)
-
-5) After that you will want to scroll to the bottom of the <ins>*Mesh and Reference rules*</ins> section and edit the ruleset for the last two items on the list to match my settings (see image below).
-![Rules settings](https://github.com/user-attachments/assets/b269f1af-4e34-4923-8677-7020594ee11a)
-
-6) Now we move on to the final step before processing, the <ins>*Options*</ins> section of the interface. Make sure your settings match mine and then press the **OK** button to start DynDOLOD generation (see image below).
-![Options](https://github.com/user-attachments/assets/6e3877dc-ca42-4b29-892f-dc2af3dbad73)
-
-7) When the process completes you will be prompted with several options. If you select **Save & Exit** you will simply cut-and-paste the generated *DynDOLOD_Output* folder, located under <ins>*Modding > MO2 > LOD Generation Tools > DynDOLOD*</ins>, and overwrite your existing *DynDOLOD_Output* folder. You can find it located under <ins>*Modding > MO2 > mods*</ins>. If you choose **Zip & Exit** simply install the mod via the created zip archive with *Mod Organizer 2* and choose the **Replace** option.
-> [!Note]
-> If you get any warnings from **DynDOLOD** about *BSXFlags* during processing it is safe to ignore them. It's intentional and caused by the **Remove Small Rocks** mod that removes the small pebbles placed by the vanilla game.
-
-### Updating Autorun.txt Records
-1) First you want to launch **SSEEdit**.
-
-2) Upon loading it will bring up a module selection screen. Simply click the **OK** button in the lower-right of the window to proceed (see image below).
-![Module Selection Screen 1](https://github.com/user-attachments/assets/09dea140-7180-4820-bf4d-11340e6a365d)
-
-3) Eventually it will bring up a mod group selection screen. Ensure all boxes are ticked and click the **OK** button in the lower-right to proceed (see image below).
-![Module Selection Screen 2](https://github.com/user-attachments/assets/7d1dc420-39e4-4be9-99cd-4e53360ab6c9)
-
-4) Now you want to navigate down to the bottom of the list and find DynDOLOD.esp. Expand the section by pressing the box with a + symbol in it and then further expand it until you reach the section in the provided screenshot (see image below).
-![Expand DynDOLOD in SSEEdit](https://github.com/user-attachments/assets/8e3001a0-f0d3-4874-9e31-87723cdd70a3)
-
-5) Now scroll down through the entries until you reach the entry shown in the provided screenshot and record the **Reference ID** for later use (see image below).
-![Locating the Offending Record](https://github.com/user-attachments/assets/e182e3ad-4f6a-4442-8827-841960f2f807)
-
-6) Next you want to sort entries by name and locate the entries shown in the provided screenshot and record their **Reference IDs** for later use (see image below).
-![DynDOLOD Workaround Instructions 1](https://github.com/user-attachments/assets/73211325-0a2f-4265-96b9-ba29898d5b20)
-
-7) Afterwards you will open up the **Autorun.txt** file located under <ins>*MO2 > mods > Autorun*</ins>. Change the entry specified in the provided screenshot to the Reference ID you recorded in step 5 (see image below).
-![Edit the Autorun Text File](https://github.com/user-attachments/assets/51efc5ec-1ad6-4cae-b417-c483a13ed234)
-
-8) Finally you will update the entries specified in the provided screenshot to the Reference IDs recorded in step 6 (see image below).
-![DynDOLOD Workaround Instructions 7](https://github.com/user-attachments/assets/078d1e62-68a6-485a-b447-0d25278058f3)
-
-9) Afterwards simply save the changes and close the window.
-
-## Conclusion
-With that all dealt with you've completed the process of generating a new Grass Cache, updated the LODs to include your new worldspaces and updated the precautionary Autorun records to the new IDs. Now, all that's left to do is play the game. So go ahead, have fun, and enjoy!
-![VaultBoySkyrim -50](https://github.com/user-attachments/assets/0c1c9ce0-003b-4b36-bda1-6bc0a037d223)
+# Removing the Modlist
+Simply delete the End Times folder. Congratulations, you have uninstalled End Times.
 
 # Known Issues
 - [x] Weird issues in Bleak Falls Barrow and Ustengrav | **Fixed as of v1.0.5.5**
@@ -289,12 +401,11 @@ With that all dealt with you've completed the process of generating a new Grass 
 - [x] Missing texture on the hook of the hoist at the Solitude Lumber Mill | **Fixed as of v1.0.8.0**
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.8.0**
 - [x] DynDOLOD issue with the Windmill on Katla's Farm | **Fixed as of v1.0.19.24**
-- [ ] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
 - [x] Navmesh-related crashes during the first dragon fight at the Whiterun Watchtower | **Fixed as of v1.0.19.24**
-- [ ] Some minor navmesh tweaks required in small towns and villages
-- [ ] Minor navmesh tweaks required in Ustengrav
+- [x] Some minor navmesh tweaks required in small towns and villages
+- [x] Minor navmesh tweaks required in Ustengrav
 
-# FAQs
+# FAQ
 - **Question:** My NPC's are bald or are suffering the black/brown-face bug! How do I fix this?
 	- **Answer:** This is likely due to me messing up a patch somewhere. Submit a ticket on the Discord server reporting exactly which NPC it was and I'll look into fixing it.
 
@@ -303,3 +414,5 @@ With that all dealt with you've completed the process of generating a new Grass 
 
 - **Question:** I added a mod to the list and now I'm getting constant CTD's. What do I do?
 	- **Answer:** Sadly if you modify the list yourself what support I can offer is extremely limited, especially if it's a hard-incompatibility. But submit a ticket on Discord and if it's something I can help with I'll do what I can to remedy the issue.
+- **Question:** My animations are locking up and freezing me in place. What do I do?
+  	- **Answer:** Exit the game and re-run Nemesis. This should fix the issue and if it doesn't submit a ticket on the Discord server for further support.
