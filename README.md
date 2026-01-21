@@ -7,8 +7,7 @@ All of these mod lists make use of a similar foundation but have different modul
 
 <img width="1920" height="1011" alt="List Exclusives" src="https://github.com/user-attachments/assets/cad03391-4de8-41c0-b54d-be8048ccd6cb" />
 
-
-> ![WARNING]
+> [!WARNING]
 > Modifying the list is ill-advised but can be safely done for a few areas I left untouched (ie. Vampire and Werewolf gameplay overhauls). If you expect me to provide support for a modified version of the list make sure to contact me before you do it. As long as I'm aware of exactly what mods you're adding I can still provide limited support, but don't expect me to give you as much attention as those using the list unmodified. Failure to contact me prior to making such modifications means you forfeit all support for any issues that arise from your changes.
 
 # Want to see the Mod List's in action?
