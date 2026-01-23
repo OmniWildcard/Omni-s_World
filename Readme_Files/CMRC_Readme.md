@@ -64,7 +64,7 @@ These are the minimum recommended specifications to run the list though there ma
 - [Download v1.3.0.0]() **[!] Latest Version**
 
 ## Load Order Library
-You can find the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
+You can find and view the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
 
 # Installation
 Installing Chaos Mage is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
