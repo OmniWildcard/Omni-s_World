@@ -427,8 +427,8 @@ And as of v1.1.0.0 we've added support for AZERTY Keyboard users:
 # Updating the Modlist
 Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.REVISION`.
 
-- `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
-- `MINOR`: Any release with a number change here will be considered a minor update, these updates will **not** be save safe, unless otherwise specified.
+- `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates will **NEVER** be save safe.
+- `MINOR`: Any release with a number change here will be considered a minor update, these updates will **NOT** be save safe, unless otherwise specified.
 - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe unless otherwise stated and will be used primarily for bugfixes.
 - `REVISION`: Any release with a number change here will be considered a revision. These updates are usually hotfixes, minor gameplay changes or consistency tweaks and should be save safe unless otherwise noted.
 
