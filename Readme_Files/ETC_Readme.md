@@ -458,7 +458,7 @@ Simply delete the End Times folder. Congratulations, you have uninstalled End Ti
 	- **Answer:** Go to my Discord and submit a ticket. I'll look into fixing whatever issues you're having or whatever bug you reported.
 
 - **Question:** I added a mod to the list and now I'm getting constant CTD's. What do I do?
-	- **Answer:** Sadly if you modify the list yourself what support I can offer is extremely limited, especially if it's a hard-incompatibility. But submit a ticket on Discord and if it's something I can help with I'll do what I can to remedy the issue.
+	- **Answer:** If you modified the list outside the specified areas of gameplay that were listed [here](https://github.com/OmniWildcard/Omni-s_World/tree/main#about-the-mod-lists) support being provided will be subject to my discretion.
 
 - **Question:** My animations are locking up and freezing me in place. What do I do?
   	- **Answer:** Exit the game and re-run Nemesis. This should fix the issue and if it doesn't submit a ticket on the Discord server for further support.
