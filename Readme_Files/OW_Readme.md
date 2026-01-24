@@ -87,7 +87,7 @@ These are the minimum recommended specifications to run the list though there ma
 > It is possible to run the list with 8GB or 12GB of VRAM, but it will require you to use Octagon to downscale the textures to a lower resolution. Config files for optimizing the textures for each tier of VRAM quantity are included with the install and instructions on operation of the software can be found further into the Readme.
 
 <details>
-<summary>32GB RAM</summary>	
+<summary>32-64GB RAM</summary>	
 
 	You need one of the following for the best stability
 
