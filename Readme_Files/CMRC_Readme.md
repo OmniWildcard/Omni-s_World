@@ -51,14 +51,66 @@ Meanwhile, places with hefty sources of lumber and stone seem relatively untouch
 Now, while this list may've originally been intended only for personal use on my YouTube channel, it has long since evolved past that point. Now I see each of my lists as a love letter to a different part of the Skyrim community. This particular list is my love letter to those fans of the Rigmor series, and the various tales that can be told through the Creation Engine. Say what you will about Bethesda's choice of engine for their games, but one thing the Creation Engine does best is create quests and weave stories; all-the-while limited only by the imagination of the author. With all that said, I hope you enjoy the fruits of my labor, and appreciate all the work that went into creating this list for you. Cheers!
 
 ## System Requirements
-These are the minimum recommended specifications to run the list though there may be some wiggle-room on these specs (the degree of wiggle-room is noted directly below each requirement where it applies):
-- 11th Gen Intel(R) Core(TM) i9-11900k equivalent CPU or later CPU models
-- A GPU with at least 16GB VRAM is ideal and the list's default state is optimized for this quantity of VRAM.
-> [!Note]
-> It is possible to run the list with 8GB or 12GB of VRAM, but it will require you to use Octagon to downscale the textures to a lower resolution. Config files for optimizing the textures for each tier of VRAM quantity are included with the install.
-- 32GB DDR5 or 32-64GB DDR4 RAM
-- 40 GB Pagefile
-- At least 678GB of free space (244GB for Downloads + 30GB Free Space & 404GB for Installation)
+These are the minimum recommended specifications to run the list though there may be some wiggle-room on these specs (expand each section for more information):
+<details>
+<summary>A CPU that supports AVX2</summary>
+
+	The list was built using an AMD Ryzen 7 5800 XT CPU with the following BIOS tweaks
+	
+		XMP Profile 1: Enabled
+		PPT: 128W
+		TDC: 80A
+		EDC: 125A
+		Negative Curve Optimizer Value: 10
+		Max Boost Clock: +200MHz
+		PBO Scalar: Manual - 1X
+		Global C-State Control: Enabled
+		CPPC: Enabled
+		CPPC Preferred Cores: Enabled
+		AMD SmartAcess Memory: Enabled
+
+</details>
+
+<details>
+<summary>A Primary GPU with at least 16GB VRAM</summary>
+
+	This list was built using a AMD Radeon 9060 XT with the following overclock settings
+
+		Max Frequency Offset: +200MHz
+		Voltage Offset: -70mV
+		Memory Timing: Default
+		Max Frequency: 2700MHz
+		Power Limit: +10% 
+	
+</details>
+
+> [!NOTE]
+> It is possible to run the list with 8GB or 12GB of VRAM, but it will require you to use Octagon to downscale the textures to a lower resolution. Config files for optimizing the textures for each tier of VRAM quantity are included with the install and instructions on operation of the software can be found further into the Readme.
+
+<details>
+<summary>32GB RAM</summary>	
+
+	You need one of the following for the best stability
+
+		32GB to 64GB DDR4 3600 RAM
+		32GB DDR5 RAM
+	
+</details>
+
+<details>
+<summary>40GB Pagefile</summary>
+
+	The reasons for this are explained in more detail further into the Readme.
+
+</details>
+<details>
+<summary>At least 678GB of free space</summary>
+
+	244GB for downloads + 30GB free space
+	
+	404GB for the installation on a Gen 4 or later NVME SSD
+
+</details>
 
 ## Backup Download Links
 - [Download v1.3.0.0]() **[!] Latest Version**
