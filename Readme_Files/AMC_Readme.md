@@ -228,7 +228,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 3. Double-click the `Wabbajack.exe` file that is now inside your Wabbajack folder to set up the program.
 
 >[!IMPORTANT]
->The list has only been tested with Wabbajack version **4.0.0.0 or later**. Installing the modlist with older versions of Wabbajack is untested at this time and is not recommended and generally unsupported.
+>The list has only been tested with Wabbajack version **4.0.0.0 or later**. Installing the modlist with older versions of Wabbajack is untested at this time and generally unsupported.
 
 ### Downloading and Installing Ad Mortem
 >[!CAUTION]
