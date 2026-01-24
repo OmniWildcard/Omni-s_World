@@ -134,7 +134,7 @@ These steps are only required for installing the modlist for the first time. Add
 
 ### Pagefile and Crash Prevention
 >[!WARNING]
->Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to End Times's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
+>Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to the list's size and number of files contained within End Times, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
 
 **To set up a Pagefile:**
 
