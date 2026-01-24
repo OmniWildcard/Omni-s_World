@@ -358,7 +358,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
  6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
  7. Click the "Add an exclusion" button at the top and choose "Folder".
  8. Navigate to your Install folder for the list and click "Select Folder".
- 9. **(OPTIONAL)** You can repeat these steps for the other executables
+ 9. **(OPTIONAL)** You can repeat these steps for the other executables.
 
 </Details>
 
