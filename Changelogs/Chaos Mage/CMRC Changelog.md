@@ -1,10 +1,25 @@
 <header>
-   <h1><p align="center">Chaos Mage Changelogs & Version History</p></h1>
+   <h1><p align="center">Chaos Mage Changelogs & Version History Compendium</p></h1>
 </header>
 
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/8b766e71-d23f-4344-a655-eea565ddc050)
 
-## Chaos Mage v1.0.24.0
+<header>
+    <h1>Contents</h1>
+</header>
+
+- [Foreword](#foreword)
+	- [Changelogs](#changelogs)
+
+# Foreword
+This document compiles all the changelogs from previous version of the Chaos Mage list in one place. They are organized by version number and list any new additions, removed mods and updated mods. Some versions did not have a changelog as I did not have time to write one out at the time. Add to the fact that I only started writing them more regularly around v1.0.21.0 of the list and you will see some gaps where there were no changelogs posted. That being said, they are comprehensive and will specify if the update is save-safe or not prior to listing off the changes.
+
+> [!NOTE]
+> This compendium is under construction and I'm slowly adding in the older changelogs as time allows. If you need the changelog for a version and don't see it here I advise you to check back later.
+
+# Changelogs
+
+## v1.0.24.0
 
 <details>
 	<summary>Full Changelog</summary>
@@ -97,7 +112,7 @@
 	
 </details>
 
-## Chaos Mage v1.0.25.0
+## v1.0.25.0
 
 <details>
 	<summary>Full Changelog</summary>
@@ -144,7 +159,7 @@
 	
 </details>
 
-## Chaos Mage v1.3.1.0
+## v1.3.1.0
 
 <details>
 	<summary>Full Changelog</summary>
@@ -210,8 +225,5 @@
 		[+] ACMOS_Output
 		[+] TexGen_Output
 		[+] DynDOLOD_Output
-	
-
 
 </details>
-
