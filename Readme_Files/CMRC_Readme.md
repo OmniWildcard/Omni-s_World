@@ -488,7 +488,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 >[!IMPORTANT]
->Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** in the [Chaos Mage Changelog & Version History](https://github.com/OmniWildcard/Omni-s_World/blob/main/Changelogs/Chaos%20Mage/CMRC%20Changelog.md) document under their specific version header. It is suggested that you backup your saves before updating if you plan on continuing them.
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** in the [Chaos Mage Changelog & Version History Compendium](https://github.com/OmniWildcard/Omni-s_World/blob/main/Changelogs/Chaos%20Mage/CMRC%20Changelog.md) document under their specific version header. It is suggested that you backup your saves before updating if you plan on continuing them.
 
 # Removing the Modlist
 Simply delete the Chaos Mage folder. Congratulations, you have uninstalled Chaos Mage.
