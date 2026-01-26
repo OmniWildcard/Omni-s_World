@@ -1,6 +1,6 @@
 [
   {
-    "title": "End Times Challenge",
+    "title": "End Times",
     "description": "A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list\u0027s author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim\u0027s vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. Race against the clock to try and defeat Alduin and Harkon within 100 days or perish with the rest of the world as the apocalypse comes to fruition!",
     "author": "Omni the Starspawn",
     "maintainers": [
@@ -9,10 +9,8 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "Immersive",
-      "Survival",
-      "Overhaul",
-      "Challenge Run"
+      "Visual/Graphics",
+      "Total Overhaul"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -83,6 +81,7 @@
   }
 
 ]
+
 
 
 
