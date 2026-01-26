@@ -4,8 +4,10 @@
 
 ![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/8b766e71-d23f-4344-a655-eea565ddc050)
 
+# Chaos Mage v1.0.24.0
+
 <details>
-	<summary>Chaos Mage v1.0.25.0</summary>
+	<summary>Full Changelog</summary>
 		
 	THIS UPDATE IS NOT SAVE-SAFE!
 	
@@ -95,8 +97,10 @@
 	
 </details>
 
+# Chaos Mage v1.0.25.0
+
 <details>
-	<summary>Chaos Mage v1.0.25.0</summary>
+	<summary>Full Changelog</summary>
 		
 	THIS UPDATE IS NOT SAVE-SAFE!
 	
@@ -140,8 +144,10 @@
 	
 </details>
 
+# Chaos Mage v1.3.1.0
+
 <details>
-	<summary>Chaos Mage v1.3.1.0</summary>
+	<summary>Full Changelog</summary>
 		
 	THIS UPDATE IS SAVE-SAFE!
 	
@@ -205,5 +211,6 @@
 		[+] TexGen_Output
 		[+] DynDOLOD_Output
 	
+
 
 </details>
