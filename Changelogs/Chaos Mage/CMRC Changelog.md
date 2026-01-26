@@ -10,9 +10,9 @@
 
 - [Foreword](#foreword)
 - [Changelogs](#changelogs)
-	- [v1.0.24.0](#v1.0.24.0)
- 	- [v1.0.25.0](#v1.0.25.0)
-  	- [v1.3.1.0](#v1.3.1.0)
+	- [v1.0.24.0](#v10240)
+ 	- [v1.0.25.0](#v10250)
+  	- [v1.3.1.0](#v1310)
 
 # Foreword
 This document compiles all the changelogs from previous version of the Chaos Mage list in one place. They are organized by version number and list any new additions, removed mods and updated mods. Some versions did not have a changelog as I did not have time to write one out at the time. Add to the fact that I only started writing them more regularly around v1.0.21.0 of the list and you will see some gaps where there were no changelogs posted. That being said, they are comprehensive and will specify if the update is save-safe or not prior to listing off the changes.
@@ -230,4 +230,5 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
