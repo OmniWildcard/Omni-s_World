@@ -488,12 +488,13 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
 
 >[!IMPORTANT]
->Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** in the Changelogs which are regularly posted to the Discord. It is suggested that you backup your saves before updating if you plan on continuing them.
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** in the [Chaos Mage Changelog & Version History]() document under their specific version header. It is suggested that you backup your saves before updating if you plan on continuing them.
 
 # Removing the Modlist
 Simply delete the Chaos Mage folder. Congratulations, you have uninstalled Chaos Mage.
 
 # Known Issues
+- [x] Sigrid doesn't speak her dialogue during the scene in Alvor's house and the quest hangs | **Fixed in v.1.3.1.0 & built-in failsafe added**
 - [x] Blue snow textures on various static landscape meshes | **Fixed as of v1.0.1.0**
 - [x] DynDOLOD issue with the Windmill on Katla's Farm | **Fixed as of v1.0.11.72**
 - [x] Issues with some of the crowd at Rogvir's execution not being able to get to their positions
