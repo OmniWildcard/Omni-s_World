@@ -1,9 +1,11 @@
 <header>
-   <p align="center"><h1>Chaos Mage Changelogs & Version History</h1></p>
+   <h1><p align="center">Chaos Mage Changelogs & Version History</p></h1>
 </header>
 
+![CMRC Mod Page Thumbnail](https://github.com/user-attachments/assets/8b766e71-d23f-4344-a655-eea565ddc050)
+
 <details>
-	<summary>v1.0.25.0</summary>
+	<summary>Chaos Mage v1.0.25.0</summary>
 		
 	THIS UPDATE IS NOT SAVE-SAFE!
 	
@@ -94,7 +96,7 @@
 </details>
 
 <details>
-	<summary>v1.0.25.0</summary>
+	<summary>Chaos Mage v1.0.25.0</summary>
 		
 	THIS UPDATE IS NOT SAVE-SAFE!
 	
@@ -139,7 +141,7 @@
 </details>
 
 <details>
-	<summary>v1.3.1.0</summary>
+	<summary>Chaos Mage v1.3.1.0</summary>
 		
 	THIS UPDATE IS SAVE-SAFE!
 	
@@ -203,4 +205,5 @@
 		[+] TexGen_Output
 		[+] DynDOLOD_Output
 	
+
 </details>
