@@ -51,10 +51,8 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "Immersive",
-      "Survival",
-      "Overhaul",
-      "Challenge Run"
+      "Visual/Graphics",
+      "Total Overhaul"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -85,5 +83,6 @@
   }
 
 ]
+
 
 
