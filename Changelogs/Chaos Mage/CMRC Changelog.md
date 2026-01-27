@@ -172,6 +172,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		NEW ADDITIONS:
 		[+] Naya Follower and Rayya Replacer CotR CC666
 		[+] Natural Bodies 3BA Bodyslide Presets CC666
+		[+] Tinraa - Booty - a CBBE 3BA BodySlide preset
 		[+] Fuse00's Camarilla Armor CBBE
 		[+] Camarilla Armor - My patches SE by Xtudo - My Tweaks
 		[+] Camarilla Armor - My patches SE by Xtudo - Taarie SPID Patch
@@ -230,5 +231,6 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
 
