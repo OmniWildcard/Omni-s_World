@@ -329,6 +329,8 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] Skygazer Moons SSE - 2K Glow Version (Upscaled to 4K)
 		[+] Immersive 3D Leaves - 4K Default Scale (Downscaled to 2K)
 		[+] MQ102A Failsafe
+		[+] Horsepower - Modernized Horse Riding
+		[+] Horsepower - Saturalia Reindeer Ragdoll Patch
 		
 		REMOVED MODS:
 		[-] Elmlock Armor and Blade 2K (CBBE - HIMBO)
@@ -337,6 +339,10 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[-] Elmlock Armor - Brotherhood White Update - 2K
 		[-] Yee Haaaa Horse Saddle - 2K Textures
 		[-] Yee Haaaa Horse Saddle - Wild Horses CC Patch - 2K Textures
+		[-] Dynamic Horse Petting Animations
+		[-] Horse Jump Fix (OAR)
+		[-] Horses Simply Turn Better
+		[-] IHSS Improved Horse Step Sounds
 		
 		UPDATED MODS:
 		[+] Fuse00 - Akasha Armor SMP - 3BA Refit
@@ -352,6 +358,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
 
 
