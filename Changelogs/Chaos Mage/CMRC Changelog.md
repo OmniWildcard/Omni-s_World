@@ -288,7 +288,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 <details>
 	<summary>Full Changelog</summary>
 		
-	THIS UPDATE IS SAVE-SAFE!
+	THIS UPDATE IS NOT SAVE-SAFE!
 	
 		NEW ADDITIONS:
 		[+] Naya Follower and Rayya Replacer CotR CC666
@@ -331,6 +331,8 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] MQ102A Failsafe
 		[+] Horsepower - Modernized Horse Riding
 		[+] Horsepower - Saturalia Reindeer Ragdoll Patch
+		[+] Animated Mounted Casting
+		[+] Animated Mounted Casting - JA (Jumping Attack) Patch
 		
 		REMOVED MODS:
 		[-] Elmlock Armor and Blade 2K (CBBE - HIMBO)
@@ -343,6 +345,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[-] Horse Jump Fix (OAR)
 		[-] Horses Simply Turn Better
 		[-] IHSS Improved Horse Step Sounds
+		
 		
 		UPDATED MODS:
 		[+] Fuse00 - Akasha Armor SMP - 3BA Refit
@@ -358,6 +361,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
 
 
