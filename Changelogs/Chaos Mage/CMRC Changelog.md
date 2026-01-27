@@ -10,6 +10,9 @@
 
 - [Foreword](#foreword)
 - [Changelogs](#changelogs)
+	- [v1.0.21.0](#v10210)
+  	- [v1.0.22.0](#v10220)
+  	- [v1.0.23.0](#v10230)
 	- [v1.0.24.0](#v10240)
  	- [v1.0.25.0](#v10250)
   	- [v1.3.1.0](#v1310)
@@ -18,9 +21,125 @@
 This document compiles all the changelogs from previous version of the Chaos Mage list in one place. They are organized by version number and list any new additions, removed mods and updated mods. Some versions did not have a changelog as I did not have time to write one out at the time. Add to the fact that I only started writing them more regularly around v1.0.21.0 of the list and you will see some gaps where there were no changelogs posted. That being said, they are comprehensive and will specify if the update is save-safe or not prior to listing off the changes.
 
 > [!NOTE]
-> This compendium is under construction and I'm slowly adding in the older changelogs as time allows. If you need the changelog for a version and don't see it here I advise you to check back later.
+> Prior to v1.3.1.0 the list used a different versioning scheme for its updates. As of v1.3.0.0 it is now following the structure of MAJOR.MINOR.PATCH.REVISION and the meaning of the numbers in each section has been standardized. Check the [Readme]()
 
 # Changelogs
+
+## v1.0.21.0
+
+<details>
+	<summary>Full Changelog</summary>
+		
+	THIS UPDATE IS NOT SAVE-SAFE!
+	
+		NEW ADDITIONS:
+		[+] 3D Shivering Isles Grass for ECSS
+		[+] Vanaheimr Mountains
+		[+] JK’s Sinderion’s Field Laboratory
+		[+] JK’s Septimus Signus’s Outpost
+		[+] JK’s Nightgate Inn
+		[+] Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.
+		[+] Roleplaying in Skyrim - Classic Attributes
+		[+] Roleplaying In Skyrim - Origins
+		[+] Roleplaying in Skyrim - Birthsigns
+		
+		REMOVED MODS:
+		[-] Capital Windhelm Expansion
+		
+		UPDATED MODS:
+		[+] Grass Cache
+		[+] Grass Bound Records
+		[+] Freak’s Floral Fields
+		[+] Rose of High Poly
+		[+] JK’s Sleeping Giant Inn
+		[+] Rigmor of Upscale
+		[+] Rigmor of Parallax
+		[+] Rigmor of Cyrodiil - Lighting Overhaul
+	
+</details>
+
+## v1.0.22.0
+
+<details>
+	<summary>Full Changelog</summary>
+		
+	THIS UPDATE IS NOT SAVE-SAFE!
+	
+		NEW ADDITIONS:
+		[+] Roleplaying in Skyrim - Evolving Economy
+		[+] Roleplaying in Skyrim - Loot Overhaul
+		[+] Roleplaying in Skyrim - Encounter Zones
+		[+] Aetherius - Race Overhaul
+		[+] Mundus - Standing Stone Overhaul
+		[+] E.S.L.A. - Elder Scrolls Levelling and Attributes
+		
+		REMOVED MODS:
+		[-] Roleplaying in Skyrim - Classic Attributes
+		[-] Roleplaying In Skyrim - Origins
+		[-] Roleplaying in Skyrim - Birthsigns
+		[-] Roleplaying in Skyrim - Skill Based Stat Growth
+		[-] Roleplaying in Skyrim - Useful MiscStats
+		[-] Character Creation Overhaul
+	
+</details>
+
+## v1.0.23.0
+
+<details>
+	<summary>Full Changelog</summary>
+		
+	THIS UPDATE IS NOT SAVE-SAFE!
+	
+		NEW ADDITIONS:
+		[+] Riton’s Medieval Solitude
+		[+] High Poly Windhelm Hawk Gate Bridge
+		[+] Windhelm Gate Fixes SE
+		[+] Windhelm Entrance Offset Fix - Base Object Swapper
+		[+] Windhelm Bridge Tweaks
+		[+] Ordinator - Windhelm Bridge Tweaks Patch
+		[+] FYX - Windhelm Docks Entrance Consistency
+		[+] Windhelm Objects SMIMed
+		[+] Blended Windhelm Bridge Snowdrifts
+		[+] FYX - Windhelm Graveyard
+		[+] FYX - Windhelm Castle Door
+		[+] FYX - Windhelm Stable Roof
+		[+] FYX - Windhelm Palace of Kings
+		[+] Windhelm Fake Windows Fix
+		[+] Better Windhelm Ground Meshes
+		[+] Epic Windhelm Expansion
+		[+] Riton’s Windhelm
+		[+] Riton’s Windhelm - JK’s Palace of Kings Patch
+		[+] Book Covers of Skyrim - Lost Library Redux
+		[+] Saints and Seducers Bolts
+		[+] Golden Saint Armory Revamped - Consistency Patches
+		[+] Amber Refossilized
+		[+] Armory Extended - Saints and Seducers
+		[+] Saints and Seducers Retexture SE
+		[+] Skoglendi - A Grass Mod
+		[+] Northern Roads - NGIO Patch
+		[+] ESO Themed Dwemer Animunculi
+		[+] Dwemer Water Wheels
+		[+] Various GDPR Patches
+		[+] Dwarven Armor SE
+		[+] Dwemer Armor SE - My patches and fixes by Xtudo
+		[+] Dwemer Armor SE - HIMBO Refit
+		[+] Dwemer Armor SE - CBBE 3BA
+		
+		REMOVED MODS:
+		[-] Capital Windhelm Expansion
+		[-] Supreme Dwarven Spheres
+		[-] Immersive World Encounters SE
+		[-] Reshaped Dwarven Armor
+		
+		UPDATED MODS:
+		[+] Grass Cache
+		[+] Northern Roads - Synthesis Patch
+		[+] Moss Shaders Restored - Cut Content Restoration
+		[+] Fortified Whiterun
+		[+] JK + Ryn’s Whiterun Outskirts
+		[+] Daedric Shrines - All in One - My Patches by Xtudo - Azura Statue replacer
+	
+</details>
 
 ## v1.0.24.0
 
@@ -231,6 +350,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
 
 
