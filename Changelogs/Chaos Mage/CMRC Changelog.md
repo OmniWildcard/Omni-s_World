@@ -21,7 +21,7 @@
 This document compiles all the changelogs from previous version of the Chaos Mage list in one place. They are organized by version number and list any new additions, removed mods and updated mods. Some versions did not have a changelog as I did not have time to write one out at the time. Add to the fact that I only started writing them more regularly around v1.0.21.0 of the list and you will see some gaps where there were no changelogs posted. That being said, they are comprehensive and will specify if the update is save-safe or not prior to listing off the changes.
 
 > [!NOTE]
-> Prior to v1.3.0.0 the list used a different versioning scheme and structure for its updates. Since that release it now follows the structure of 'MAJOR.MINOR.PATCH.REVISION' and the meaning of the numbers in each section has been standardized. Check the [Readme](https://github.com/OmniWildcard/Omni-s_World/blob/main/Readme_Files/CMRC_Readme.md#updating-the-modlist) for more information on what each kind of update entails.
+> Prior to v1.3.0.0 the list used a different versioning scheme and structure for its updates. Since that release it now follows the structure of `MAJOR`.`MINOR`.`PATCH`.`REVISION` and the meaning of the numbers in each section has been standardized. Check the [Readme](https://github.com/OmniWildcard/Omni-s_World/blob/main/Readme_Files/CMRC_Readme.md#updating-the-modlist) for more information on what each kind of update entails.
 
 # Changelogs
 
@@ -352,6 +352,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
 
 
