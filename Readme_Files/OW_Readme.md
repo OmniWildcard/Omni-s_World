@@ -206,12 +206,24 @@ To change your Skyrim SE's language:
 >[!WARNING]
 > ***Do NOT skip this step or your install may fail!***
 
-Since this list requires the full AE DLC this step is not that complicated. Simply ensure that you have purchased the AE Upgrade and launch the game through Steam afterwards. It will prompt you to download the AE content once you've loaded into the main menu. Simply confirm and allow the process to run to completion. When it is finished downloading the additional files you can safely close the game.
+Since this list requires the full AE DLC this step is not that complicated. Simply ensure that you purchase the AE Upgrade, have cleared out any existing free CC content from your Skyrim data folder and launch the game through Steam afterwards. It will prompt you to download the AE content once you've loaded into the main menu. Simply confirm and allow the process to run to completion. When it is finished downloading the additional files you can safely close the game.
 
 >[!IMPORTANT]
 >
 >- **DO NOT** Alt+Tab during this process or it will fail to properly download these files.
 >- **DO NOT** verify your game files after doing the steps above as it will revert the "correct" file hashes for the CC files you downloaded in this step.
+
+Before proceeding to the next step it is recommended that you check the following files and ensure they appear exactly as they do in the list below (the name of each Creation is noted in parenthesis):
+- `ccbgssse001-fish.esm` (Fishing)
+- `ccbgssse025-advdsgs.esm` (Saints and Seducers)
+- `ccbgssse002-surlvdlc.esm` (Survival)
+- `ccbgssse037-curios.esm` (Rare Curios)
+
+>[!IMPORTANT]
+>
+>- If **ANY** of these files are not as they appear here (not in all lower-case) delete them and their associated BSA archive. Afterwards you will need to go back into the Creation Club UI to download the correct version of the CC content.
+>- **DO NOT** Alt+Tab during this process at any time.
+>- **DO NOT** verify your game files afterwards or you will revert the files to the incorrect versions.
 
 ## Wabbajack Installation
 
