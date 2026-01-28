@@ -223,9 +223,8 @@ Before proceeding to the next step it is recommended that you check the followin
 >[!IMPORTANT]
 >
 >- If **ANY** of these files are not as they appear here (not in all lower-case) delete them and their associated BSA archive. Afterwards you will need to go back into the Creation Club UI to download the correct version of the CC content.
->- The same rules from before apply:
->	- **DO NOT** Alt+Tab during this process at any time.
-> 	- **DO NOT** verify your game files afterwards or you will revert the files to the incorrect versions.
+>- **DO NOT** Alt+Tab during this process at any time.
+>- **DO NOT** verify your game files afterwards or you will revert the files to the incorrect versions.
 
 ## Wabbajack Installation
 
