@@ -357,6 +357,8 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 [+] [Sir Rumple Dragon Carved Armor Set](https://www.nexusmods.com/skyrimspecialedition/mods/170412)<br>
 [+] [Ferrum Nibenis](https://www.nexusmods.com/skyrimspecialedition/mods/84971)<br>
 [+] [Ferrum Nibenis - My Patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/89986)<br>
+[+] [Ferrum Nibenis - 3BA Conversion](https://www.nexusmods.com/skyrimspecialedition/mods/97559)<br>
+[+] [Ferrum Nibenis HIMBO Refit](https://www.nexusmods.com/skyrimspecialedition/mods/90186)<br>
 [+] [Outfit For Beem-Ja](https://www.nexusmods.com/skyrimspecialedition/mods/170407)<br>
 [+] [Crown Plate Set](https://www.nexusmods.com/skyrimspecialedition/mods/114751)<br>
 [+] [Crown Plate Set - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/117190)<br>
@@ -391,4 +393,5 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 [+] DynDOLOD_Output<br>
 
 </details>
+
 
