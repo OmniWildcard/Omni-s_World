@@ -365,6 +365,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 [+] [Outfit For Salma](https://www.nexusmods.com/skyrimspecialedition/mods/169081)<br>
 [+] [Game Settings Override](https://www.nexusmods.com/skyrimspecialedition/mods/114911)<br>
 [+] [No Load Door NPC Fade](https://www.nexusmods.com/skyrimspecialedition/mods/170693)<br>
+[+] [Children of the Hist - An Argonian NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/98103)<br>
 [+] MQ102A Failsafe<br>
 		
 **REMOVED MODS:** <br>
@@ -393,6 +394,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 [+] DynDOLOD_Output<br>
 
 </details>
+
 
 
 
