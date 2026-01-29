@@ -335,6 +335,18 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] Animated Mounted Casting - JA (Jumping Attack) Patch
 		[+] Bishop Armor 3BA-BHUNP-CBBE-UNP
 		[+] HDT-SMP Bishop Armor Patch
+		[+] Falmer Slayer
+		[+] Mazken Warrior Armor - CBBE 3BA
+		[+] Fearless Lass - Female Armor
+		[+] Fearless Lass - Female Armor 3BA HDT
+		[+] Coldharbour Executioner Armor - SMP - 3BA
+		[+] Wardancer Armor set - 3BA - HDT SMP
+		[+] Viper Armor 3BA-BHUNP-CBBE-UNP-Vanilla
+		[+] HDT-SMP Viper Armor Patch
+		[+] Penelope 3BA
+		[+] Roaming Girl's Attire
+		[+] Armor Umbrage - CBBE (HDT-SMP)
+		[+] Blind Io's Umbrage Armor Recolored
 		[+] Game Settings Override
 		[+] No Load Door NPC Fade
 		
@@ -365,6 +377,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 		[+] DynDOLOD_Output
 
 </details>
+
 
 
 
