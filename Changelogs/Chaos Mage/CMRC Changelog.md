@@ -286,118 +286,102 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 ## v1.3.1.0
 
 >[!NOTE]
->From this point onwards links to the mods mentioned in the changelog under new additions will be provided. Simply click the listed mod to head to the associated mod page. If none is provided it's an unpublished mod of my own creation.
+>From this point onwards links to the mods mentioned in the changelog under `NEW ADDITIONS` will be provided. Simply click the listed mod to head to the associated mod page. If none is provided it's an unpublished mod of my own creation.
 
 <details>
-	<summary>Full Changelog</summary>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS NOT SAVE-SAFE!</p></h1>
+</header>
+<br>
+
+**NEW ADDITIONS:** <br>
+[+] [Naya Follower and Rayya Replacer CotR CC666](https://www.nexusmods.com/skyrimspecialedition/mods/170433)<br>
+[+] [Natural Bodies 3BA Bodyslide Presets CC666](https://www.nexusmods.com/skyrimspecialedition/mods/155537)<br>
+[+] [Tinraa - Booty - a CBBE 3BA BodySlide preset](https://www.nexusmods.com/skyrimspecialedition/mods/125925)<br>
+[+] [Fuse00's Camarilla Armor CBBE](https://www.patreon.com/posts/camarilla-armor-144649737)<br>
+[+] [Camarilla Armor - My patches SE by Xtudo - My Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/167550)<br>
+[+] [Camarilla Armor - My patches SE by Xtudo - Taarie SPID Patch](https://www.nexusmods.com/skyrimspecialedition/mods/167550)<br>
+[+] [LM's Fuse Armor Camarilla Retex PBR and Vanilla ENB](https://www.nexusmods.com/skyrimspecialedition/mods/167360)<br>
+[+] [Fuse00 - Akasha Armor - My patches SE by Xtudo - CBBE 4K](https://www.nexusmods.com/skyrimspecialedition/mods/142295)<br>
+[+] [Fuse00 - Akasha Armor - My patches SE by Xtudo - Endarie SPID Patch](https://www.nexusmods.com/skyrimspecialedition/mods/142295)<br>
+[+] [Elmlock Armor and Blade 4K (CBBE - HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/105930)<br>
+[+] [Elmlock Armor - Color Variants 4K](https://www.nexusmods.com/skyrimspecialedition/mods/107603)<br>
+[+] [Elmlock Armor - Brotherhood White Update - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/107603)<br>
+[+] [Yee Haaaa Horse Saddle - Wild Horses CC Patch - 4K Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42508)<br>
+[+] [Shadowmere Saddle Retexture 4K](https://www.nexusmods.com/skyrimspecialedition/mods/42594)<br>
+[+] [HD Reworked Horses 4K](https://www.nexusmods.com/skyrimspecialedition/mods/28249)<br>
+[+] [High Poly Vanilla Saddles - Fluffworks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82932)<br>
+[+] [High Poly Vanilla Saddles - Shadowmere Saddle Retexture - Fluffworks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82932)<br>
+[+] [Higher Poly Horses - Fluffworks Quality AE](https://www.nexusmods.com/skyrimspecialedition/mods/95499)<br>
+[+] [RSE - Shoulder Or Saddle](https://www.nexusmods.com/skyrimspecialedition/mods/170232)<br>
+[+] [4K Warthog - Main File](https://www.nexusmods.com/skyrimspecialedition/mods/37854)<br>
+[+] [4K Warthog - 2K Boar Meat Addon](https://www.nexusmods.com/skyrimspecialedition/mods/37854)<br>
+[+] [Fluffworks - Tweaks and Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/88138)<br>
+[+] [Fluffworks - Auto patches](https://www.nexusmods.com/skyrimspecialedition/mods/64445)<br>
+[+] [Pelage - CC Saturalia Addon](https://www.nexusmods.com/skyrimspecialedition/mods/110122)<br>
+[+] [Pelage - CC Saturalia Patches and Bodyslides](https://www.nexusmods.com/skyrimspecialedition/mods/110122)<br>
+[+] [Pelage - Better Pelts and Hides Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73400)<br>
+[+] [Pelage - Blood Horker Addon](https://www.nexusmods.com/skyrimspecialedition/mods/94420)<br>
+[+] [Pelage - Bristleback Boar](https://www.nexusmods.com/skyrimspecialedition/mods/73400)<br>
+[+] [Pelage - Sabrecat Pelts](https://www.nexusmods.com/skyrimspecialedition/mods/73400)<br>	
+[+] [Disable Snow Grass - For Vanilla and Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/36974)<br>
+[+] [Cathedral - 3D Dragons Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/85694)<br>
+[+] [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)<br>
+[+] [Cathedral - 3D Clover Plant - Hybrid 3D](https://www.nexusmods.com/skyrimspecialedition/mods/68793)<br>
+[+] [Cathedral 3D Plants - Darker and Desat](https://www.nexusmods.com/skyrimspecialedition/mods/110898)<br>
+[+] [Bears of the North - COTN Winterhold Addon](https://www.nexusmods.com/skyrimspecialedition/mods/47541)<br>
+[+] [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655)<br>
+[+] [Skygazer Moons SSE - 2K Glow Version (Upscaled to 4K)](https://www.nexusmods.com/skyrimspecialedition/mods/32057)<br>
+[+] [Immersive 3D Leaves - 4K Default Scale (Downscaled to 2K)](https://www.nexusmods.com/skyrimspecialedition/mods/170242)<br>
+[+] [Horsepower - Modernized Horse Riding](https://www.nexusmods.com/skyrimspecialedition/mods/169335)<br>
+[+] [Horsepower - Saturalia Reindeer Ragdoll Patch](https://www.nexusmods.com/skyrimspecialedition/mods/169335)<br>
+[+] [Animated Mounted Casting](https://www.nexusmods.com/skyrimspecialedition/mods/81270)<br>
+[+] [Animated Mounted Casting - JA (Jumping Attack) Patch](https://www.nexusmods.com/skyrimspecialedition/mods/81270)<br>
+[+] [Bishop Armor 3BA-BHUNP-CBBE-UNP](https://www.nexusmods.com/skyrimspecialedition/mods/170576)<br>
+[+] [HDT-SMP Bishop Armor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/170921)<br>
+[+] [Falmer Slayer](https://www.nexusmods.com/skyrimspecialedition/mods/170391)<br>
+[+] [Mazken Warrior Armor - CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/169389)<br>
+[+] [Fearless Lass - Female Armor](https://www.nexusmods.com/skyrimspecialedition/mods/168721)<br>
+[+] [Wardancer Armor set - 3BA - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/128851)<br>
+[+] [Penelope 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/147688)<br>
+[+] [ELLE - Mageali](https://www.nexusmods.com/skyrimspecialedition/mods/147010)<br>
+[+] [ELLE - Mageali - My patches SE by Xtudo - Light Armor 4K](https://www.nexusmods.com/skyrimspecialedition/mods/148644)<br>
+[+] [ELLE - Mageali - My patches SE by Xtudo - COTN Morthal Patch](https://www.nexusmods.com/skyrimspecialedition/mods/148644)<br>
+[+] [ELLE - Mageali - My patches SE by Xtudo - Long Skirt](https://www.nexusmods.com/skyrimspecialedition/mods/148644)<br>
+[+] [ELLE - Mageali - My patches SE by Xtudo - No High Heels Patch](https://www.nexusmods.com/skyrimspecialedition/mods/148644)<br>
+[+] [ELLE - Mageali - My patches SE by Xtudo - Non-Transparent Stockings 4K](https://www.nexusmods.com/skyrimspecialedition/mods/148644)<br>
+[+] [Roaming Girl's Attire](https://www.nexusmods.com/skyrimspecialedition/mods/143236)<br>
+[+] [Armor Umbrage - CBBE (HDT-SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/145958)<br>
+[+] [Blind Io's Umbrage Armor Recolored](https://www.nexusmods.com/skyrimspecialedition/mods/146549)<br>
+[+] [Sir Rumple Dragon Carved Armor Set](https://www.nexusmods.com/skyrimspecialedition/mods/170412)<br>
+[+] [Game Settings Override](https://www.nexusmods.com/skyrimspecialedition/mods/114911)<br>
+[+] [No Load Door NPC Fade](https://www.nexusmods.com/skyrimspecialedition/mods/170693)<br>
+[+] MQ102A Failsafe<br>
 		
-	THIS UPDATE IS NOT SAVE-SAFE!
-	
-		NEW ADDITIONS:
-		[+] [Naya Follower and Rayya Replacer CotR CC666](https://www.nexusmods.com/skyrimspecialedition/mods/170433)
-		[+] [Natural Bodies 3BA Bodyslide Presets CC666](https://www.nexusmods.com/skyrimspecialedition/mods/155537)
-		[+] [Tinraa - Booty - a CBBE 3BA BodySlide preset](https://www.nexusmods.com/skyrimspecialedition/mods/125925)
-		[+] [Fuse00's Camarilla Armor CBBE](https://www.patreon.com/posts/camarilla-armor-144649737)
-		[+] [Camarilla Armor - My patches SE by Xtudo - My Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/167550)
-		[+] [Camarilla Armor - My patches SE by Xtudo - Taarie SPID Patch](https://www.nexusmods.com/skyrimspecialedition/mods/167550)
-		[+] [LM's Fuse Armor Camarilla Retex PBR and Vanilla ENB](https://www.nexusmods.com/skyrimspecialedition/mods/167360)
-		[+] [Fuse00 - Akasha Armor - My patches SE by Xtudo - CBBE 4K](https://www.nexusmods.com/skyrimspecialedition/mods/142295)
-		[+] [Fuse00 - Akasha Armor - My patches SE by Xtudo - Endarie SPID Patch](https://www.nexusmods.com/skyrimspecialedition/mods/142295)
-		[+] [Elmlock Armor and Blade 4K (CBBE - HIMBO)](https://www.nexusmods.com/skyrimspecialedition/mods/105930)
-		[+] [Elmlock Armor - Color Variants 4K](https://www.nexusmods.com/skyrimspecialedition/mods/107603)
-		[+] [Elmlock Armor - Brotherhood White Update - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/107603)
-		[+] [Yee Haaaa Horse Saddle - Wild Horses CC Patch - 4K Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42508)
-		[+] [Shadowmere Saddle Retexture 4K](https://www.nexusmods.com/skyrimspecialedition/mods/42594)
-		[+] [HD Reworked Horses 4K](https://www.nexusmods.com/skyrimspecialedition/mods/28249)
-		[+] [High Poly Vanilla Saddles - Fluffworks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82932)
-		[+] [High Poly Vanilla Saddles - Shadowmere Saddle Retexture - Fluffworks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/82932)
-		[+] [Higher Poly Horses - Fluffworks Quality AE](https://www.nexusmods.com/skyrimspecialedition/mods/95499)
-		[+] [RSE - Shoulder Or Saddle](https://www.nexusmods.com/skyrimspecialedition/mods/170232)
-		[+] [4K Warthog - Main File](https://www.nexusmods.com/skyrimspecialedition/mods/37854)
-		[+] [4K Warthog - 2K Boar Meat Addon](https://www.nexusmods.com/skyrimspecialedition/mods/37854)
-		[+] [Fluffworks - Tweaks and Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/88138)
-		[+] [Fluffworks - Auto patches](https://www.nexusmods.com/skyrimspecialedition/mods/64445)
-		[+] [Pelage - CC Saturalia Addon](https://www.nexusmods.com/skyrimspecialedition/mods/110122)
-		[+] [Pelage - CC Saturalia Patches and Bodyslides](https://www.nexusmods.com/skyrimspecialedition/mods/110122)
-		[+] [Pelage - Better Pelts and Hides Patch](https://www.nexusmods.com/skyrimspecialedition/mods/73400)
-		[+] [Pelage - Blood Horker Addon](https://www.nexusmods.com/skyrimspecialedition/mods/94420)
-		[+] [Pelage - Bristleback Boar](https://www.nexusmods.com/skyrimspecialedition/mods/73400)
-		[+] [Pelage - Sabrecat Pelts](https://www.nexusmods.com/skyrimspecialedition/mods/73400)		
-		[+] [Disable Snow Grass - For Vanilla and Cathedral Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/36974)
-		[+] [Cathedral - 3D Dragons Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/85694)
-		[+] [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)
-		[+] [Cathedral - 3D Clover Plant - Hybrid 3D](https://www.nexusmods.com/skyrimspecialedition/mods/68793)
-		[+] [Cathedral 3D Plants - Darker and Desat](https://www.nexusmods.com/skyrimspecialedition/mods/110898)
-		[+] [Bears of the North - COTN Winterhold Addon](https://www.nexusmods.com/skyrimspecialedition/mods/47541)
-		[+] [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655)
-		[+] [Skygazer Moons SSE - 2K Glow Version (Upscaled to 4K)](https://www.nexusmods.com/skyrimspecialedition/mods/32057)
-		[+] [Immersive 3D Leaves - 4K Default Scale (Downscaled to 2K)](https://www.nexusmods.com/skyrimspecialedition/mods/170242)
-		[+] MQ102A Failsafe
-		[+] [Horsepower - Modernized Horse Riding](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
-		[+] [Horsepower - Saturalia Reindeer Ragdoll Patch](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
-		[+] [Animated Mounted Casting](https://www.nexusmods.com/skyrimspecialedition/mods/81270)
-		[+] [Animated Mounted Casting - JA (Jumping Attack) Patch](https://www.nexusmods.com/skyrimspecialedition/mods/81270)
-		[+] [Bishop Armor 3BA-BHUNP-CBBE-UNP](https://www.nexusmods.com/skyrimspecialedition/mods/170576)
-		[+] [HDT-SMP Bishop Armor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/170921)
-		[+] [Falmer Slayer](https://www.nexusmods.com/skyrimspecialedition/mods/170391)
-		[+] [Mazken Warrior Armor - CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/169389)
-		[+] [Fearless Lass - Female Armor](https://www.nexusmods.com/skyrimspecialedition/mods/168721)
-		[+] [Wardancer Armor set - 3BA - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/128851)
-		[+] [Penelope 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/147688)
-		[+] [ELLE - Mageali](https://www.nexusmods.com/skyrimspecialedition/mods/147010)
-		[+] [ELLE - Mageali - My patches SE by Xtudo - Light Armor 4K](https://www.nexusmods.com/skyrimspecialedition/mods/148644)
-		[+] [ELLE - Mageali - My patches SE by Xtudo - COTN Morthal Patch](https://www.nexusmods.com/skyrimspecialedition/mods/148644)
-		[+] [ELLE - Mageali - My patches SE by Xtudo - Long Skirt](https://www.nexusmods.com/skyrimspecialedition/mods/148644)
-		[+] [ELLE - Mageali - My patches SE by Xtudo - No High Heels Patch](https://www.nexusmods.com/skyrimspecialedition/mods/148644)
-		[+] [ELLE - Mageali - My patches SE by Xtudo - Non-Transparent Stockings 4K](https://www.nexusmods.com/skyrimspecialedition/mods/148644)
-		[+] [Roaming Girl's Attire](https://www.nexusmods.com/skyrimspecialedition/mods/143236)
-		[+] [Armor Umbrage - CBBE (HDT-SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/145958)
-		[+] [Blind Io's Umbrage Armor Recolored](https://www.nexusmods.com/skyrimspecialedition/mods/146549)
-		[+] [Sir Rumple Dragon Carved Armor Set](https://www.nexusmods.com/skyrimspecialedition/mods/170412)
-		[+] [Game Settings Override](https://www.nexusmods.com/skyrimspecialedition/mods/114911)
-		[+] [No Load Door NPC Fade](https://www.nexusmods.com/skyrimspecialedition/mods/170693)
+**REMOVED MODS:** <br>
+[-] Elmlock Armor and Blade 2K (CBBE - HIMBO)<br>
+[-] Elmlock Armor - No College Emblem Patch<br>
+[-] Elmlock Armor - Color Variants 2K<br>
+[-] Elmlock Armor - Brotherhood White Update - 2K<br>
+[-] Yee Haaaa Horse Saddle - 2K Textures<br>
+[-] Yee Haaaa Horse Saddle - Wild Horses CC Patch - 2K Textures<br>
+[-] Dynamic Horse Petting Animations<br>
+[-] Horse Jump Fix (OAR)<br>
+[-] Horses Simply Turn Better<br>
 		
-		REMOVED MODS:
-		[-] Elmlock Armor and Blade 2K (CBBE - HIMBO)
-		[-] Elmlock Armor - No College Emblem Patch
-		[-] Elmlock Armor - Color Variants 2K
-		[-] Elmlock Armor - Brotherhood White Update - 2K
-		[-] Yee Haaaa Horse Saddle - 2K Textures
-		[-] Yee Haaaa Horse Saddle - Wild Horses CC Patch - 2K Textures
-		[-] Dynamic Horse Petting Animations
-		[-] Horse Jump Fix (OAR)
-		[-] Horses Simply Turn Better
-		
-		UPDATED MODS:
-		[+] IHSS Improved Horse Step Sounds
-		[+] Fuse00 - Akasha Armor SMP - 3BA Refit
-		[+] Bears of the North Patches
-		[+] Grass Cache
-		[+] FNIS_Output
-		[+] Mod List Patches, Bug Fixes & Overwrites
-		[+] Bodyslide Output
-		[+] ParallaxGen_Output
-		[+] SSELODGen_Output
-		[+] ACMOS_Output
-		[+] TexGen_Output
-		[+] DynDOLOD_Output
+**UPDATED MODS:** <br>
+[+] IHSS Improved Horse Step Sounds<br>
+[+] Fuse00 - Akasha Armor SMP - 3BA Refit<br>
+[+] Bears of the North Patches<br>
+[+] Grass Cache<br>
+[+] FNIS_Output<br>
+[+] Mod List Patches, Bug Fixes & Overwrites<br>
+[+] Bodyslide Output<br>
+[+] ParallaxGen_Output<br>
+[+] SSELODGen_Output<br>
+[+] ACMOS_Output<br>
+[+] TexGen_Output<br>
+[+] DynDOLOD_Output<br>
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
