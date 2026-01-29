@@ -104,11 +104,11 @@ These are the minimum recommended specifications to run the list though there ma
 
 </details>
 <details>
-<summary>At least 689GB of free space</summary>
+<summary>At least 706GB of free space</summary>
 
-	246GB for downloads + 30GB free space
+	253GB for downloads + 30GB free space
 	
-	413GB for the installation on a Gen 4 or later NVME SSD
+	423GB for the installation on a Gen 4 or later NVME SSD
 
 </details>
 
