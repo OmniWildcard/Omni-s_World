@@ -362,7 +362,6 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 [+] [Outfit For Beem-Ja](https://www.nexusmods.com/skyrimspecialedition/mods/170407)<br>
 [+] [Crown Plate Set](https://www.nexusmods.com/skyrimspecialedition/mods/114751)<br>
 [+] [Crown Plate Set - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/117190)<br>
-[+] [Crown Plate Set HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/116757)<br>
 [+] [Outfit For Salma](https://www.nexusmods.com/skyrimspecialedition/mods/169081)<br>
 [+] [Game Settings Override](https://www.nexusmods.com/skyrimspecialedition/mods/114911)<br>
 [+] [No Load Door NPC Fade](https://www.nexusmods.com/skyrimspecialedition/mods/170693)<br>
@@ -394,6 +393,7 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 [+] DynDOLOD_Output<br>
 
 </details>
+
 
 
 
