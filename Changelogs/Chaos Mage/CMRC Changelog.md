@@ -413,8 +413,9 @@ N/A
 **UPDATED MODS:** <br>
 N/A
 
-This update was purely performance fixes/tweaks and a minor bugfix. No new mods were added or removed but the MQ102A Failsafe ESP's records were merged into SSETamriel_LandscapeMerged to prevent the issues in Alvor's house from resurfacing. If you use an old save it will complain about a missing ESP file but you can safely ignore this warning. The FormIDs and ReferenceIDs are unchanged and the only script was a modified vanilla script which is still present in the files. As such there should be no orphaned scripts or detached instances but if you want to play it safe run your save through Resaver.
+This update was purely performance fixes/tweaks and a minor bugfix. No new mods were added or removed but the MQ102A Failsafe ESP's records were merged into SSETamriel_LandscapeMerged to prevent the issues in Alvor's house from resurfacing. If you use an old save it will complain about a missing ESP file but you can safely ignore this warning. The FormIDs and ReferenceIDs are unchanged and the only script was a modified vanilla script which is still present in the files. As such there should be no orphaned scripts or instances but if you want to play it safe run your save through Resaver.
 
 </details>
+
 
 
