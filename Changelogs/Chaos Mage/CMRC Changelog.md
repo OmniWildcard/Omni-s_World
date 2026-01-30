@@ -395,6 +395,8 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 
 </details>
 
+## v1.3.1.1
+
 <details>
 <summary>Full Changelog</summary>
 <header>
@@ -414,3 +416,4 @@ N/A
 This update was purely performance fixes/tweaks and a minor bugfix. No new mods were added or removed but the MQ102A Failsafe ESP's records were merged into SSETamriel_LandscapeMerged to prevent the issues in Alvor's house from resurfacing. If you use an old save it will complain about a missing ESP file but you can safely ignore this warning. The FormIDs and ReferenceIDs are unchanged and the only script was a modified vanilla script which is still present in the files. As such there should be no orphaned scripts or detatched instances but if you want to play it safe run your save through Resaver.
 
 </details>
+
