@@ -461,10 +461,12 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [-] Mihail's CC Goblins - My Textures by Xtudo - 2K<br>
 		
 **UPDATED MODS:** <br>
-[+] Yoku Armory
+[+] Yoku Armory<br>
 [+] RMB SPIDified - Sons of Skyrim<br>
 [+] SOS V2.0 - SE by Xtudo - Fixes - RMB SPIDified<br>
 [+] Unofficial Skyrim Creation Club Content Patch<br>
+[+] Synthesis Patches<br>
+[+] Synthesis Patches - Serana Romance<br>
 [+] ParallaxGen_Output<br>
 [+] SSELODGen_Output<br>
 [+] ACMOS_Output<br>
@@ -473,6 +475,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
 </details>
+
 
 
 
