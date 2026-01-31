@@ -466,7 +466,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] SOS V2.0 - SE by Xtudo - Fixes - RMB SPIDified<br>
 [+] Unofficial Skyrim Creation Club Content Patch<br>
 [+] Synthesis Patches<br>
-[+] Synthesis Patches - Serana Romance<br>
+[+] Synthesis Patches - SDE Romance<br>
 [+] ParallaxGen_Output<br>
 [+] SSELODGen_Output<br>
 [+] ACMOS_Output<br>
@@ -475,6 +475,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
 </details>
+
 
 
 
