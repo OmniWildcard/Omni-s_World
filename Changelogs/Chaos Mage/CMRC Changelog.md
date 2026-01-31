@@ -417,5 +417,54 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 
 </details>
 
+## v1.3.2.0
 
+<details>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS SAVE-SAFE!</p></h1>
+</header>
+<br>
 
+**NEW ADDITIONS:** <br>
+[+] [ABT AE - Arrows and Bolt Tweaks AE](https://www.nexusmods.com/skyrimspecialedition/mods/4683)<br>
+[+] [ElSopa - Potions Redone 4K](https://www.nexusmods.com/skyrimspecialedition/mods/80832)<br>
+[+] [Tomato's Wood Overhaul 4K](https://www.nexusmods.com/skyrimspecialedition/mods/115201)<br>
+[+] [Tomato's Wood - Grungier Dungeons 4K](https://www.nexusmods.com/skyrimspecialedition/mods/115201)<br>
+[+] [Skyking Hanging Moss 4K](https://www.nexusmods.com/skyrimspecialedition/mods/150002)<br>
+[+] [Son's of Skyrim - SE by Xtudo - Desaturated Textures 4K](https://www.nexusmods.com/skyrimspecialedition/mods/104126)<br>
+[+] [Subtelties - SE by Xtudo - Optimized 4K Textures](https://www.nexusmods.com/skyrimspecialedition/mods/130775)<br>
+[+] [Geode's Redone 4K](https://www.nexusmods.com/skyrimspecialedition/mods/70530)<br>
+[+] [Geode's Redone Blackreach 4K](https://www.nexusmods.com/skyrimspecialedition/mods/70530)<br>
+[+] [Lore Accurate Divine Crusader Retexture 4K](https://www.nexusmods.com/skyrimspecialedition/mods/123960)<br>
+[+] [Reforged Crusader Armor Patch 4K](https://www.nexusmods.com/skyrimspecialedition/mods/123960)<br>
+[+] [Stonefire Set - My Textures SE by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/101861)<br>
+[+] [Stonefire Weaponry - My Textures SE by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/102308)<br>
+[+] [Mihail's CC Goblins - My Textures by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/105122)<br>
+		
+**REMOVED MODS:** <br>
+[-] ElSopa - Potions Redone 2K<br>
+[-] Tomato's Wood Overhaul 2K<br>
+[-] Tomato's Wood - Grungier Dungeons 2K<br>
+[-] Grphonknight Regalia - 2K Textures<br>
+[-] Sellsword 2K Textures<br>
+[-] Skyking Hanging Moss 2K<br>
+[-] Son's of Skyrim - SE by Xtudo - Desaturated Textures 2K<br>
+[-] Subtelties - SE by Xtudo - Optimized 2K Textures<br>
+[-] Geode's Redone 2K<br>
+[-] Geode's Redone Blackreach 2K<br>
+[-] Lore Accurate Divine Crusader Retexture 2K<br>
+[-] Reforged Crusader Armor Patch 4K<br>
+[-] Stonefire Set - My Textures SE by Xtudo - 2K<br>
+[-] Stonefire Weaponry - My Textures SE by Xtudo - 2K<br>
+[-] Mihail's CC Goblins - My Textures by Xtudo - 2K<br>
+		
+**UPDATED MODS:** <br>
+[+] Unofficial Skyrim Creation Club Content Patch<br>
+[+] ParallaxGen_Output<br>
+[+] SSELODGen_Output<br>
+[+] ACMOS_Output<br>
+[+] TexGen_Output<br>
+[+] DynDOLOD_Output<br>
+
+</details>
