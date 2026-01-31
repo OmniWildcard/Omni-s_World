@@ -441,6 +441,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] [Stonefire Set - My Textures SE by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/101861)<br>
 [+] [Stonefire Weaponry - My Textures SE by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/102308)<br>
 [+] [Mihail's CC Goblins - My Textures by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/105122)<br>
+[+] [PrivateProfileRedirector SE - Faster game start (INI file cacher)](https://www.nexusmods.com/skyrimspecialedition/mods/18860)
 		
 **REMOVED MODS:** <br>
 [-] ElSopa - Potions Redone 2K<br>
@@ -460,6 +461,8 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [-] Mihail's CC Goblins - My Textures by Xtudo - 2K<br>
 		
 **UPDATED MODS:** <br>
+[+] RMB SPIDified - Sons of Skyrim<br>
+[+] SOS V2.0 - SE by Xtudo - Fixes - RMB SPIDified<br>
 [+] Unofficial Skyrim Creation Club Content Patch<br>
 [+] ParallaxGen_Output<br>
 [+] SSELODGen_Output<br>
@@ -468,3 +471,4 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] DynDOLOD_Output<br>
 
 </details>
+
