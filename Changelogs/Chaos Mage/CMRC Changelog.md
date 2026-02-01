@@ -441,7 +441,8 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] [Stonefire Set - My Textures SE by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/101861)<br>
 [+] [Stonefire Weaponry - My Textures SE by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/102308)<br>
 [+] [Mihail's CC Goblins - My Textures by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/105122)<br>
-[+] [PrivateProfileRedirector SE - Faster game start (INI file cacher)](https://www.nexusmods.com/skyrimspecialedition/mods/18860)
+[+] [PrivateProfileRedirector SE - Faster game start (INI file cacher)](https://www.nexusmods.com/skyrimspecialedition/mods/18860)<br>
+[+] [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)<br>
 		
 **REMOVED MODS:** <br>
 [-] ElSopa - Potions Redone 2K<br>
@@ -475,6 +476,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
 </details>
+
 
 
 
