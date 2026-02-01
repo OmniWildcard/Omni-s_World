@@ -427,6 +427,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 <br>
 
 **NEW ADDITIONS:** <br>
+[+] [Luna Snow's CBBE 3BA Bodyslide Preset (Marvel Rivals)](https://www.nexusmods.com/skyrimspecialedition/mods/171376)<br>
 [+] [ABT AE - Arrows and Bolt Tweaks AE](https://www.nexusmods.com/skyrimspecialedition/mods/4683)<br>
 [+] [ElSopa - Potions Redone 4K](https://www.nexusmods.com/skyrimspecialedition/mods/80832)<br>
 [+] [Tomato's Wood Overhaul 4K](https://www.nexusmods.com/skyrimspecialedition/mods/115201)<br>
@@ -476,6 +477,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
 </details>
+
 
 
 
