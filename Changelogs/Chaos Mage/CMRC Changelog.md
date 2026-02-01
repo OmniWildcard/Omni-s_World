@@ -444,6 +444,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] [Mihail's CC Goblins - My Textures by Xtudo - 4K](https://www.nexusmods.com/skyrimspecialedition/mods/105122)<br>
 [+] [PrivateProfileRedirector SE - Faster game start (INI file cacher)](https://www.nexusmods.com/skyrimspecialedition/mods/18860)<br>
 [+] [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)<br>
+[+] [Fura Bloodmouth DF Edit SkyPatched](https://www.nexusmods.com/skyrimspecialedition/mods/171382)<br>
 		
 **REMOVED MODS:** <br>
 [-] ElSopa - Potions Redone 2K<br>
@@ -463,6 +464,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [-] Mihail's CC Goblins - My Textures by Xtudo - 2K<br>
 		
 **UPDATED MODS:** <br>
+[+] Follower Dialogue Expansion - Fura Bloodmouth<br>
 [+] Yoku Armory<br>
 [+] RMB SPIDified - Sons of Skyrim<br>
 [+] SOS V2.0 - SE by Xtudo - Fixes - RMB SPIDified<br>
@@ -481,12 +483,3 @@ Performance has been greatly improved in the game with most areas hitting a mini
 The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there, but the Solitude performance issues along that specific sightline will require a custom occlusion patch which will be released in a future update. I highly advise you avoid massive skirmishes along that sightline in the meantime even though the game logic has been decoupled from the frame rate via Display Tweaks. While the mechanics will remain responsive the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished.<br>
 
 </details>
-
-
-
-
-
-
-
-
-
