@@ -476,9 +476,12 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] DynDOLOD_Output<br>
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
-Performance has been greatly improved in the game with most areas hitting a minimum of 40 FPS. The only exception appears to be near the crossroads directly outside the entrance of Ivarstead when heading through the mountain pass from the Helgen and the Solitude Docks+Sawmill+Katla's Farm sightline corridor. The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there, but the Solitude performance issues along that specific sightline will require a custom occlusion patch which will be released in a future update. I highly advise you avoid massive skirmishes along that sightline in the meantime even though the game logic has been decoupled from the frame rate via Display Tweaks. While the mechanics will remain responsive the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished.<br>
+Performance has been greatly improved in the game with most areas hitting a minimum of 40 FPS. The only exception appears to be near the crossroads directly outside the entrance of Ivarstead when heading there viathe mountain pass from the Helgen and the Solitude Docks+Sawmill+Katla's Farm sightline corridor.<br>
+
+The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there, but the Solitude performance issues along that specific sightline will require a custom occlusion patch which will be released in a future update. I highly advise you avoid massive skirmishes along that sightline in the meantime even though the game logic has been decoupled from the frame rate via Display Tweaks. While the mechanics will remain responsive the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished.<br>
 
 </details>
+
 
 
 
