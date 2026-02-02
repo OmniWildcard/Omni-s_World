@@ -484,4 +484,6 @@ In general, performance has been greatly improved in the game with most areas no
 
 The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there but will devote some time to try and keep the FPS above 40. However, the Solitude performance issues along the specified sightlines will require a custom occlusion patch which will be released in a future update. While the mechanics will remain responsive, the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished in the event of combat in that general area. This is purely because combat will introduce additional draw calls that may push the framerate further down to the 20-24 FPS range along that corridor. As such, I highly advise you avoid massive skirmishes along that sightline until the next update; despite the fact that the game logic has been decoupled from the frame rate via SSE Display Tweaks.<br>
 
+At any rate, that about sums up this update. So get in there and start playing! Cheers folks!<br>
+
 </details>
