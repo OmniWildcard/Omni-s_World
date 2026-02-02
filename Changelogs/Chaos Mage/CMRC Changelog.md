@@ -458,7 +458,7 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [-] Geode's Redone 2K<br>
 [-] Geode's Redone Blackreach 2K<br>
 [-] Lore Accurate Divine Crusader Retexture 2K<br>
-[-] Reforged Crusader Armor Patch 4K<br>
+[-] Reforged Crusader Armor Patch 2K<br>
 [-] Stonefire Set - My Textures SE by Xtudo - 2K<br>
 [-] Stonefire Weaponry - My Textures SE by Xtudo - 2K<br>
 [-] Mihail's CC Goblins - My Textures by Xtudo - 2K<br>
@@ -478,8 +478,11 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 [+] DynDOLOD_Output<br>
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
-Performance has been greatly improved in the game with most areas hitting a minimum of 40 FPS. The only exception appears to be near the crossroads directly outside the entrance of Ivarstead when heading there viathe mountain pass from the Helgen and the Solitude Docks+Sawmill+Katla's Farm sightline corridor.<br>
+This update finally purges most of the remaining 2K Default textures from the list that have higher resolution options to bring the visuals to a state of consistency. Textures that had a 4K option have been replaced with their 4K equivalents. There are a small handful of 2K textures remaining that I have not yet decided on whether to upscale them or not so there may be minor graphical updates in the future. Overall this update contains one new graphical tweak, a new bodyslide for distribution, a new NPC replacer and some performance improvements to the initial menu load-time and overworld.<br>
 
-The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there, but the Solitude performance issues along that specific sightline will require a custom occlusion patch which will be released in a future update. I highly advise you avoid massive skirmishes along that sightline in the meantime even though the game logic has been decoupled from the frame rate via Display Tweaks. While the mechanics will remain responsive the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished.<br>
+In general, performance has been greatly improved in the game with most areas now hitting a minimum of 40 FPS. The only exception appears to be near the crossroads directly outside the entrance of Ivarstead when heading there via the mountain pass from the Helgen, the Solitude Docks-Sawmill-Katla's Farm sightline corridor and the sightline facing the Morthal Marshlands from the Solitude Docks. The major performance dip is along the Solitude Docks-Sawmill-Katla's Farm sightline corridor which currently locks at 29 FPS stable while viewing that particular line-of-sight. The Marshlands sightline, on the other hand, hovers around 37-39 FPS currently with similar performance to the crossroads that was previously mentioned prior to this update.<br>
+
+The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there but will include a few to try and keep the FPS above 40. However, the Solitude performance issues along the specified sightlines will require a custom occlusion patch which will be released in a future update. I highly advise you avoid massive skirmishes along that sightline in the meantime even though the game logic has been decoupled from the frame rate via Display Tweaks. While the mechanics will remain responsive the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished.<br>
 
 </details>
+
