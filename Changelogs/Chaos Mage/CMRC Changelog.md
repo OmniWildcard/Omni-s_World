@@ -488,7 +488,7 @@ At any rate, that about sums up this update. So get in there and start playing! 
 
 </details>
 
-## v1.3.2.1
+## v1.3.3.0
 
 <details>
 <summary>Full Changelog</summary>
@@ -509,9 +509,10 @@ N/A<br>
 [+] ParallaxGen_Output<br>
 [+] Mod List Patches, Bug Fixes & Overwrites<br>
 
-This update should resolve the frame-rate nosedives along the Solitude Docks-Sawmill-Katla's Farm sightline corridor and improve the frame-rates on the Morthal Swamps sightline as well. The Ivarstead crossroads performance is still being looked into and work on occluding that area is being considered to further boost the frame rate. Beyond that there's not much of note for this update. It's a performance update for the most part and fixes one minor open seam on the warehouse mesh for Complete Solitude Docks and Exterior. 
+This update should resolve the frame-rate nosedives along the Solitude Docks-Sawmill-Katla's Farm sightline corridor and improve the frame-rates on the Morthal Swamps sightline as well. The Ivarstead crossroads performance is still being looked into and work on occluding that area is being considered to further boost the frame rate. Beyond that there's not much of note for this update. It's a performance update for the most part and fixes one minor open seam on the warehouse mesh for Complete Solitude Docks and Exterior. There was also a minor issue with the Camarilla Outfit provided to Taarie in Solitude which had a broken xml and as such her legs were sinking into the ground; that has been fixed. 
 
-The only other thing I might look into adding that'll make an update not save-safe is a Thieve's Guild Overhaul but I haven't decided for or against doing that yet. Therefore any further updates will likely be purely bug fixes or more performance improvements as new options become available. With that said I will be delaying this update for a few days while I do some testing to ensure there are no remaining gaps in the occlusion for the Solitude Docks. In the meantime enjoy the list as it is and look forward to a major performance uplift in Solitude. Cheers folks!<br>
+The only other thing I might look into adding that'll make an update not save-safe is a Thieve's Guild Overhaul but I haven't decided for or against doing that yet. Therefore any further updates will likely be purely bug fixes or more performance improvements as new options become available. Cheers folks!<br>
 
 </details>
+
 
