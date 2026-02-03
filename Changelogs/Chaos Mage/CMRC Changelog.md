@@ -499,6 +499,8 @@ At any rate, that about sums up this update. So get in there and start playing! 
 
 **NEW ADDITIONS:** <br>
 [+] [Rogue's CBBE 3BA Bodyslide Preset (Marvel Rivals)](https://www.nexusmods.com/skyrimspecialedition/mods/171457)<br>
+[+] [GG's Thieves Guild Headquarters](https://www.nexusmods.com/skyrimspecialedition/mods/64018)<br>
+[+] [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)<br>
 		
 **REMOVED MODS:** <br>
 N/A<br>
@@ -512,5 +514,6 @@ N/A<br>
 This update should resolve the frame-rate nosedives along the Solitude Docks-Sawmill-Katla's Farm sightline corridor and improve the frame-rates on the Morthal Swamps sightline as well. The Ivarstead crossroads performance is still being looked into and work on occluding that area is being considered to further boost the frame rate. Beyond that there's not much of note for this update. It's a performance update for the most part and fixes one minor open seam on the warehouse mesh for Complete Solitude Docks and Exterior. Any further updates will likely be purely bug fixes or more performance improvements as new options become available. I will be delaying this update for a few days while I do some testing to ensure there are no remaining gaps in the occlusion for the Solitude Docks. In the meantime enjoy the list as it is and look forward to a major performance uplift in Solitude. Cheers folks!<br>
 
 </details>
+
 
 
