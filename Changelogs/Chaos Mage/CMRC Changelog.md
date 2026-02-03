@@ -480,10 +480,34 @@ This update was purely performance fixes/tweaks and a minor bugfix. No new mods 
 
 This update finally purges most of the remaining 2K textures from the list that have higher resolution options to bring the visuals to a state of consistency. As such those same textures that had a 4K option have been replaced with their 4K equivalents. There are a small handful of 2K textures remaining that lacked higher resolution version which I have not yet decided on whether to upscale or not; so there may be minor graphical updates in the future to resolve this inconsistency. Overall this update contains one new graphical tweak, a new bodyslide for distribution, a new NPC replacer and some performance improvements to the initial menu load-time and overworld.<br>
 
-In general, performance has been greatly improved in the game with most areas now hitting a minimum of 40 FPS. The only exceptions appear to be near the crossroads directly outside the entrance of Ivarstead when heading there via the mountain pass from Helgen, along the Solitude Docks-Sawmill-Katla's Farm sightline corridor and along the sightline facing the Morthal Marshlands from the Solitude Docks. The major performance dip is along the Solitude Docks-Sawmill-Katla's Farm sightline corridor which currently locks at 29 FPS stable while viewing that particular line-of-sight. The Marshlands sightline, on the other hand, hovers around 37-39 FPS currently with similar performance to the Ivarstead crossroads prior to this update which should now finally breach 40 FPS.<br>
+In general, performance has been greatly improved in the game with most areas now hitting a minimum of 40 FPS. The only exceptions appear to be near the crossroads directly outside the entrance of Ivarstead when heading there via the mountain pass from Helgen, along the Solitude Docks-Sawmill-Katla's Farm sightline corridor and along the sightline facing the Morthal Swamp from the Solitude Docks. The major performance dip is along the Solitude Docks-Sawmill-Katla's Farm sightline corridor which currently locks at 29 FPS stable while viewing that particular line-of-sight. The Swamp sightline, on the other hand, hovers around 37-39 FPS currently with similar performance to the Ivarstead crossroads prior to this update which should now finally breach 40 FPS.<br>
 
 The crossroad performance dip is largely solved by Shadow Boost and I will likely not be focusing much effort on additional occlusion there but will devote some time to try and keep the FPS above 40. However, the Solitude performance issues along the specified sightlines will require a custom occlusion patch which will be released in a future update. While the mechanics will remain responsive, the visual representation will likely become sluggish and choppy looking until the occlusion patch is finished in the event of combat in that general area. This is purely because combat will introduce additional draw calls that may push the framerate further down to the 20-24 FPS range along that corridor. As such, I highly advise you avoid massive skirmishes along that sightline until the next update; despite the fact that the game logic has been decoupled from the frame rate via SSE Display Tweaks.<br>
 
 At any rate, that about sums up this update. So get in there and start playing! Cheers folks!<br>
+
+</details>
+
+## v1.3.2.1
+
+<details>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS SAVE-SAFE!</p></h1>
+</header>
+<br>
+
+**NEW ADDITIONS:** <br>
+[+] [Rogue's CBBE 3BA Bodyslide Preset (Marvel Rivals)](https://www.nexusmods.com/skyrimspecialedition/mods/171457)<br>
+[+] [The Dragonborn's Bestiary - 4thUnknown Addons](https://www.nexusmods.com/skyrimspecialedition/mods/123389)<br>
+		
+**REMOVED MODS:** <br>
+N/A<br>
+		
+**UPDATED MODS:** <br>
+[+] Complete Solitude Docks and Exterior<br>
+[+] Mod List Patches, Bug Fixes & Overwrites<br>
+
+This update should resolve the frame-rate nosedives along the Solitude Docks-Sawmill-Katla's Farm sightline corridor and improve the frame-rates on the Morthal Swamps sightline as well. The Ivarstead crossroads performance is still being looked into and work on occluding that area is being considered to further boost the frame rate. Beyond that there's not much of note for this update. It's a performance update for the most part and fixes one minor open seam on the warehouse mesh for Complete Solitude Docks and Exterior. Any further updates will likely be purely bug fixes or more performance improvements as new options become available. I will be delaying this update for a few days while I do some testing to ensure there are no remaining gaps in the occlusion for the Solitude Docks. In the meantime enjoy the list as it is and look forward to a major performance uplift in Solitude. Cheers folks!<br>
 
 </details>
