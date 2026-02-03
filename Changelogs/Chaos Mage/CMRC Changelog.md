@@ -504,6 +504,7 @@ At any rate, that about sums up this update. So get in there and start playing! 
 N/A<br>
 		
 **UPDATED MODS:** <br>
+[+] HorsePower - Modernized Horse Riding (Total Riding Overhaul)
 [+] The Dragonborn's Bestiary - 4thUnknown Addons<br>
 [+] Complete Solitude Docks and Exterior<br>
 [+] ParallaxGen_Output<br>
@@ -514,6 +515,7 @@ This update should resolve the frame-rate nosedives along the Solitude Docks-Saw
 The only other thing I might look into adding that'll make an update not save-safe is a Thieve's Guild Overhaul but I haven't decided for or against doing that yet. Therefore any further updates will likely be purely bug fixes or more performance improvements as new options become available. Cheers folks!<br>
 
 </details>
+
 
 
 
