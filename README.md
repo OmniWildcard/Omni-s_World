@@ -4,7 +4,7 @@ This is a repository containing all of my mod lists that are part of the overarc
 
 # About the Mod Lists
 All of these mod lists make use of a similar foundation but have different modular gameplay elements and exclusives. Every list except Omni's World also has its own challenge you can attempt if you're looking for something to spice up your next Skyrim run. The lists should be able to be safely modified in two specific areas, as I left them largely untouched from vanilla:
-- Vampire Gameplay
+- Vampire Lord Gameplay
 - Werewolf Gameplay
 - Dragonborn Voiceover Packs
 - Controller Support Mods
