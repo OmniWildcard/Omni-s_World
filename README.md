@@ -12,6 +12,29 @@ All of these mod lists make use of a similar foundation but have different modul
 > [!WARNING]
 > If you modify the lists anywhere except in those specified areas any support you can recieve will be limited and subject to my discretion.
 
+## ⚠️ CRITICAL: DO NOT USE AUTOMATED SORTING (LOOT)<br>
+
+This modlist utilizes a **Manual High-Precision Load Order**. Due to the custom architectural fixes required for this compilation—specifically the Solitude cell-persistence fix which necessitates an ESM master at the D9 index—automated sorting tools are strictly incompatible.<br>
+
+Why you cannot use the "Sort" button in MO2:<br>
+
+- **Cyclical Logic Errors:** LOOT (and the internal MO2 sorter) cannot resolve the master-dependency relationships used in this list. Attempting to sort will result in a "Cyclic Interaction" error that will break your plugin hierarchy.<br>
+
+- **Index Corruption:** The Solitude pop-out fix relies on a specific index position. Moving these files will cause immediate visual glitches, flickering, and engine-level instability.<br>
+
+- **Rule 11 Violation:** The load order is shipped unlocked to prevent MO2 from panicking during mod toggles, but it is not intended to be reordered.<br>
+
+Support Policy:
+**Use of automated sorting tools (LOOT/MO2 Sort) will result in an immediate and permanent loss of support.**
+If you attempt to sort the list, I cannot and will not help you untangle the resulting cyclical errors. To regain supported status, you will be required to:
+
+1. Perform a **Total Wipe** of your installation.
+2. Perform a **Fresh Reinstall** via Wabbajack to restore the proper load order.
+
+## Adding Supported Mods:
+If you are adding mods from the approved categories, you must manually drag their plugins to the bottom of your load order. **DO NOT** touch any other plugins.
+
+## List Exclusives
 <img width="1920" height="1011" alt="List Exclusives" src="https://github.com/user-attachments/assets/cad03391-4de8-41c0-b54d-be8048ccd6cb" />
 
 # Want to see the Mod List's in action?
