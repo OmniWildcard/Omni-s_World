@@ -81,6 +81,7 @@ These are the minimum recommended specifications to run the list though there ma
 		Memory Timing: Default
 		Max Frequency: 2700MHz
 		Power Limit: +10% 
+		AMD SmartAccess Memory: Enabled
 	
 </details>
 
