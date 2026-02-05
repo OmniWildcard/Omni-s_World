@@ -10,7 +10,7 @@ All of these mod lists make use of a similar foundation but have different modul
 - Controller Support Mods
 
 > [!WARNING]
-> If you modify the lists anywhere except in those two specified areas any support you can recieve will be limited and subject to my discretion.
+> If you modify the lists anywhere except in those specified areas any support you can recieve will be limited and subject to my discretion.
 
 <img width="1920" height="1011" alt="List Exclusives" src="https://github.com/user-attachments/assets/cad03391-4de8-41c0-b54d-be8048ccd6cb" />
 
