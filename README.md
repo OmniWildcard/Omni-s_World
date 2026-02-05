@@ -3,7 +3,7 @@ This is a repository containing all of my mod lists that are part of the overarc
 <img width="1920" height="1080" alt="Omni&#39;s World GitHub Main Page Thumbnail" src="https://github.com/user-attachments/assets/0ca34306-aa9c-4c88-b73c-4ce2d8c7dfc0" />
 
 # About the Mod Lists
-All of these mod lists make use of a similar foundation but have different modular gameplay elements and exclusives. Every list except Omni's World also has its own challenge you can attempt if you're looking for something to spice up your next Skyrim run. The lists should be able to be safely modified in two specific areas, as I left them largely untouched from vanilla:
+All of these mod lists make use of a similar foundation but have different modular gameplay elements and exclusives. Every list except Omni's World also has its own challenge you can attempt if you're looking for something to spice up your next Skyrim run. The lists should be able to be safely modified in four specific areas, as I left them completely untouched from vanilla:
 - Vampire Lord Gameplay
 - Werewolf Gameplay
 - Dragonborn Voiceover Packs
@@ -29,7 +29,7 @@ If you attempt to sort the list, I cannot and will not help you untangle the res
 2. Perform a **Fresh Reinstall** via Wabbajack to restore the proper load order.
 
 ## Adding Supported Mods:
-If you are adding mods from the approved categories, you must manually drag their plugins to the bottom of your load order. **DO NOT** touch any other plugins.
+If you are adding mods from the approved categories (**Vampire/Werewolf Gameplay**, **PC Voiceovers**, or **Controller Support**), you must manually drag their plugins to the bottom of your load order. **DO NOT** touch any other plugins.
 
 ## List Exclusives
 <img width="1920" height="1011" alt="List Exclusives" src="https://github.com/user-attachments/assets/cad03391-4de8-41c0-b54d-be8048ccd6cb" />
