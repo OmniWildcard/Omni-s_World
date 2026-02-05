@@ -20,7 +20,7 @@ All of these mod lists make use of a similar foundation but have different modul
 >
 > - **Index Corruption:** The Solitude pop-out fix relies on a specific index position. Moving these files will cause immediate visual glitches, flickering, and engine-level instability.<br>
 >
-> - **Rule 11 Violation:** The load order is shipped unlocked to prevent MO2 from panicking during mod toggles, but it is not intended to be reordered.<br>
+> - **Rule 11 Violation:** The load order is shipped unlocked to prevent MO2 from panicking during mod toggles, but it is **NOT** intended to be reordered.<br>
 >
 > **Support Policy:**
 > **Use of automated sorting tools (LOOT/MO2 Sort) will result in an immediate and permanent loss of support.**<br>
