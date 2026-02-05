@@ -9,9 +9,6 @@ All of these mod lists make use of a similar foundation but have different modul
 - Dragonborn Voiceover Packs
 - Controller Support Mods
 
-> [!WARNING]
-> If you modify the lists anywhere except in those specified areas any support you can recieve will be limited and subject to my discretion.
-
 ## ⚠️ CRITICAL: DO NOT USE AUTOMATED SORTING (LOOT)<br>
 
 This modlist utilizes a **Manual High-Precision Load Order**. Due to the custom architectural fixes required for this compilation—specifically the Solitude cell-persistence fix which necessitates an ESM master at the D9 index—automated sorting tools are strictly incompatible.<br>
