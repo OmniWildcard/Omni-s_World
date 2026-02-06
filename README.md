@@ -22,7 +22,7 @@ All of these mod lists make use of a similar foundation but have different modul
 >
 > - **Rule 11 Violation:** The load order is shipped unlocked to prevent MO2 from panicking during mod toggles, but it is **NOT** intended to be reordered.<br>
 >
-> **Support Policy:**
+> **Support Policy:**<br>
 > **Use of automated sorting tools (LOOT/MO2 Sort) will result in an immediate and permanent loss of support.**<br>
 > If you attempt to sort the list, I cannot and will not help you untangle the resulting cyclical errors. To regain supported status, you will be required to:<br>
 >
