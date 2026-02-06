@@ -60,23 +60,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/OmniWildcard/Omni-s_World/refs/heads/main/Images/CMRC%20Mod%20Page%20Thumbnail.webp",
       "readme": "https://github.com/OmniWildcard/Omni-s_World/blob/main/Readme_Files/CMRC_Readme.md",
-      "download": "https://authored-files.wabbajack.org/Chaos Mage.wabbajack_b4785a9a-e8d5-4fcf-be7e-4a93a607b73c",
+      "download": "https://authored-files.wabbajack.org/Chaos Mage.wabbajack_a0316d6d-c584-417a-b338-8c93b61d1891",
       "machineURL": "Chaos-Mage-Randomized-Challenge",
       "discordURL": "https://discord.gg/rMZKDNrZQS",
       "websiteURL": "https://www.github.com/OmniWildcard/Omni-s_World"
     },
     "download_metadata": {
-      "Hash": "UbGT6eR/EjU=",
-      "Size": 656157793,
-      "NumberOfArchives": 85,
-      "SizeOfArchives": 893568412,
-      "NumberOfInstalledFiles": 4457,
-      "SizeOfInstalledFiles": 2214967258,
-      "TotalSize": 3108535670
+      "Hash": "qfcC39AzG5k=",
+      "Size": 3730279292,
+      "NumberOfArchives": 2904,
+      "SizeOfArchives": 273672684439,
+      "NumberOfInstalledFiles": 402565,
+      "SizeOfInstalledFiles": 450454140186,
+      "TotalSize": 724126824625
     },
-    "version": "1.3.3.0",
+    "version": "1.3.3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-06T16:40:07.5441546Z",
+    "dateUpdated": "2026-02-06T21:29:34.157428Z",
     "repositoryName": ""
   }
 ]
