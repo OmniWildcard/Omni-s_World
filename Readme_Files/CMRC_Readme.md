@@ -29,7 +29,6 @@
   - [Game Folder](#game-folder)
   - [Antivirus Exceptions](#antivirus-exceptions)
   - [Improved Camera SE](#improved-camera-se)
-  - [Custom Loot Ruleset](#custom-loot-ruleset)
   - [How to use Octagon](#how-to-use-octagon)
   - [How to Install and Prepare the HK Annotation Tools](#how-to-install-and-prepare-the-hk-annotation-tools)
   - [How to Update Animations](#how-to-update-animations)
@@ -269,7 +268,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location`.
 
-This issue can also occur with files sources from Google Drive, MEGA, Patreon, and other sites. Missing Manual Downloads are listed [here](#missing-manual-downloads).
+This issue can also occur with files sources from Google Drive, MEGA, Patreon, and other sites.
 
 </Details>
 
@@ -377,9 +376,6 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 ## Improved Camera SE
 Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their updates channel. Install and place it under the "Modular Extras" section. This will ensure the included profile edits win the conflict.
-
-## Custom LOOT Ruleset
-If you're unsure that the load order is correct you can download my custom ruleset for LOOT [here](https://www.mediafire.com/file_premium/69xx5ttmsw59ndm/LOOT-backup-20260126T145634.zip/file) and extract its contents into your LOOT data folder. You'll find the LOOT data folder under <ins>*AppData > Local > LOOT*</ins> by default. Simply extract the ruleset there and run LOOT for automated sorting. If you're unsure how to find it hit Win + R, type %localappdata% and hit enter. Then navigate to the LOOT folder and extract the contents there.
 
 ## How to use Octagon
 > [!WARNING]
