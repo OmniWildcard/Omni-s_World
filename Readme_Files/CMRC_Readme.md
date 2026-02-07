@@ -3,7 +3,7 @@
 **Mod List Support: [Omni's Star Cluster](https://discord.gg/rMZKDNrZQS)**
 
 > [!IMPORTANT]
-> **This list requires v1.6.1170.0 of Skyrim, v1.6.1378.1 of the Creation Kit, as well as the AE Upgrade and DLC**
+> **This list requires v1.6.1170.0 of Skyrim as well as the AE Upgrade and DLC**
 
 <header>
     <h1>Contents</h1>
