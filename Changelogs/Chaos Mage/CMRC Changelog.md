@@ -516,3 +516,24 @@ We are dropping support of LOOT at this point. No more custom rulesets or anythi
 
 </details>
 
+## v1.3.3.2
+
+<details>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS SAVE-SAFE!</p></h1>
+</header>
+<br>
+
+**NEW ADDITIONS:** <br>
+N/A<br>
+		
+**REMOVED MODS:** <br>
+N/A<br>
+		
+**UPDATED MODS:** <br>
+N/A<br>
+
+This update is purely a fix to some issues folks were having with installation and the start of the game on more recent hardware. Version 1.3.3.1 was the same but failed to resolve it completely. I'm hoping this update resolves the issues and finally puts it to rest so I can work on bringing the other lists online again and the v1.4.0.0 update to Chaos Mage. Cheers folks!<br>
+
+</details>
