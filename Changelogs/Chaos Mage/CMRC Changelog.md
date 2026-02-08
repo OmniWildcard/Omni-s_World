@@ -534,6 +534,7 @@ N/A<br>
 **UPDATED MODS:** <br>
 N/A<br>
 
-This update is purely a fix to some issues folks were having with installation and the start of the game on more recent hardware. Version 1.3.3.1 was the same but failed to resolve it completely. I'm hoping this update resolves the issues and finally puts it to rest so I can work on bringing the other lists online again and the v1.4.0.0 update to Chaos Mage. Cheers folks!<br>
+This update is purely a fix to some issues folks were having with installation and the start of the game on more recent hardware. Version 1.3.3.1 was the same but failed to resolve it completely. I'm hoping this update resolves the issues and finally puts it to rest so I can work on bringing the other lists online again and the v1.4.0.0 update to Chaos Mage. Executable paths are going to be slightly messed up in this update apparently since I handled relative paths wrong. Just delete the `.\` in front of the paths to restore functionality until the next update. Cheers folks!<br>
 
 </details>
+
