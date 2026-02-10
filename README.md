@@ -16,15 +16,13 @@ All of these mod lists make use of a similar foundation but have different modul
 >
 > Why you cannot use the "Sort" button in MO2:<br>
 >
-> - **Cyclical Logic Errors:** LOOT (and the internal MO2 sorter) cannot resolve the master-dependency relationships used in this list. Attempting to sort will result in a "Cyclic Interaction" error that will break your plugin hierarchy.<br>
->
-> - **Index Corruption:** The Solitude pop-out fix relies on a specific index position. Moving these files will cause immediate visual glitches, flickering, and engine-level instability.<br>
+> - **Index Corruption:** The Solitude pop-out fix and DynDOLOD relies on a specific index position. Moving these files will cause immediate visual glitches, flickering, and engine-level instability.<br>
 >
 > - **Rule 11 Violation:** The load order is shipped unlocked to prevent MO2 from panicking during mod toggles, but it is **NOT** intended to be reordered.<br>
 >
 > **Support Policy:**<br>
 > **Use of automated sorting tools (LOOT/MO2 Sort) will result in an immediate and permanent loss of support.**<br>
-> If you attempt to sort the list, I cannot and will not help you untangle the resulting cyclical errors. To regain supported status, you will be required to:<br>
+> If you attempt to sort the list, I cannot and will not help you untangle the resulting errors. To regain supported status, you will be required to:<br>
 >
 > 1. Perform a **Total Wipe** of your installation.<br>
 > 2. Perform a **Fresh Reinstall** via Wabbajack to restore the proper load order.<br>
