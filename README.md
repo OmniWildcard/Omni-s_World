@@ -12,7 +12,7 @@ All of these mod lists make use of a similar foundation but have different modul
 > [!CAUTION]<br>
 > **DO NOT USE AUTOMATED SORTING (LOOT)**<br>
 >
-> These modlists utilize a **Manual High-Precision Load Order**. Due to the custom architectural fixes required for the Solitude cell-persistence fix, which necessitated an ESM master at the D9 index, automated sorting tools are strictly incompatible.<br>
+> These modlists utilize a **Manual High-Precision Load Order**. Due to the custom architectural fixes required for the Solitude cell-persistence fix, automated sorting tools are strictly incompatible.<br>
 >
 > Why you cannot use the "Sort" button in MO2:<br>
 >
