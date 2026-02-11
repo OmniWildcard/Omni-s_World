@@ -538,3 +538,35 @@ This update is purely a fix to some issues folks were having with installation a
 
 </details>
 
+## v1.4.0.0
+
+<details>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS NOT SAVE-SAFE!</p></h1>
+</header>
+<br>
+
+**NEW ADDITIONS:** <br>
+[+] [JK's Thieves Guild HQ](https://www.nexusmods.com/skyrimspecialedition/mods/133787)<br>
+[+] [GG's Thieves Guild Headquarters](https://www.nexusmods.com/skyrimspecialedition/mods/64018)<br>
+[+] [GG's Thieves Guild HQ - EVGAT Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/105642)<br>
+[+] [GG's Thieves Guild HQ Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/63967)<br>
+[+] [Dark Apprentice (3BA SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/171434)<br>
+[+] [True Directional Movement Mounted Archery Fix](https://www.nexusmods.com/skyrimspecialedition/mods/171762)<br>
+[+] [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225)<br>
+[+] Master Asset Table<br>
+		
+**REMOVED MODS:** <br>
+[-] Animated Mounted Casting - Cast Spells On Horseback And Dismiss Horse (AE SE LE)<br>
+		
+**UPDATED MODS:** <br>
+[+] HorsePower - Modernized Horse Riding (Total Riding Overhaul)<br>
+
+This update finally cements the core foundation for the Tamriel worldspace and its children. We are officially moving past the phase of major landscape overhauls and upscaling; from this point forward, the Skyrim map moves into a "maintenance and bug-fix only" state. Starting with v1.5.0.0, our focus shifts to bringing Rigmor's Cyrodiil up to visual parity with the rest of the list.
+
+To streamline the experience, the development suite has been stripped, leaving only essential diagnostic and animation tools for "break-glass" emergencies. The list remains unlocked specifically to support the **Modular Gameplay** section at the tail-end of your load order. You can toggle mods in this category without shifting the critical indexes that **DynDOLOD** and the **Index Locking Protocol** rely on—just ensure you don't run automated sorters. Additionally, frame rates are now capped at the engine-level. This ensures script timing remains frame-accurate, preventing high-end CPUs from outrunning the simulation and breaking logic.
+
+Thank you for your patience over this past year of development. This has been a massive learning experience, and I’m proud to deliver a "Mega-List" that maintains the stability and performance of a much smaller build. By avoiding the pitfalls and learning from the authors of lists like **LoreRim** or **Apostasy**—which sometimes collapsed under the weight of 3,000+ mods—we’ve built something truly resilient. Cheers to you all for the bug reports and support—let's keep this train rolling!<br>
+
+</details>
