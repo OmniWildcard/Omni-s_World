@@ -563,10 +563,15 @@ This update is purely a fix to some issues folks were having with installation a
 **UPDATED MODS:** <br>
 [+] HorsePower - Modernized Horse Riding (Total Riding Overhaul)<br>
 
-This update finally cements the core foundation for the Tamriel worldspace and its children. We are officially moving past the phase of major landscape overhauls and upscaling; from this point forward, the Skyrim map moves into a "maintenance and bug-fix only" state. Starting with v1.5.0.0, our focus shifts to bringing Rigmor's Cyrodiil up to visual parity with the rest of the list.
+This update finally cements the core foundation for the Skyrim worldspace and its associated interior cells/sub-regions. We are officially moving past the phase of major landscape overhauls and upscaling; from this point forward, the Skyrim map and the majority of the list moves into a "maintenance and bug-fix only" state with some minor exceptions:<br>
+	- Gameplay Mechanics may still be tweaked, removed or outright replaced in `PATCH` or `REVISION` updates if I feel they are overcomplicating the list or making the user experience worse.<br>
+	- Visual upgrades may still occur via `MINOR` updates as I haven't decided if I'm fully satisfied with the smaller villages and towns that I currently have left untouched (ie. Rorikstead, Karthwasten, etc.)<br>
 
-To streamline the experience, the development suite has been stripped, leaving only essential diagnostic and animation tools for "break-glass" emergencies. The list remains unlocked specifically to support the **Modular Gameplay** section at the tail-end of your load order. You can toggle mods in this category without shifting the critical indexes that **DynDOLOD** and the **Index Locking Protocol** rely on—just ensure you don't run automated sorters. Additionally, frame rates are now capped at the engine-level. This ensures script timing remains frame-accurate, preventing high-end CPUs from outrunning the simulation and breaking logic.
+Now that we've laid out the "state of the list" going forward I'm proud to announce that, starting with v1.5.0.0, our focus shifts to bringing Rigmor's Cyrodiil up to visual parity with the rest of the list.<br>
+
+To streamline the experience, the development suite has been stripped, leaving only essential diagnostic and animation tools for "break-glass" emergencies. The list remains unlocked specifically to support the **Modular Gameplay** section at the tail-end of your load order. You can toggle mods in this category without shifting the critical indexes that **DynDOLOD** and the **Index Locking Protocol** rely on—just ensure you don't run automated sorters. Additionally, frame rates are now capped at the engine-level to maintain Havok physics stability and ensure script timing remains frame-accurate. This ensures high-end CPUs can't outrun the simulation and break the logic.<br>
 
 Thank you for your patience over this past year of development. This has been a massive learning experience, and I’m proud to deliver a "Mega-List" that maintains the stability and performance of a much smaller build. By avoiding the pitfalls and learning from the authors of lists like **LoreRim** or **Apostasy**—which sometimes collapsed under the weight of 3,000+ mods—we’ve built something truly resilient. Cheers to you all for the bug reports and support—let's keep this train rolling!<br>
 
 </details>
+
