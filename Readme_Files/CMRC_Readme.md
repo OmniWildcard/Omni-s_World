@@ -374,8 +374,13 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 
 </Details>
 
+## Skyrim Modlist Optimizer
+Now that you've added the exceptions to Windows Defender it's time to open the **RUN THIS AFTER INSTALL!** folder. This folder contains the Skyrim Modlist Optimizer batch file and a PowerShell script and their job is to make your Chaos Mage install as lean as possible to save **YOU** some storage space. 
+
+To begin simply double-click the `Skyrim Modlist Optimizer.bat` file to begin the process of "trimming the fat" from the list; you'll only need to confirm that it's targetting the proper directory before it runs its logic. Now, while it's running, it's important you **DO NOT** close the window or touch anything related to the install. Let the script work its magic or you run the risk of leaving "ghost files" that can cause stability issues later. Grab a snack, get a drink, but for the love of Akatosh **LET IT DO ITS JOB**!
+
 ## Improved Camera SE
-Join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their updates channel. Install and place it under the "Modular Extras" section. This will ensure the included profile edits win the conflict.
+With the "fat" trimmed from the list it's time to get the one mod I couldn't include in the release due to its status as a beta build. You'll need to join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their `updates` channel. Install and place it under the "Modular Extras" section. This will ensure the included custom profile edits win the conflict over the default source that comes packaged with their beta.
 
 ## How to use Octagon
 > [!WARNING]
@@ -390,7 +395,7 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 <img width="1920" height="1032" alt="Octagon Guide Part 2" src="https://github.com/user-attachments/assets/f22533d2-73c5-41c7-a8d1-618acc1c538c" />
 
 > [!Note]
-> As stated in the accompanying visual guide, if you have only 8GB VRAM you will need to do this process twice to reach optimal texture sizes. In this case start with the **8GB VRAM (Step 1)** config file and when running a second time use the **8GB VRAM (Step 2)** config and repeat the other steps again. This will ensure your textures are all downscaled to the appropriate sizes.
+> This visual representation is still accurate but we've since condensed the 8GB VRAM Tier configs into singular config files as of v1.4.0.0. As such, you only need to run Octagon once to optimize the textures for your VRAM Tier and you get to the game that much sooner.
 
 3. Now that you've loaded the config you need to update a few file paths. First update the file path to your MO2 mods folder (see image below).
 <img width="1920" height="1032" alt="Octagon Guide Part 3" src="https://github.com/user-attachments/assets/f963ddda-bac4-452f-a5d7-2598d18165a0" />
@@ -494,7 +499,14 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.
 - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe unless otherwise stated and will be used primarily for bugfixes.
 - `REVISION`: Any release with a number change here will be considered a revision. These updates are usually hotfixes, minor gameplay changes or consistency tweaks and should be save safe unless otherwise noted.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
+Updating follows the same path as a fresh install. To ensure 100% stability and prevent 'ghost files' from deprecated mechanics, I strongly recommend a clean install:
+
+   1. Nuke the Install Folder but **PRESERVE** your Downloads folder (ensure it's not nested inside the folder you're deleting!).
+   2. Excise Rule 11 Mods: If you’ve customized your list, move those specific mod folders to a safe location now.
+   > [!CAUTION]
+   > Moving these back in does **NOT** grant them supported status. If the mods you are restoring fall outside the four approved categories, your installation remains officially **UNSUPPORTED**.
+   3. Re-run the Process: After the new installation, run your chosen Octagon tier and the Cleanup Script.
+   4. Restore: Move your Rule 11 mods back into the directory only after the cleanup script has finished its pass."
 
 >[!IMPORTANT]
 >Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** in the [Chaos Mage Changelog & Version History Compendium](https://github.com/OmniWildcard/Omni-s_World/blob/main/Changelogs/Chaos%20Mage/CMRC%20Changelog.md) document under their specific version header. It is suggested that you backup your saves before updating if you plan on continuing them.
