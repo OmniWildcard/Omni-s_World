@@ -28,6 +28,7 @@
 - [Post-Installation](#post-installation)
   - [Game Folder](#game-folder)
   - [Antivirus Exceptions](#antivirus-exceptions)
+  - [Skyrim Modlist Optimizer](#skyrim-modlist-optimizer)
   - [Improved Camera SE](#improved-camera-se)
   - [How to use Octagon](#how-to-use-octagon)
   - [How to Install and Prepare the HK Annotation Tools](#how-to-install-and-prepare-the-hk-annotation-tools)
