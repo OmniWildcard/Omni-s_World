@@ -555,6 +555,9 @@ This update is purely a fix to some issues folks were having with installation a
 [+] [Dark Apprentice (3BA SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/171434)<br>
 [+] [True Directional Movement Mounted Archery Fix](https://www.nexusmods.com/skyrimspecialedition/mods/171762)<br>
 [+] [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225)<br>
+[+] [Core Impact Framework (CIF)](https://www.nexusmods.com/skyrimspecialedition/mods/146873)<br>
+[+] [Dynamic Bloodpool Framework](https://www.nexusmods.com/skyrimspecialedition/mods/172080)<br>
+[+] [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388)<br>
 [+] Master Asset Table<br>
 		
 **REMOVED MODS:** <br>
@@ -574,4 +577,3 @@ To streamline the experience, the development suite has been stripped, leaving o
 Thank you for your patience over this past year of development. This has been a massive learning experience, and I’m proud to deliver a "Mega-List" that maintains the stability and performance of a much smaller build. By avoiding the pitfalls and learning from the authors of lists like **LoreRim** or **Apostasy**—which sometimes collapsed under the weight of 3,000+ mods—we’ve built something truly resilient. Cheers to you all for the bug reports and support—let's keep this train rolling!<br>
 
 </details>
-
