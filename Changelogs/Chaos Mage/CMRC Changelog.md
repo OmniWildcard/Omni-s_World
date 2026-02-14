@@ -16,6 +16,11 @@
 	- [v1.0.24.0](#v10240)
  	- [v1.0.25.0](#v10250)
   	- [v1.3.1.0](#v1310)
+  	- [v1.3.1.1](#v1311)
+  	- [v1.3.2.0](#v1320)
+  	- [v1.3.3.0](#v1330)
+  	- [v1.3.3.2](#v1332)
+  	- [v1.4.0.0](#v1400)
 
 # Foreword
 This document compiles all the changelogs from previous version of the Chaos Mage list in one place. They are organized by version number and list any new additions, removed mods and updated mods. Some versions did not have a changelog as I did not have time to write one out at the time. Add to the fact that I only started writing them more regularly around v1.0.21.0 of the list and you will see some gaps where there were no changelogs posted. That being said, they are comprehensive and will specify if the update is save-safe or not prior to listing off the changes.
@@ -577,3 +582,4 @@ To streamline the experience, the development suite has been stripped, leaving o
 Thank you for your patience over this past year of development. This has been a massive learning experience, and I’m proud to deliver a "Mega-List" that maintains the stability and performance of a much smaller build. By avoiding the pitfalls and learning from the authors of lists like **LoreRim** or **Apostasy**—which sometimes collapsed under the weight of 3,000+ mods—we’ve built something truly resilient. Cheers to you all for the bug reports and support—let's keep this train rolling!<br>
 
 </details>
+
