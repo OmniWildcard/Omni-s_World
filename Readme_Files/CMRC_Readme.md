@@ -460,6 +460,10 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
     2. That's it, it's really that simple. **Please, please, please** do this before launching the game and whenever you update the modlist.
 
     </Details>
+ 3. Decide **NOW** whether you want the `Serana Dialogue Expansion - Romance ESL` mod enabled or disabled. If you desire the option to romance Serana you must have this enabled but, due to how MO2 handles load order priority when multiple plugins are activated at once, this will require some manual maintenance before you start. Simply move the `SeranaDialogueExpansion - Romance.esp` directly above the `HPH - RM - Synthesis Patch` (Mod Index FE:82C) and you're good to go!
+
+> [!WARNING]
+> Do not run any form of **AUTOMATED SORTING** after this or it may displace the file, break the specific indexes DynDOLOD requires, and forfeit your **SUPPORTED STATUS**. This specific placement I have instructed you to use ensures the romance logic correctly overwrites the base AI packages without breaking your High Poly Head/Synthesis visual stack.
 
 ## What is the Challenge for this List
 I'm glad you asked, the challenge element is mostly handled outside of game and not via any mod-implementation allowing you to just use the list "as-is" or attempt the challenge I did yourself.
