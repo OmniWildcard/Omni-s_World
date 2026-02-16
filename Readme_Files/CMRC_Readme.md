@@ -105,16 +105,16 @@ These are the minimum recommended specifications to run the list though there ma
 
 </details>
 <details>
-<summary>At least 704GB of free space</summary>
+<summary>At least 836GB of free space</summary>
 
-	254GB for downloads + 30GB free space
+	244GB for downloads + 30GB free space
 	
-	420GB for the installation on a Gen 4 or later NVME SSD
+	562GB for the installation on a Gen 4 or later NVME SSD
 
 </details>
 
 ## Backup Download Links
-- [Download v1.4.0.0]() **[!] Latest Version**
+- [Download v1.4.0.0](https://www.mediafire.com/file_premium/svawxjb6ukwn2mf/Chaos_Mage.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find and view the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
