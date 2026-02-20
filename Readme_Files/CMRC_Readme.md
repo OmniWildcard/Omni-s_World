@@ -114,7 +114,7 @@ These are the minimum recommended specifications to run the list though there ma
 </details>
 
 ## Backup Download Links
-- [Download v1.4.0.0](https://www.mediafire.com/file_premium/svawxjb6ukwn2mf/Chaos_Mage.wabbajack/file) **[!] Latest Version**
+- [Download v1.4.1.0](https://www.mediafire.com/file_premium/0gqlyu5rqiwrs94/Chaos_Mage.wabbajack/file) **[!] Latest Version**
 
 ## Load Order Library
 You can find and view the Load Order Library page [here](https://loadorderlibrary.com/lists/chaos-mage-randomized-challenge) at any time.
