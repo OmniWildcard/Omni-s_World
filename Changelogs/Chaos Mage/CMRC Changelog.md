@@ -21,6 +21,7 @@
   	- [v1.3.3.0](#v1330)
   	- [v1.3.3.2](#v1332)
   	- [v1.4.0.0](#v1400)
+  	- [v1.4.1.0](#v1410)
 
 # Foreword
 This document compiles all the changelogs from previous version of the Chaos Mage list in one place. They are organized by version number and list any new additions, removed mods and updated mods. Some versions did not have a changelog as I did not have time to write one out at the time. Add to the fact that I only started writing them more regularly around v1.0.21.0 of the list and you will see some gaps where there were no changelogs posted. That being said, they are comprehensive and will specify if the update is save-safe or not prior to listing off the changes.
@@ -583,3 +584,34 @@ Thank you for your patience over this past year of development. This has been a 
 
 </details>
 
+## v1.4.1.0
+
+<details>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS SAVE-SAFE!</p></h1>
+</header>
+<br>
+
+**NEW ADDITIONS:** <br>
+N/A<br>
+		
+**REMOVED MODS:** <br>
+N/A<br>
+		
+**UPDATED MODS:** <br>
+[+] (SHAPE YOUR QUEEN) Follower Dialogue Expansion - Elisif the Fair<br>
+[+] Follower Dialogue Expansion - Illia
+[+] Follower Dialogue Expansion - Aela the Huntress
+[+] RSE - Shoulder Or Saddle
+[+] Easter Eggs & Secrets
+[+] Synthesis Patches (CMRC)
+[+] Mod List Patches, Bug Fixes & Overwrites (CMRC)
+[+] SSELODGen_Output (CMRC)
+[+] ACMOS_Output (CMRC)
+[+] TexGen_Output (CMRC)
+[+] DynDOLOD_Output (CMRC)
+
+This update is mostly a performance and bug fix update but I have also made the time-gated hidden gear set in Helgen convertable from light armor and a one-handed sword to heavy armor and a two-handed sword. It can be freely changed back and forth between these two categories freely so you can convert the sword to two-handed or one-handed to fit your build and the same applies to the armor. Beyond that no major changes except the map should no longer lag or cause crashing as it did in the last update and Solitude should be restored to its intended state again. Cheers folks!
+
+</details>
