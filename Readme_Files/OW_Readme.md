@@ -1,4 +1,4 @@
-<img width="2254" height="1080" alt="Omni&#39;s World GitHub Page Thumbnail" src="https://github.com/user-attachments/assets/bf80a5fb-42c3-42ad-bb68-790257feff88" />
+<img width="1920" height="1080" alt="Desktop 1 Wallpaper" src="https://github.com/user-attachments/assets/b8789004-3e8a-4d7e-9e2c-b45cfe263f9b" />
 
 **Mod List Support: [Omni's Star Cluster](https://discord.gg/rMZKDNrZQS)**
 
