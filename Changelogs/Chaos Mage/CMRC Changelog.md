@@ -601,17 +601,18 @@ N/A<br>
 		
 **UPDATED MODS:** <br>
 [+] (SHAPE YOUR QUEEN) Follower Dialogue Expansion - Elisif the Fair<br>
-[+] Follower Dialogue Expansion - Illia
-[+] Follower Dialogue Expansion - Aela the Huntress
-[+] RSE - Shoulder Or Saddle
-[+] Easter Eggs & Secrets
-[+] Synthesis Patches (CMRC)
-[+] Mod List Patches, Bug Fixes & Overwrites (CMRC)
-[+] SSELODGen_Output (CMRC)
-[+] ACMOS_Output (CMRC)
-[+] TexGen_Output (CMRC)
-[+] DynDOLOD_Output (CMRC)
+[+] Follower Dialogue Expansion - Illia<br>
+[+] Follower Dialogue Expansion - Aela the Huntress<br>
+[+] RSE - Shoulder Or Saddle<br>
+[+] Easter Eggs & Secrets<br>
+[+] Synthesis Patches (CMRC)<br>
+[+] Mod List Patches, Bug Fixes & Overwrites (CMRC)<br>
+[+] SSELODGen_Output (CMRC)<br>
+[+] ACMOS_Output (CMRC)<br>
+[+] TexGen_Output (CMRC)<br>
+[+] DynDOLOD_Output (CMRC)<br>
 
 This update is mostly a performance and bug fix update but I have also made the time-gated hidden gear set in Helgen convertable from light armor and a one-handed sword to heavy armor and a two-handed sword. It can be freely changed back and forth between these two categories freely so you can convert the sword to two-handed or one-handed to fit your build and the same applies to the armor. Beyond that no major changes except the map should no longer lag or cause crashing as it did in the last update and Solitude should be restored to its intended state again. Cheers folks!
 
 </details>
+
