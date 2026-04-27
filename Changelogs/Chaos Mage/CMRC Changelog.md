@@ -676,29 +676,29 @@ This update is mostly a performance and bug fix update but I have also made the 
 N/A<br>
 		
 **UPDATED MODS:** <br>
-[+] Immersive Armors - CBBE 3BA Patch
-[+] SKSE Menu Framework
-[+] Actor Value Generator
-[+] Lexicon
-[+] Horsepower - Modernized Horse Riding
-[+] Apocalypse - Magic of Skyrim
-[+] Faster HDT-SMP
-[+] Papyrus Extender
-[+] Base Object Swapper
-[+] SmoothCam
-[+] Water for ENB
-[+] SkyUI
-[+] Run For Your Lives
-[+] Unofficial Skyrim Special Edition Patch
-[+] Summermyst
-[+] WACCF
-[+] MCM Helper
-[+] Engine Fixes
-[+] RaceMenu
-[+] BFCO
-[+] Open Animation Replacer
-[+] Embers XD
-[+] Twilight Princess Armor Mashup
+[+] Immersive Armors - CBBE 3BA Patch<br>
+[+] SKSE Menu Framework<br>
+[+] Actor Value Generator<br>
+[+] Lexicon<br>
+[+] Horsepower - Modernized Horse Riding<br>
+[+] Apocalypse - Magic of Skyrim<br>
+[+] Faster HDT-SMP<br>
+[+] Papyrus Extender<br>
+[+] Base Object Swapper<br>
+[+] SmoothCam<br>
+[+] Water for ENB<br>
+[+] SkyUI<br>
+[+] Run For Your Lives<br>
+[+] Unofficial Skyrim Special Edition Patch<br>
+[+] Summermyst<br>
+[+] WACCF<br>
+[+] MCM Helper<br>
+[+] Engine Fixes<br>
+[+] RaceMenu<br>
+[+] BFCO<br>
+[+] Open Animation Replacer<br>
+[+] Embers XD<br>
+[+] Twilight Princess Armor Mashup<br>
 [+] Easter Eggs & Secrets<br>
 [+] Synthesis Patches (CMRC)<br>
 [+] Mod List Patches, Bug Fixes & Overwrites (CMRC)<br>
