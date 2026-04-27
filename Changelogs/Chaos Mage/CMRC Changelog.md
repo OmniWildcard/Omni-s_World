@@ -292,9 +292,6 @@ This document compiles all the changelogs from previous version of the Chaos Mag
 
 ## v1.3.1.0
 
->[!NOTE]
->From this point onwards links to the mods mentioned in the changelog under `NEW ADDITIONS` will be provided. Simply click the listed mod to head to the associated mod page. If none is provided it's an unpublished mod of my own creation.
-
 <details>
 <summary>Full Changelog</summary>
 <header>
