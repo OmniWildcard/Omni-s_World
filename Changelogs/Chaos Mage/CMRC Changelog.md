@@ -673,6 +673,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] Viper's Preset Collection - HPH<br>
 [+] Dialogue Interface ReShaped<br>
 [+] Serana Dialogue Expansion - JS Circlet Replacer<br>
+[+] Faster Chaurus - Ultimate Entomophobia<br>
 		
 **REMOVED MODS:** <br>
 N/A<br>
