@@ -616,3 +616,96 @@ This update is mostly a performance and bug fix update but I have also made the 
 
 </details>
 
+## v1.4.1.2
+
+<details>
+<summary>Full Changelog</summary>
+<header>
+	<h1><p align="center">THIS UPDATE IS NOT SAVE-SAFE!</p></h1>
+</header>
+<br>
+
+**NEW ADDITIONS:** <br>
+[+] Valenwood Ranger Armor Mashup<br>
+[+] Soul Hunter Armor Mashup<br>
+[+] Skyrim Mounted Combat Moveset for Horsepower<br>
+[+] Open Animation Replacer - RaySense<br>
+[+] Beam Walking Assist<br>
+[+] RaySense - Cover Animation<br>
+[+] RaySense - Edge Lookdown<br>
+[+] Mihail Meshes Optimization Project<br>
+[+] Bifrost<br>
+[+] Magecore<br>
+[+] Heels Fix<br>
+[+] HDT High Heels Fix<br>
+[+] Aranea Lenith DF Edit<br>
+[+] Obi - Traveler's Romper Outfit 3BA<br>
+[+] Sparrows Mage 3BA<br>
+[+] Wayfarer Navi 3BA<br>
+[+] Dark Apprentice<br>
+[+] Input Manager<br>
+[+] Domina's CBBE 3BA Bodyslide<br>
+[+] Lovely Makeup<br>
+[+] Lovely Makeup 2<br>
+[+] Lovely Makeup 3<br>
+[+] Koralina's Eyebrows<br>
+[+] Koralina's Freckles<br>
+[+] Koralina's Makeup Tweaks<br>
+[+] Even More Makeup by Koralina<br>
+[+] Slordar's Body Freckles<br>
+[+] Kyoe's Banging Brows<br>
+[+] Kyoe's Banging Brows for HPH<br>
+[+] Wolfpaint - Face - Racemenu Overlays<br>
+[+] Pocky's 4K Human Female Makeup<br>
+[+] Female Makeup Suite<br>
+[+] Natural Beauty Makeup<br>
+[+] KML Makeup Suite<br>
+[+] Levis Choice - Detail Makeup Set for HPH<br>
+[+] Lamenthia's Marks of Beauty<br>
+[+] Lyru's Tattoo Pack Collection<br>
+[+] Goam's Elven Ears<br>
+[+] Goam's Eleven Ears Redone<br>
+[+] Individual Eye Alignment Sliders for Racemenu<br>
+[+] ECE Sliders Addon for RaceMenu<br>
+[+] Yufimea Neririe - A Breton Preset<br>
+[+] Vivid - HPH Breton Preset<br>
+[+] Viper's Preset Collection - HPH<br>
+		
+**REMOVED MODS:** <br>
+N/A<br>
+		
+**UPDATED MODS:** <br>
+[+] Immersive Armors - CBBE 3BA Patch
+[+] SKSE Menu Framework
+[+] Actor Value Generator
+[+] Lexicon
+[+] Horsepower - Modernized Horse Riding
+[+] Apocalypse - Magic of Skyrim
+[+] Faster HDT-SMP
+[+] Papyrus Extender
+[+] Base Object Swapper
+[+] SmoothCam
+[+] Water for ENB
+[+] SkyUI
+[+] Run For Your Lives
+[+] Unofficial Skyrim Special Edition Patch
+[+] Summermyst
+[+] WACCF
+[+] MCM Helper
+[+] Engine Fixes
+[+] RaceMenu
+[+] BFCO
+[+] Open Animation Replacer
+[+] Embers XD
+[+] Twilight Princess Armor Mashup
+[+] Easter Eggs & Secrets<br>
+[+] Synthesis Patches (CMRC)<br>
+[+] Mod List Patches, Bug Fixes & Overwrites (CMRC)<br>
+[+] SSELODGen_Output (CMRC)<br>
+[+] ACMOS_Output (CMRC)<br>
+[+] TexGen_Output (CMRC)<br>
+[+] DynDOLOD_Output (CMRC)<br>
+
+This update is largely an expansion on customization options, an update to existing modules and a performance fix for Winterhold. We're also reintroducing the BSA Master Asset Table into the list so if you're having issues with the ENB blacking out the screen after installing and running the cleanup script please let me know and I'll try to fix the issue in a hotfix update.
+
+</details>
