@@ -29,7 +29,7 @@ All of these mod lists make use of a similar foundation but have different modul
 > 2. Perform a **Fresh Reinstall** via Wabbajack to restore the proper load order.<br>
 > 
 > **Adding Supported Mods:**<br>
-> If you are adding mods from the approved categories (**Vampire/Werewolf Gameplay**, **PC Voiceovers**, or **Controller Support**), you must manually drag their plugins to the bottom of your load order. **DO NOT** touch any other plugins.<br>
+> If you are adding mods from the approved categories (**Vampire/Werewolf Gameplay**, **PC Voiceovers**, **Controller Support**, or **Character Presets**), you must manually drag their plugins (if they add any) to the bottom of your load order. **DO NOT** touch any other plugins.<br>
 
 ## List Exclusives
 <img width="1920" height="1011" alt="List Exclusives" src="https://github.com/user-attachments/assets/cad03391-4de8-41c0-b54d-be8048ccd6cb" />
