@@ -381,6 +381,10 @@ Now that you've added the exceptions to Windows Defender it's time to open the *
 To begin simply double-click the `Skyrim Modlist Optimizer.bat` file to begin the process of "trimming the fat" from the list; you'll only need to confirm that it's targetting the proper directory before it runs its logic. Now, while it's running, it's important you **DO NOT** close the window or touch anything related to the install. Let the script work its magic or you run the risk of leaving "ghost files" that can cause stability issues later. Grab a snack, get a drink, but for the love of Akatosh **LET IT DO ITS JOB**!
 
 ## Improved Camera SE
+
+> [!NOTE]
+> This step is completely optional but if you want the intended experience it's highly recommended.
+ 
 With the "fat" trimmed from the list it's time to get the one mod I couldn't include in the release due to its status as a beta build. You'll need to join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their `updates` channel. Install and place it under the "Modular Extras" section. This will ensure the included custom profile edits win the conflict over the default source that comes packaged with their beta.
 
 ## How to use Octagon
