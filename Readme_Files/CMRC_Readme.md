@@ -376,7 +376,7 @@ If you use Windows Defender, it is advised that you set up an exception for the 
 </Details>
 
 ## Skyrim Modlist Optimizer
-Now that you've added the exceptions to Windows Defender it's time to open the **RUN THIS AFTER INSTALL!** folder. This folder contains the Skyrim Modlist Optimizer batch file and a PowerShell script and their job is to make your Chaos Mage install as lean as possible to save **YOU** some storage space. 
+Now that you've added the exceptions to Windows Defender it's time to open the `RUN THIS AFTER INSTALL!` folder. This folder contains the `Skyrim Modlist Optimizer.bat` batch file along with the `CleanupProtocol.ps1` PowerShell script, and their job is to make your Chaos Mage install as lean as possible to save **YOU** some storage space. 
 
 To begin simply double-click the `Skyrim Modlist Optimizer.bat` file to begin the process of "trimming the fat" from the list; you'll only need to confirm that it's targetting the proper directory before it runs its logic. Now, while it's running, it's important you **DO NOT** close the window or touch anything related to the install. Let the script work its magic or you run the risk of leaving "ghost files" that can cause stability issues later. Grab a snack, get a drink, but for the love of Akatosh **LET IT DO ITS JOB**!
 
