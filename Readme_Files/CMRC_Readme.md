@@ -245,7 +245,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 
 ### Downloading and Installing Chaos Mage
 >[!CAUTION]
->**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked exes.  
+>**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked executables.  
 
 Downloading and installing Chaos Mage can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
 
