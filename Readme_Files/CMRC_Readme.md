@@ -388,6 +388,10 @@ To begin simply double-click the `Skyrim Modlist Optimizer.bat` file to begin th
 With the "fat" trimmed from the list it's time to get the one mod I couldn't include in the release due to its status as a beta build. You'll need to join the [Improved Camera Discord Server](https://discord.gg/improved-camera-se-1074109591966732328) and download the latest version of the v2.x beta build from their `updates` channel. Install and place it under the "Modular Extras" section. This will ensure the included custom profile edits win the conflict over the default source that comes packaged with their beta.
 
 ## How to use Octagon
+
+> [!IMPORTANT]
+> This step is only required if you have less than 16GB of VRAM or are having major performance issues with the default texture resolutions. You will be essentially trading fidelity for performance when using this tool.
+
 > [!WARNING]
 > It is highly advised you either have a backup of the mods folder or the full downloads folder from installation in case you mess up. If you have neither of these you will have to completely redownload and reinstall the list if things go wrong due to how Octagon works.
 
