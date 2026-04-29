@@ -8,6 +8,7 @@ All of these mod lists make use of a similar foundation but have different modul
 - Werewolf Gameplay
 - Dragonborn Voiceover Packs
 - Controller Support Mods
+- Character Presets
 
 > [!CAUTION]<br>
 > **DO NOT USE AUTOMATED SORTING (LOOT)**<br>
