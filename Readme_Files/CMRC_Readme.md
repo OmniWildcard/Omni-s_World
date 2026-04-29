@@ -393,7 +393,7 @@ With the "fat" trimmed from the list it's time to get the one mod I couldn't inc
 > This step is only required if you have less than 16GB of VRAM or are having major performance issues with the default texture resolutions. You will be essentially trading fidelity for performance when using this tool.
 
 > [!WARNING]
-> It is highly advised you either have a backup of the mods folder or the full downloads folder from installation in case you mess up. If you have neither of these you will have to completely redownload and reinstall the list if things go wrong due to how Octagon works.
+> It is highly advised you make a backup of the Master Asset Table before running this tool. Failure to do so will leave you with no way to restore the list to its default state without a complete reinstall.
 
 Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 
