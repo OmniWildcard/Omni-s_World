@@ -673,7 +673,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] Faster Chaurus - Ultimate Entomophobia<br>
 		
 **REMOVED MODS:** <br>
-N/A<br>
+[-] ImmersiveHUD SKSE<br>
 		
 **UPDATED MODS:** <br>
 [+] Immersive Armors - CBBE 3BA Patch<br>
