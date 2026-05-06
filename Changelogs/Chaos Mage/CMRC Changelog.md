@@ -624,58 +624,84 @@ This update is mostly a performance and bug fix update but I have also made the 
 <br>
 
 **NEW ADDITIONS:** <br>
-[+] Valenwood Ranger Armor Mashup<br>
-[+] Soul Hunter Armor Mashup<br>
-[+] Skyrim Mounted Combat Moveset for Horsepower<br>
-[+] Open Animation Replacer - RaySense<br>
-[+] Beam Walking Assist<br>
-[+] RaySense - Cover Animation<br>
-[+] RaySense - Edge Lookdown<br>
-[+] Mihail Meshes Optimization Project<br>
-[+] Bifrost<br>
-[+] Magecore<br>
-[+] Heels Fix<br>
-[+] HDT High Heels Fix<br>
-[+] Aranea Lenith DF Edit<br>
-[+] Obi - Traveler's Romper Outfit 3BA<br>
-[+] Sparrows Mage 3BA<br>
-[+] Wayfarer Navi 3BA<br>
-[+] Dark Apprentice<br>
-[+] Input Manager<br>
-[+] Domina's CBBE 3BA Bodyslide<br>
-[+] Lovely Makeup<br>
-[+] Lovely Makeup 2<br>
-[+] Lovely Makeup 3<br>
-[+] Koralina's Eyebrows<br>
-[+] Koralina's Freckles<br>
-[+] Koralina's Makeup Tweaks<br>
-[+] Even More Makeup by Koralina<br>
-[+] Slordar's Body Freckles<br>
-[+] Kyoe's Banging Brows<br>
-[+] Kyoe's Banging Brows for HPH<br>
-[+] Wolfpaint - Face - Racemenu Overlays<br>
-[+] Pocky's 4K Human Female Makeup<br>
-[+] Female Makeup Suite<br>
-[+] Natural Beauty Makeup<br>
-[+] KML Makeup Suite<br>
-[+] Levis Choice - Detail Makeup Set for HPH<br>
-[+] Lamenthia's Marks of Beauty<br>
-[+] Lyru's Tattoo Pack Collection<br>
-[+] Goam's Elven Ears<br>
-[+] Goam's Eleven Ears Redone<br>
-[+] Individual Eye Alignment Sliders for Racemenu<br>
-[+] ECE Sliders Addon for RaceMenu<br>
-[+] Yufimea Neririe - A Breton Preset<br>
-[+] Vivid - HPH Breton Preset<br>
-[+] Viper's Preset Collection - HPH<br>
-[+] Dialogue Interface ReShaped<br>
-[+] Serana Dialogue Expansion - JS Circlet Replacer<br>
-[+] Faster Chaurus - Ultimate Entomophobia<br>
+[+] [Valenwood Ranger Armor Mashup](https://www.nexusmods.com/skyrimspecialedition/mods/126887)<br>
+[+] [Soul Hunter Armor Mashup](https://www.nexusmods.com/skyrimspecialedition/mods/122614)<br>
+[+] [Skyrim Mounted Combat Moveset for Horsepower](https://www.nexusmods.com/skyrimspecialedition/mods/172811)<br>
+[+] [Open Animation Replacer - RaySense](https://www.nexusmods.com/skyrimspecialedition/mods/175498)<br>
+[+] [Beam Walking Assist](https://www.nexusmods.com/skyrimspecialedition/mods/175511)<br>
+[+] [RaySense - Cover Animation](https://www.nexusmods.com/skyrimspecialedition/mods/175504)<br>
+[+] [RaySense - Edge Lookdown](https://www.nexusmods.com/skyrimspecialedition/mods/175514)<br>
+[+] [Mihail Meshes Optimization Project](https://www.nexusmods.com/skyrimspecialedition/mods/176688)<br>
+[+] [Bifrost](https://www.nexusmods.com/skyrimspecialedition/mods/88152)<br>
+[+] [Magecore](https://www.nexusmods.com/skyrimspecialedition/mods/113540)<br>
+[+] [Heels Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64442)<br>
+[+] [HDT High Heels Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32052)<br>
+[+] [Aranea Lenith DF Edit](https://www.nexusmods.com/skyrimspecialedition/mods/176413)<br>
+[+] [Obi - Traveler's Romper Outfit 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/176951)<br>
+[+] [Sparrows Mage 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/96211)<br>
+[+] [Wayfarer Navi 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/170449)<br>
+[+] [Dark Apprentice](https://www.nexusmods.com/skyrimspecialedition/mods/171434)<br>
+[+] [Input Manager](https://www.nexusmods.com/skyrimspecialedition/mods/174545)<br>
+[+] [Domina's CBBE 3BA Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/174849)<br>
+[+] [Lovely Makeup](https://www.nexusmods.com/skyrimspecialedition/mods/94271)<br>
+[+] [Lovely Makeup 2](https://www.nexusmods.com/skyrimspecialedition/mods/102335)<br>
+[+] [Lovely Makeup 3](https://www.nexusmods.com/skyrimspecialedition/mods/147639)<br>
+[+] [Koralina's Eyebrows for HPH](https://www.nexusmods.com/skyrimspecialedition/mods/64497)<br>
+[+] [Koralina's Freckles](https://www.nexusmods.com/skyrimspecialedition/mods/62508)<br>
+[+] [Koralina's Makeup Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/63024)<br>
+[+] [Even More Makeup by Koralina](https://www.nexusmods.com/skyrimspecialedition/mods/67602)<br>
+[+] [Slordar's Body Freckles](https://www.nexusmods.com/skyrimspecialedition/mods/62508)<br>
+[+] [Kyoe's Banging Brows](https://www.nexusmods.com/skyrimspecialedition/mods/13630)<br>
+[+] [Kyoe's Banging Brows for HPH](https://www.nexusmods.com/skyrimspecialedition/mods/63276)<br>
+[+] [Wolfpaint - Face - Racemenu Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/30255)<br>
+[+] [Pocky's 4K Human Female Makeup](https://www.nexusmods.com/skyrimspecialedition/mods/44716)<br>
+[+] [Female Makeup Suite](https://www.nexusmods.com/skyrimspecialedition/mods/24495)<br>
+[+] [Natural Beauty Makeup](https://www.nexusmods.com/skyrimspecialedition/mods/113704)<br>
+[+] [KML Makeup Suite](https://www.nexusmods.com/skyrimspecialedition/mods/56927)<br>
+[+] [LDD - Detail Makeup - HPH](https://www.nexusmods.com/skyrimspecialedition/mods/149633)<br>
+[+] [Lamenthia's Marks of Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/49845)<br>
+[+] [Lyru's Tattoo Pack Collection](https://www.nexusmods.com/skyrimspecialedition/mods/75222)<br>
+[+] [Goam's Elven Ears](https://www.nexusmods.com/skyrimspecialedition/mods/99528)<br>
+[+] [Goam's Eleven Ears Redone](https://www.nexusmods.com/skyrimspecialedition/mods/165502)<br>
+[+] [Individual Eye Alignment Sliders for Racemenu](https://www.nexusmods.com/skyrimspecialedition/mods/76677)<br>
+[+] [ECE Sliders Addon for RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/75686)<br>
+[+] [Yufimea Neririe - A Breton Preset](www.nexusmods.com/skyrimspecialedition/mods/177589)<br>
+[+] [Vivid - HPH Breton Preset](https://www.nexusmods.com/skyrimspecialedition/mods/75643)<br>
+[+] [Viper's Preset Collection - HPH](https://www.nexusmods.com/skyrimspecialedition/mods/125500)<br>
+[+] [Dialogue Interface ReShaped](https://www.nexusmods.com/skyrimspecialedition/mods/46546)<br>
+[+] [Serana Dialogue Expansion - JS Circlet Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/168566)<br>
+[+] [Faster Chaurus - Ultimate Entomophobia](https://www.nexusmods.com/skyrimspecialedition/mods/177067)<br>
+[+] [RUSTIC SOULGEMS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5785)<br>
+[+] [MultiLayer Parallax Soul Gems SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25709)<br>
+[+] [Rudy HQ - Nordic Ruins SE](https://www.nexusmods.com/skyrimspecialedition/mods/19365)<br>
+[+] [JS Shrines of the Divines SE](https://www.nexusmods.com/skyrimspecialedition/mods/33394)<br>
+[+] [Rudification - Rudy Candles Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/55852)<br>
+[+] [Parallax Addon for Rudy's HQ Nordic Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/86900)<br>
+[+] [Nordic Ruins Rubble Pile - Mesh Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/79508)<br>
+[+] [ElSopa - Misc Ruins Redone](https://www.nexusmods.com/skyrimspecialedition/mods/153797)<br>
+[+] [Sleep of the Dead - A Draugr Leather and Shroud Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/178057)<br>
+[+] [Angi's Camp Archery Targets](https://www.nexusmods.com/skyrimspecialedition/mods/178568)<br>
+[+] [ElSopa - Gem Holders Redone](https://www.nexusmods.com/skyrimspecialedition/mods/110627)<br>
+[+] [ElSopa - Ysgramor Armory Redone](https://www.nexusmods.com/skyrimspecialedition/mods/166933)<br>
+[+] [ElSopa - HearthFires Oven Redone](https://www.nexusmods.com/skyrimspecialedition/mods/164386)<br>
+[+] [ElSopa - Training Dummies Redone](https://www.nexusmods.com/skyrimspecialedition/mods/102948)<br>
+[+] [Slimventory - compact layout for Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/115174)<br>
+[+] [Show Player In Inventory](https://www.nexusmods.com/skyrimspecialedition/mods/178689)<br>
+[+] [REBEL NORTH - Immersive Dialogue Expansion - Stormcloaks](https://www.nexusmods.com/skyrimspecialedition/mods/178880)<br>
+[+] [Immersive Dialogue Expansion - Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/168432)<br>
+[+] [HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)](https://www.nexusmods.com/skyrimspecialedition/mods/173134)<br>
+[+] [Follower Dialogue Expansion - Lisette](https://www.nexusmods.com/skyrimspecialedition/mods/177717)<br>
+[+] [Follower Dialogue Expansion - Marcurio (FDE)](https://www.nexusmods.com/skyrimspecialedition/mods/174725)<br>
+[+] [Follower Dialogue Expansion - Olfina Gray-Mane](https://www.nexusmods.com/skyrimspecialedition/mods/172562)<br>
+[+] [Follower Dialogue Expansion - Aranea Ienith](https://www.nexusmods.com/skyrimspecialedition/mods/141907)<br>
 		
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
 		
 **UPDATED MODS:** <br>
+[+] HDT-SMP Perfect Legionnaire Armor<br>
+[+] Roleplaying in Skyrim - Evolving Economy<br>
+[+] Papyrus Ini Manipulator<br>
 [+] Immersive Armors - CBBE 3BA Patch<br>
 [+] Serana Dialogue Expansion<br>
 [+] SKSE Menu Framework<br>
