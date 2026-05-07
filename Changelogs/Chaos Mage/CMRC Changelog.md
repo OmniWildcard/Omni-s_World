@@ -637,6 +637,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Heels Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64442)<br>
 [+] [HDT High Heels Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32052)<br>
 [+] [Aranea Lenith DF Edit](https://www.nexusmods.com/skyrimspecialedition/mods/176413)<br>
+[+] [Rayya DF Edit](https://www.nexusmods.com/skyrimspecialedition/mods/179325)<br>
 [+] [Obi - Traveler's Romper Outfit 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/176951)<br>
 [+] [Sparrows Mage 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/96211)<br>
 [+] [Wayfarer Navi 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/170449)<br>
