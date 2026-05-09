@@ -624,6 +624,15 @@ This update is mostly a performance and bug fix update but I have also made the 
 <br>
 
 **NEW ADDITIONS:** <br>
+[+] [Pig Iron Set](https://www.nexusmods.com/skyrimspecialedition/mods/126178)<br>
+[+] [Pig Iron Set - 3BA - HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/176434)<br>
+[+] [Pig Iron Set - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/128731)<br>
+[+] [A Good Death - Old Orc Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/128734)<br>
+[+] [Ash Footsteps Fixed for Skyrim Audio Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/172304)<br>
+[+] [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523)<br>
+[+] [(ISC SRDified) Immersive Sounds Compendium - Sound Record Distributor...ded](https://www.nexusmods.com/skyrimspecialedition/mods/78446)<br>
+[+] [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/36761)<br>
+[+] [Custom ISC Armor Patches - SRD](https://www.nexusmods.com/skyrimspecialedition/mods/175931)<br>
 [+] [Valenwood Ranger Armor Mashup](https://www.nexusmods.com/skyrimspecialedition/mods/126887)<br>
 [+] [Soul Hunter Armor Mashup](https://www.nexusmods.com/skyrimspecialedition/mods/122614)<br>
 [+] [Skyrim Mounted Combat Moveset for Horsepower](https://www.nexusmods.com/skyrimspecialedition/mods/172811)<br>
@@ -700,6 +709,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [-] ImmersiveHUD SKSE<br>
 		
 **UPDATED MODS:** <br>
+[+] Sound Record Distributor<br>
 [+] HDT-SMP Perfect Legionnaire Armor<br>
 [+] Roleplaying in Skyrim - Evolving Economy<br>
 [+] Papyrus Ini Manipulator<br>
