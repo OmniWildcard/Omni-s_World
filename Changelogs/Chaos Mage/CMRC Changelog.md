@@ -624,6 +624,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 <br>
 
 **NEW ADDITIONS:** <br>
+[+] [Stuck on Screen Auto Load Door Fix SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179088)<br>
 [+] [Pig Iron Set](https://www.nexusmods.com/skyrimspecialedition/mods/126178)<br>
 [+] [Pig Iron Set - 3BA - HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/176434)<br>
 [+] [Pig Iron Set - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/128731)<br>
