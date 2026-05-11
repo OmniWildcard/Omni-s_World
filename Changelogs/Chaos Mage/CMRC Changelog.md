@@ -708,6 +708,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 		
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
+[-] Skyrim Save System Overhaul 3 (SSSO 3)<br>
 		
 **UPDATED MODS:** <br>
 [+] Sound Record Distributor<br>
