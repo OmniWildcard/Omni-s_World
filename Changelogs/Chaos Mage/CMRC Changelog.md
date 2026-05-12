@@ -642,6 +642,10 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [RaySense - Cover Animation](https://www.nexusmods.com/skyrimspecialedition/mods/175504)<br>
 [+] [RaySense - Edge Lookdown](https://www.nexusmods.com/skyrimspecialedition/mods/175514)<br>
 [+] [Mihail Meshes Optimization Project](https://www.nexusmods.com/skyrimspecialedition/mods/176688)<br>
+[+] [DCR - King Crusader Mega Pack](https://www.nexusmods.com/skyrimspecialedition/mods/8856)<br>
+[+] [DCR - King Crusader Heavy War Regalia](https://www.nexusmods.com/skyrimspecialedition/mods/53808)<br>
+[+] [Reforged DCR King Crusader by Stormhand](https://www.nexusmods.com/skyrimspecialedition/mods/117825)<br>
+[+] [HDT-SMP DCR - King Crusader Armor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/178395)<br>
 [+] [Bifrost](https://www.nexusmods.com/skyrimspecialedition/mods/88152)<br>
 [+] [Magecore](https://www.nexusmods.com/skyrimspecialedition/mods/113540)<br>
 [+] [Heels Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64442)<br>
