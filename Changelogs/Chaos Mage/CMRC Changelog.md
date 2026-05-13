@@ -709,6 +709,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Follower Dialogue Expansion - Marcurio (FDE)](https://www.nexusmods.com/skyrimspecialedition/mods/174725)<br>
 [+] [Follower Dialogue Expansion - Olfina Gray-Mane](https://www.nexusmods.com/skyrimspecialedition/mods/172562)<br>
 [+] [Follower Dialogue Expansion - Aranea Ienith](https://www.nexusmods.com/skyrimspecialedition/mods/141907)<br>
+[+] [Final Boss Ascension](https://www.nexusmods.com/skyrimspecialedition/mods/179888)<br>
 		
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
