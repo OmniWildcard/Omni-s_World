@@ -709,13 +709,31 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Follower Dialogue Expansion - Marcurio (FDE)](https://www.nexusmods.com/skyrimspecialedition/mods/174725)<br>
 [+] [Follower Dialogue Expansion - Olfina Gray-Mane](https://www.nexusmods.com/skyrimspecialedition/mods/172562)<br>
 [+] [Follower Dialogue Expansion - Aranea Ienith](https://www.nexusmods.com/skyrimspecialedition/mods/141907)<br>
+[+] [Super Fast Get Up Animation](https://www.nexusmods.com/skyrimspecialedition/mods/46714)<br>
 [+] [Final Boss Ascension](https://www.nexusmods.com/skyrimspecialedition/mods/179888)<br>
+[+] [Violent Alduin](https://www.nexusmods.com/skyrim/mods/59314)<br>
+[+] [Elemental Dragons](https://www.nexusmods.com/skyrim/mods/62493)<br>
+[+] [Ultimate Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26374)<br>
+[+] [Dragon Animation Replace in Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2163)<br>
+[+] [Dragons and Creatures - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/175485)<br>
+[+] [DCA - Dragon Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/123113)<br>
+[+] [Leone Dragon Project Remastered - Dragon AI and Mechanics Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/137985)<br>
+[+] [Project Fix Alduin's Bane](https://www.nexusmods.com/skyrimspecialedition/mods/155586)<br>
+[+] [Project Bro He's There - Fix followers not starting combat.](https://www.nexusmods.com/skyrimspecialedition/mods/175934)<br>
+[+] [Project Combat Event Fixes - Fix NPCs Stuck in Combat](https://www.nexusmods.com/skyrimspecialedition/mods/158459)<br>
+[+] [Project Fix Alduin's Bane](https://www.nexusmods.com/skyrimspecialedition/mods/155586)<br>
 		
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
 [-] Skyrim Save System Overhaul 3 (SSSO 3)<br>
+[-] Dragon War<br>
+[-] Classic Paralysis<br>
 		
 **UPDATED MODS:** <br>
+[+] Dragons Fall Down<br>
+[+] Ashe - Crystal Heart<br>
+[+] RSE - Shoulder or Saddle<br>
+[+] Dynamic String Distributor<br>
 [+] Sound Record Distributor<br>
 [+] HDT-SMP Perfect Legionnaire Armor<br>
 [+] Roleplaying in Skyrim - Evolving Economy<br>
