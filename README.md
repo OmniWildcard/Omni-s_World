@@ -9,6 +9,7 @@ All of these mod lists make use of a similar foundation but have different modul
 - Dragonborn Voiceover Packs
 - Controller Support Mods
 - Character Presets
+- Animation Mods
 
 > [!CAUTION]<br>
 > **DO NOT USE AUTOMATED SORTING (LOOT)**<br>
