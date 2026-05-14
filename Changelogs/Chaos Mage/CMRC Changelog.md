@@ -730,6 +730,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [-] Classic Paralysis<br>
 		
 **UPDATED MODS:** <br>
+[+] Ultimate Optimized Scripts Compilation
 [+] Dragons Fall Down<br>
 [+] Ashe - Crystal Heart<br>
 [+] RSE - Shoulder or Saddle<br>
