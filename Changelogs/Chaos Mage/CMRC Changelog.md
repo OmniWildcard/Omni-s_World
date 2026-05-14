@@ -718,10 +718,19 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Dragons and Creatures - MCO](https://www.nexusmods.com/skyrimspecialedition/mods/175485)<br>
 [+] [DCA - Dragon Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/123113)<br>
 [+] [Leone Dragon Project Remastered - Dragon AI and Mechanics Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/137985)<br>
+[+] [Heroes of Yore - NPC Shouts AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/114882)<br>
 [+] [Project Fix Alduin's Bane](https://www.nexusmods.com/skyrimspecialedition/mods/155586)<br>
 [+] [Project Bro He's There - Fix followers not starting combat.](https://www.nexusmods.com/skyrimspecialedition/mods/175934)<br>
 [+] [Project Combat Event Fixes - Fix NPCs Stuck in Combat](https://www.nexusmods.com/skyrimspecialedition/mods/158459)<br>
-[+] [Project Fix Alduin's Bane](https://www.nexusmods.com/skyrimspecialedition/mods/155586)<br>
+[+] [Elden Parry](https://www.nexusmods.com/skyrimspecialedition/mods/70240)<br>
+[+] [Elden Parry - Precision Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/115144)<br>
+[+] [Recoiltimed Skating Fix](https://www.nexusmods.com/skyrimspecialedition/mods/66097)<br>
+[+] [Simple Elden Counter NG](https://www.nexusmods.com/skyrimspecialedition/mods/169450)<br>
+[+] [Stagger Effect Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110508)<br>
+[+] [First Person Stagger Animation Remade](https://www.nexusmods.com/skyrimspecialedition/mods/143650)<br>
+[+] [Parrying RPG](https://www.nexusmods.com/skyrimspecialedition/mods/81356)<br>
+[+] [Chocolate Poise - Elden Parry - Ordinator - ParryingRPG Tweaks and Integration](https://www.nexusmods.com/skyrimspecialedition/mods/118942)<br>
+[+] [Chocolate Poise Plus - Addons and Rebalancing](https://www.nexusmods.com/skyrimspecialedition/mods/82091)<br>
 		
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
@@ -730,7 +739,10 @@ This update is mostly a performance and bug fix update but I have also made the 
 [-] Classic Paralysis<br>
 		
 **UPDATED MODS:** <br>
-[+] Ultimate Optimized Scripts Compilation
+[+] Ancient Nord Heroes Use Thu'um - Dragons Use Thu'um Addon<br>
+[+] NPC Spell Variance - Spell Variety AI<br>
+[+] Ultimate Optimized Scripts Compilation<br>
+[+] Dragons Use Thu'um - Dragon AI Enhancements and New Fully Voiced Shouts<br>
 [+] Dragons Fall Down<br>
 [+] Ashe - Crystal Heart<br>
 [+] RSE - Shoulder or Saddle<br>
