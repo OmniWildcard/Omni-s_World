@@ -783,6 +783,6 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] TexGen_Output (CMRC)<br>
 [+] DynDOLOD_Output (CMRC)<br>
 
-This update is largely an expansion on customization options, an update to existing modules and a performance fix for Winterhold. We're also reintroducing the BSA Master Asset Table into the list so if you're having issues with the ENB blacking out the screen after installing and running the cleanup script please let me know and I'll try to fix the issue in a hotfix update.
+This update is largely an expansion on customization options, an update to existing modules and a performance fix for Winterhold. We're also reintroducing the BSA Master Asset Table into the list so if you're having issues with the screen blacking out let me know and I'll do my best to remedy the situation. We are officially dropping support of ENB with this update and moving to Community Shaders.
 
 </details>
