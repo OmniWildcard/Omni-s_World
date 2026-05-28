@@ -49,6 +49,8 @@ You can find links to them under the corresponding game along with a brief descr
 
 - [Chaos Mage Randomized Challenge](https://github.com/OmniWildcard/Omni-s_World/blob/main/Readme_Files/CMRC_Readme.md) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. So venture forth and try to accomplish your overarching goals; all-the-while overcoming the various handicaps you've been burdened with in a world of cold steel and sorcery!
+    
+  - Chaos Mage Changelogs can be found [here](https://github.com/OmniWildcard/Omni-s_World/blob/main/Changelogs/Chaos%20Mage/CMRC%20Changelog.md).
 
 - [Ad Mortem Challenge](https://github.com/OmniWildcard/Omni-s_World/blob/main/Readme_Files/AMC_Readme.md) (Currently Unreleased) by Omni the Starspawn
   - A mod list that was featured in the eponymous challenge series on YouTube and Twitch by the list's author. The focus is heavy on improving immersion and merging modern combat systems with Skyrim's vanilla combat via the BFCO combat system; all-the-while striking a decent balance between realism and game-like convenience. Bear in mind, however, that Death waits for no one and every step you take could be your last. So don't be reckless, or you'll quickly find how fickle fate can be, as you will be forced to start again from the very beginning every time you perish!
