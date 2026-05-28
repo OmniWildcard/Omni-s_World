@@ -796,6 +796,9 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Beam Walking Assist - 1st](https://www.nexusmods.com/skyrimspecialedition/mods/175499)<br>
 [+] [First-Person Falling Animation](https://www.nexusmods.com/skyrimspecialedition/mods/177676)<br>
 [+] [First-Person Swimming Animation](https://www.nexusmods.com/skyrimspecialedition/mods/176987)<br>
+[+] [ELLE Knight Winds 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/89980)<br>
+[+] [ELLE - Knight Winds - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/149870)<br>
+[+] [ELLE Knight Winds - No High Heel Boot 3BA Bodyslide files for Xtudo's patches](https://www.nexusmods.com/skyrimspecialedition/mods/165944)<br>
 
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
@@ -808,6 +811,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [-] Katana - Journey in the Shadows
 		
 **UPDATED MODS:** <br>
+[+] Heels - Sound Record Distributor (SRD) - Patch Hub<br>
 [+] Animated HD Thalmor Banners<br>
 [+] Photo Mode<br>
 [+] B612 - little asteroid of useful UI components<br>
