@@ -10,6 +10,7 @@
 </header>
 
 - [Foreword](#foreword)
+  - [Update History](#update-history)
   - [System Requirements](#system-requirements)
   - [Backup Download Links](#backup-download-links)
   - [Load Order Library](#load-order-library)
@@ -49,6 +50,9 @@ When I made my lists I wanted to create a modded environment that stayed true to
 Meanwhile, places with hefty sources of lumber and stone seem relatively untouched, neither by the war nor the disruption of the economy that came with it. This is just a facade though, as the strain on merchant's supplies is pushed to the limit by the civil war leading to increased prices for goods of all kinds. Yet, despite all this, we still have the beautiful forests of Falkreath, the gorgeous vista's seen from the mountaintops and the frost-bitten but serene landscapes of the northern holds.
 
 Now, while this list may've originally been intended only for personal use on my YouTube channel, it has long since evolved past that point. Now I see each of my lists as a love letter to a different part of the Skyrim community. This particular list is my love letter to those fans of the Rigmor series, and the various tales that can be told through the Creation Engine. Say what you will about Bethesda's choice of engine for their games, but one thing the Creation Engine does best is create quests and weave stories; all-the-while limited only by the imagination of the author. With all that said, I hope you enjoy the fruits of my labor, and appreciate all the work that went into creating this list for you. Cheers!
+
+## Update History
+You can find the full documented history of changes across all versions of the list [here](https://github.com/OmniWildcard/Omni-s_World/blob/main/Changelogs/Chaos%20Mage/CMRC%20Changelog.md).
 
 ## System Requirements
 These are the minimum recommended specifications to run the list though there may be some wiggle-room on these specs (expand each section for more information):
