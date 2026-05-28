@@ -731,14 +731,94 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Parrying RPG](https://www.nexusmods.com/skyrimspecialedition/mods/81356)<br>
 [+] [Chocolate Poise - Elden Parry - Ordinator - ParryingRPG Tweaks and Integration](https://www.nexusmods.com/skyrimspecialedition/mods/118942)<br>
 [+] [Chocolate Poise Plus - Addons and Rebalancing](https://www.nexusmods.com/skyrimspecialedition/mods/82091)<br>
-		
+[+] [Sonders Keyword Distribution Resources](https://www.nexusmods.com/skyrimspecialedition/mods/93995)<br>
+[+] [Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/7560)<br>
+[+] [Chesko's Wearable Lanterns - SE and VR Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19348)<br>
+[+] [Wearable Lanterns MCM Fixed No DLL Error](https://www.nexusmods.com/skyrimspecialedition/mods/72287)<br>
+[+] [Glass fix for Wearable lanterns SMIM patch](https://www.nexusmods.com/skyrimspecialedition/mods/44531)<br>
+[+] [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)<br>
+[+] [Hair Specular - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/149011)<br>
+[+] [Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)<br>
+[+] [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)<br>
+[+] [Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)<br>
+[+] [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)<br>
+[+] [Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)<br>
+[+] [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)<br>
+[+] [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)<br>
+[+] [Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)<br>
+[+] [ISL Helper SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/179132)<br>
+[+] [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)<br>
+[+] [Lux CS](https://www.nexusmods.com/skyrimspecialedition/mods/153919)<br>
+[+] [CS Light](https://www.nexusmods.com/skyrimspecialedition/mods/138443)<br>
+[+] [Tiny Light Placer Hub (CS Lights)](https://www.nexusmods.com/skyrimspecialedition/mods/169472)<br>
+[+] [NAT CS](https://www.nexusmods.com/skyrimspecialedition/mods/139567)<br>
+[+] [Kanjs - Briar Heart Beating and Animated](https://www.nexusmods.com/skyrimspecialedition/mods/111089)<br>
+[+] [College of Winterhold - Glowing Symbols](https://www.nexusmods.com/skyrimspecialedition/mods/108076)<br>
+[+] [Cathedral - 3D Dragons Tongue with Glow Map and ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/85786)<br>
+[+] [Kanjs - Sigil Stone Animated](https://www.nexusmods.com/skyrimspecialedition/mods/165298)<br>
+[+] [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)<br>
+[+] [Hidden Gems of Skyrim - Lovely Luaffyn](https://www.nexusmods.com/skyrimspecialedition/mods/175383)<br>
+[+] [Hidden Gems of Skyrim - Eris Ashore](https://www.nexusmods.com/skyrimspecialedition/mods/175933)<br>
+[+] [Rue Of The Mire-ESL flagged](https://www.nexusmods.com/skyrimspecialedition/mods/174197)<br>
+[+] [Hair Suppression Fix (Wigs)](https://www.nexusmods.com/skyrimspecialedition/mods/179400)<br>
+[+] [Hair Colour Sync NG](https://www.nexusmods.com/skyrimspecialedition/mods/156414)<br>
+[+] [KS Hairdos 1.7 Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975)<br>
+[+] [Salt and Wind - KS Hairdos - Update](https://www.nexusmods.com/skyrimspecialedition/mods/64707)<br>
+[+] [True Armor - Evolved](https://www.nexusmods.com/skyrimspecialedition/mods/152365)<br>
+[+] [The Forsworn Conspiracy - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/161913)<br>
+[+] [Cidhna Mine Expanded and Forsworn Conspiracy Quest Expansion Patch](https://www.nexusmods.com/skyrimspecialedition/mods/180631)<br>
+[+] [Simply Serana - A Visual Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/121327)<br>
+[+] [Serana Cured Eyes Removal NG](https://www.nexusmods.com/skyrimspecialedition/mods/172753)<br>
+[+] [Serana Multiform NG](https://www.nexusmods.com/skyrimspecialedition/mods/172754)<br>
+[+] [Lore-Friendly Thalmor Banners](https://www.nexusmods.com/skyrimspecialedition/mods/180787)<br>
+[+] [Kanjs - The Rueful Axe Animated](https://www.nexusmods.com/skyrimspecialedition/mods/180752)<br>
+[+] [Disintegrate Perk Fix](https://www.nexusmods.com/skyrimspecialedition/mods/180591)<br>
+[+] [Immersive Rope Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/180316)<br>
+[+] [Blood Horker - Hanging Dead Horker Conistency - BOS](https://www.nexusmods.com/skyrimspecialedition/mods/180712)<br>
+[+] [No Bleeding From Mudcrabs](https://www.nexusmods.com/skyrimspecialedition/mods/180652)<br>
+[+] [No Bleeding From Dwarven Automatons](https://www.nexusmods.com/skyrimspecialedition/mods/180698)<br>
+[+] [Critter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/180956)<br>
+[+] [Cathedral Mountain Flowers - Ingredient Inventory Fix](https://www.nexusmods.com/skyrimspecialedition/mods/180711)<br>
+[+] [IFrame Generator RE](https://www.nexusmods.com/skyrimspecialedition/mods/74401)<br>
+[+] [Draugr Shout Dodge Animation](https://www.nexusmods.com/skyrimspecialedition/mods/180602)<br>
+[+] [1st-person weapon check](https://www.nexusmods.com/skyrimspecialedition/mods/169796)<br>
+[+] [1st Random Weapon Check - Battleaxe](https://www.nexusmods.com/skyrimspecialedition/mods/174204)<br>
+[+] [1st Random Weapon Check - Warhammer](https://www.nexusmods.com/skyrimspecialedition/mods/174484)<br>
+[+] [1st Random Weapon Check - Mace](https://www.nexusmods.com/skyrimspecialedition/mods/174780)<br>
+[+] [1st Random Weapon Check - War Axe](https://www.nexusmods.com/skyrimspecialedition/mods/174991)<br>
+[+] [1st Random Weapon Check - Greatsword](https://www.nexusmods.com/skyrimspecialedition/mods/175200)<br>
+[+] [1st Random Weapon Check - Dual Dagger](https://www.nexusmods.com/skyrimspecialedition/mods/173735)<br>
+[+] [1st Random Weapon Check - Dual Sword](https://www.nexusmods.com/skyrimspecialedition/mods/172995)<br>
+[+] [1st Random Weapon Check - Sword](https://www.nexusmods.com/skyrimspecialedition/mods/174059)<br>
+[+] [First-Person Blood Wipe Animation](https://www.nexusmods.com/skyrimspecialedition/mods/179179)<br>
+[+] [First-Person Snowy Weather Animation](https://www.nexusmods.com/skyrimspecialedition/mods/177901)<br>
+[+] [First-Person Torchlight Animation](https://www.nexusmods.com/skyrimspecialedition/mods/178262)<br>
+[+] [Beam Walking Assist - 1st](https://www.nexusmods.com/skyrimspecialedition/mods/175499)<br>
+[+] [First-Person Falling Animation](https://www.nexusmods.com/skyrimspecialedition/mods/177676)<br>
+[+] [First-Person Swimming Animation](https://www.nexusmods.com/skyrimspecialedition/mods/176987)<br>
+
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
 [-] Skyrim Save System Overhaul 3 (SSSO 3)<br>
 [-] Dragon War<br>
 [-] Classic Paralysis<br>
+[-] Nihility Series - Serana Visual Overhaul<br>
+[-] ENB v5.04<br>
+[-] Dawnfire ENB for NAT III Weathers<br>
+[-] Katana - Journey in the Shadows
 		
 **UPDATED MODS:** <br>
+[+] Animated HD Thalmor Banners<br>
+[+] Photo Mode<br>
+[+] B612 - little asteroid of useful UI components<br>
+[+] Biggie Traits<br>
+[+] OBody NG<br>
+[+] OBody NG ORefit MasterList<br>
+[+] SC - Cubemaps<br>
+[+] KS Hairdos SMP<br>
+[+] CoMAP<br>
+[+] Modern Lighting Overhaul 2 (MLO2)<br>
+[+] lilebonymace's patches and xEdit scripts<br>
 [+] Ancient Nord Heroes Use Thu'um - Dragons Use Thu'um Addon<br>
 [+] NPC Spell Variance - Spell Variety AI<br>
 [+] Ultimate Optimized Scripts Compilation<br>
@@ -783,6 +863,90 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] TexGen_Output (CMRC)<br>
 [+] DynDOLOD_Output (CMRC)<br>
 
-This update is largely an expansion on customization options, an update to existing modules and a performance fix for Winterhold. We're also reintroducing the BSA Master Asset Table into the list so if you're having issues with the screen blacking out let me know and I'll do my best to remedy the situation. We are officially dropping support of ENB with this update and moving to Community Shaders.
+This update is frankly massive in scope and encompasses a complete rebalancing and reworking of the gear progression, massive performance fixes for Winterhold that involve a full navmesh reconstruction and voxel occlusion setup, refinement of the combat gameplay loop, the removal of the Katana crew for three new followers, various bug fixes, wearable lanterns, the swap from ENB to Community Shaders, and a transition to a largely pure-BSA architecture for the list. The update is still a ways off and to make sure you have something to play with I have put out a hotfix on my Discord server for the time being to try and shore up the damage in the current build while you wait for the update to go live. As of the moment I am working through a massive checklist but I promise I am not slacking off, I am chipping away at it a bit every day. I hope you enjoy the fruits of my labor. Cheers!
 
-</details>
+For context purposes here are the progression tables for armor and weapons:
+
+### The v1.5.0.0 Armor Progression Chart
+*Format: (Cuirass / Gloves / Boots / Helmet / Shield)*
+
+| Progression Step | Type | Armor Set | Base AR Matrix | Warmth & Coverage |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tier 0 (NPC Baseline)** | Light | Hide | (20 / 5 / 5 / 10 / 15) | Poor |
+| | Light | Fur | (23 / 5 / 5 / 10 / 18)| Poor |
+| | Heavy | Iron | (25 / 10 / 10 / 15 / 20) | Poor |
+| | Heavy | Banded Iron | (28 / 10 / 10 / 15 / 22) | Poor |
+| **Tier 1 (Starting Baseline)** | Light | Leather | (26 / 7 / 7 / 12 / 20) | Fair |
+| | Heavy | Steel | (31 / 12 / 12 / 17 / 24) | Fair |
+| **Tier 2 (Exploration Find)** | Light | Elven Light | (27 / 8 / 8 / 13 / 21) | Fair |
+| | Light | Elven | (29 / 9 / 9 / 14 / 22) | Fair |
+| | Heavy | Dwarven | (34 / 13 / 13 / 18 / 26) | Fair |
+| | Heavy | Gilded Dwarven | (35.5 / 13.5 / 13.5 / 18.5 / 28) | Fair |
+| **Tier 3 (Mid-Game Push)** | Light | Scaled | (32 / 10 / 10 / 15 / 22) | Good |
+| | Light | Nordic Chainmail | (34 / 10 / 10 / 15 / 23) | Good |
+| | Heavy | Steel Plate | (37 / 14 / 14 / 19 / 28) | Good |
+| | Heavy | Orcish | (38 / 15 / 15 / 20 / 29) | Good |
+| **Tier 4 (High-End Step)** | Light | Gilded Elven | (35 / 10.5 / 10.5 / 15 / 24) | Good |
+| | Light | Chitin Light | (35.5 / 10.5 / 10.5 / 15.5 / 24) | Good |
+| | Light | Improved Chitin | (36.5 / 10.5 / 10.5 / 15.5 /24) | Good ||
+| | Light | Standard Bonemold | (37 / 11 / 11 / 16 / 25) | Good |
+| | Light | Stalhrim Light | (38 / 11 / 11 / 16 / 26) | Good |
+| | Heavy | Improved Bonemold | (38 / 15 / 15 / 20 / 30) | Good |
+| | Heavy | Chitin Heavy | (39.5 / 15.5 / 15.5 /20.5 / 30) | Good |
+| | Heavy | Nordic | (40.5 / 15.5 / 15.5 / 20.5 / 30) | Good |
+| | Heavy | Stalhrim Heavy | (43 / 16 / 16 / 21 / 31) | Good |
+| | Heavy | Ebony | (43 / 16 / 16 / 21 / 32) | Good |
+| **Tier 5 (End-Game Apex)** | Light | Dragonscale | (38.5 / 11.5 / 11.5 / 16.5 / 27) | Excellent |
+| | Heavy | Dragonplate | (46 / 17 / 17 / 22 / 34) | Excellent |
+| **Tier 6 (Sovereign Apex)** | Light | Glass | (41 / 12 / 12 / 17 / 29) | Max |
+| | Light | Amber | (41 / 12 / 12 / 17 / 29) | Max |
+| | Heavy | Daedric | (49 / 18 / 18 / 23 / 35) | Max |
+| | Heavy | Madness | (49 / 18 / 18 / 23 / 35) | Max |
+
+### The Weapon Progression Chart
+*Format: (Damage / Weight / Value)*
+
+| Progression Step | Material | Type | Stat Matrix |
+| :--- | :--- | :--- | :--- |
+| **Tier 0 (NPC Baseline)** | Iron | Sword | (7 / 9 / 25) |
+| | Iron | War Axe | (8 / 11 / 35) |
+| | Iron | Mace | (9 / 13 / 45) |
+| | Iron | Greatsword | (15 / 16 / 50) |
+| | Iron | Battleaxe | (16 / 20 / 65) |
+| | Iron | Warhammer | (18 / 24 / 85) |
+| **Tier 1 (Starting Baseline)** | Steel | Sword | (9 / 11 / 55) |
+| | Steel | War Axe | (10 / 13 / 65) |
+| | Steel | Mace | (11 / 15 / 75) |
+| | Steel | Greatsword | (18 / 18 / 100) |
+| | Steel | Battleaxe | (19 / 22 / 125) |
+| | Steel | Warhammer | (21 / 26 / 160) |
+| **Tier 2 (Exploration Find)** | Elven | Sword | (11 / 13 / 235) |
+| | Elven | War Axe | (12 / 15 / 315) |
+| | Elven | Mace | (13 / 17 / 410) |
+| | Dwarven | Greatsword | (19 / 19 / 270) |
+| | Dwarven | Battleaxe | (20 / 23 / 340) |
+| | Dwarven | Warhammer | (22 / 27 / 450) |
+| **Tier 3 (Mid-Game Push)** | Corundum Alloy / Nordic Alloy | Sword | (13 / 14 / 290) |
+| | Corundum Alloy / Nordic Alloy | War Axe | (14 / 15 / 365) |
+| | Corundum Alloy / Nordic Alloy | Mace | (15 / 16 / 420) |
+| | Reinforced Steel / Orcish | Greatsword | (21 / 20 / 300) |
+| | Reinforced Steel / Orcish | Battleaxe | (22 / 24 / 380) |
+| | Reinforced Steel / Orcish | Warhammer | (24 / 28 / 480) |
+| **Tier 4 (High-End Step)** | Gilded Elven / Chitin / Stalhrim Light | Sword | (15 / 15 / 720) |
+| | Gilded Elven / Chitin / Stalhrim Crystal | War Axe | (16 / 16 / 960) |
+| | Gilded Elven / Chitin / Stalhrim Crystal | Mace | (17 / 17 / 1250) |
+| | Bonemold / Nordic Steel / Ebony / Reinforced Stalhrim | Greatsword | (23 / 22 / 1440) |
+| | Bonemold / Nordic Steel / Ebony / Reinforced Stalhrim | Battleaxe | (24 / 25 / 1850) |
+| | Bonemold / Nordic Steel / Ebony / Reinforced Stalhrim | Warhammer | (26 / 29 / 2450) |
+| **Tier 5 (End-Game Apex)** | Dragonbone | Sword | (17 / 19 / 1500) |
+| | Dragonbone  | War Axe | (18 / 20 / 2000) |
+| | Dragonbone  | Mace | (19 / 21 / 2500) |
+| | Dragonbone | Greatsword | (25 / 27 / 3000) |
+| | Dragonbone  | Battleaxe | (26 / 30 / 3600) |
+| | Dragonbone  | Warhammer | (28 / 33 / 4200) |
+| **Tier 6 (Sovereign Apex)** | Glass / Amber | Sword | (19 / 14 / 410) |
+| | Glass / Amber | War Axe | (20 / 16 / 550) |
+| | Glass / Amber | Mace | (21 / 18 / 715) |
+| | Daedric / Madness | Greatsword | (27 / 23 / 1000) |
+| | Daedric / Madness | Battleaxe | (28 / 27 / 2750) |
+| | Daedric / Madness | Warhammer | (30 / 31 / 4000) |
