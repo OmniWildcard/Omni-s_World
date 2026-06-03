@@ -658,6 +658,7 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Dark Apprentice](https://www.nexusmods.com/skyrimspecialedition/mods/171434)<br>
 [+] [Input Manager](https://www.nexusmods.com/skyrimspecialedition/mods/174545)<br>
 [+] [Domina's CBBE 3BA Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/174849)<br>
+[+] [Black Cat's CBBE 3BA Bodyslide Preset (Marvel Rivals)](https://www.nexusmods.com/skyrimspecialedition/mods/181427)<br>
 [+] [Lovely Makeup](https://www.nexusmods.com/skyrimspecialedition/mods/94271)<br>
 [+] [Lovely Makeup 2](https://www.nexusmods.com/skyrimspecialedition/mods/102335)<br>
 [+] [Lovely Makeup 3](https://www.nexusmods.com/skyrimspecialedition/mods/147639)<br>
