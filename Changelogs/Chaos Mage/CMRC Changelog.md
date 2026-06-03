@@ -777,6 +777,8 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Blood Horker - Hanging Dead Horker Conistency - BOS](https://www.nexusmods.com/skyrimspecialedition/mods/180712)<br>
 [+] [No Bleeding From Mudcrabs](https://www.nexusmods.com/skyrimspecialedition/mods/180652)<br>
 [+] [No Bleeding From Dwarven Automatons](https://www.nexusmods.com/skyrimspecialedition/mods/180698)<br>
+[+] [No Bleeding From Gargoyles](https://www.nexusmods.com/skyrimspecialedition/mods/181134)<br>
+[+] [No More Spider Bleeding](https://www.nexusmods.com/skyrimspecialedition/mods/180709)<br>
 [+] [Critter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/180956)<br>
 [+] [Cathedral Mountain Flowers - Ingredient Inventory Fix](https://www.nexusmods.com/skyrimspecialedition/mods/180711)<br>
 [+] [IFrame Generator RE](https://www.nexusmods.com/skyrimspecialedition/mods/74401)<br>
