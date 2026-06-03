@@ -773,7 +773,6 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [Serana Multiform NG](https://www.nexusmods.com/skyrimspecialedition/mods/172754)<br>
 [+] [Lore-Friendly Thalmor Banners](https://www.nexusmods.com/skyrimspecialedition/mods/180787)<br>
 [+] [Kanjs - The Rueful Axe Animated](https://www.nexusmods.com/skyrimspecialedition/mods/180752)<br>
-[+] [Disintegrate Perk Fix](https://www.nexusmods.com/skyrimspecialedition/mods/180591)<br>
 [+] [Immersive Rope Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/180316)<br>
 [+] [Blood Horker - Hanging Dead Horker Conistency - BOS](https://www.nexusmods.com/skyrimspecialedition/mods/180712)<br>
 [+] [No Bleeding From Mudcrabs](https://www.nexusmods.com/skyrimspecialedition/mods/180652)<br>
