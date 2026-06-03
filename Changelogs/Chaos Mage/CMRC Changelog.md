@@ -938,7 +938,7 @@ For context purposes here are the progression tables for armor and weapons:
 | | Reinforced Steel / Orcish | Greatsword | (21 / 20 / 300) |
 | | Reinforced Steel / Orcish | Battleaxe | (22 / 24 / 380) |
 | | Reinforced Steel / Orcish | Warhammer | (24 / 28 / 480) |
-| **Tier 4 (High-End Step)** | Gilded Elven / Chitin / Stalhrim Light | Sword | (15 / 15 / 720) |
+| **Tier 4 (High-End Step)** | Gilded Elven / Chitin / Stalhrim Crystal | Sword | (15 / 15 / 720) |
 | | Gilded Elven / Chitin / Stalhrim Crystal | War Axe | (16 / 16 / 960) |
 | | Gilded Elven / Chitin / Stalhrim Crystal | Mace | (17 / 17 / 1250) |
 | | Bonemold / Nordic Steel / Ebony / Reinforced Stalhrim | Greatsword | (23 / 22 / 1440) |
@@ -950,9 +950,9 @@ For context purposes here are the progression tables for armor and weapons:
 | | Dragonbone | Greatsword | (25 / 27 / 3000) |
 | | Dragonbone  | Battleaxe | (26 / 30 / 3600) |
 | | Dragonbone  | Warhammer | (28 / 33 / 4200) |
-| **Tier 6 (Sovereign Apex)** | Glass / Amber | Sword | (19 / 14 / 410) |
-| | Glass / Amber | War Axe | (20 / 16 / 550) |
-| | Glass / Amber | Mace | (21 / 18 / 715) |
-| | Daedric / Madness | Greatsword | (27 / 23 / 1000) |
-| | Daedric / Madness | Battleaxe | (28 / 27 / 2750) |
-| | Daedric / Madness | Warhammer | (30 / 31 / 4000) |
+| **Tier 6 (Sovereign Apex)** | Glass / Amber | Sword | (19 / 14 / 2410) |
+| | Glass / Amber | War Axe | (20 / 16 / 2550) |
+| | Glass / Amber | Mace | (21 / 18 / 2715) |
+| | Daedric / Madness | Greatsword | (27 / 23 / 3000) |
+| | Daedric / Madness | Battleaxe | (28 / 27 / 4750) |
+| | Daedric / Madness | Warhammer | (30 / 31 / 6000) |
