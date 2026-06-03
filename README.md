@@ -8,7 +8,10 @@ All of these mod lists make use of a similar foundation but have different modul
 - Werewolf Gameplay
 - Dragonborn Voiceover Packs
 - Controller Support Mods
-- Animation Mods
+- Animation Mods (Within reason; I will not support sex mod animations under any circumstances)
+- Custom Armor Mods (Provided they don't make navmesh edits by adding new dungeons or cells to the Tamriel Worldspace)
+- Custom Weapon Mods (Provided they don't make navmesh edits by adding new dungeons or cells to the Tamriel Worldspace)
+- Texture Mods (It might not mesh well with the intended look but you're welcome to install these if you wish)
 
 > [!CAUTION]<br>
 > **DO NOT USE AUTOMATED SORTING (LOOT)**<br>
