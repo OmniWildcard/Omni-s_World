@@ -801,6 +801,9 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [ELLE Knight Winds 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/89980)<br>
 [+] [ELLE - Knight Winds - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/149870)<br>
 [+] [ELLE Knight Winds - No High Heel Boot 3BA Bodyslide files for Xtudo's patches](https://www.nexusmods.com/skyrimspecialedition/mods/165944)<br>
+[+] [BGSWaterCollision - CrashFix](https://www.nexusmods.com/skyrimspecialedition/mods/181562)<br>
+[+] [Collision Sentinel - Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/181445)<br>
+[+] [Keep Up - Follower Locomotion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/173685)<br>
 
 **REMOVED MODS:** <br>
 [-] ImmersiveHUD SKSE<br>
