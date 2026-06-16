@@ -422,7 +422,7 @@ Launch Octagon via Mod Organizer 2 and then follow these instructions exactly:
 ## How to Install and Prepare the HK Annotation Tools
 1. Navigate to the *hkanno64-001* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>. 
 
-2. Acquire and install the neccessary prerequisites by following the instructions in the Readme file located within the folder.
+2. Acquire the necessary pre-requisites [here](https://www.mediafire.com/file_premium/semo6xldaglolrm/HavokPcXsContentTools_X64_2010-2-0_20101115.exe/file) and install them.
 
 3. Copy the **win32.hko** file from the *hkanno64-001* folder into the *mco to bfco converter-119926-1-2-2-1735788590* folder located under <ins>*Modding > MO2(CMRC) > Patching Tools*</ins>.
 > [!Note]
