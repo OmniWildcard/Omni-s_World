@@ -959,3 +959,32 @@ For context purposes here are the progression tables for armor and weapons:
 | | Daedric / Madness | Greatsword | (27 / 23 / 3000) |
 | | Daedric / Madness | Battleaxe | (28 / 27 / 4750) |
 | | Daedric / Madness | Warhammer | (30 / 31 / 6000) |
+
+### The Helgen Gear Additional Armors Progression
+
+*Format: (Pauldrons / Belt)*
+
+| Progression Step | Type | Armor Set | Base AR Matrix | Warmth & Coverage |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tier 1 (Starting Baseline)** | Light | Elven Light | (3.5 / 1.5) | Fair |
+| | Light | Elven | (4 / 2) | Fair |
+| | Heavy | Dwarven | (4 / 2) | Fair |
+| | Heavy | Gilded Dwarven | (4.5 / 2.5) | Fair |
+| **Tier 2** | Light | Scaled | (4.5 / 2.5) | Good |
+| | Light | Nordic Chainmail | (5 / 3) | Good |
+| | Heavy | Steel Plate | (5 / 3) | Good |
+| | Heavy | Orcish | (5.5 / 3.5) | Good |
+| **Tier 3** | Light | Gilded Elven | (5.5 / 3.5) | Good |
+| | Light | Light Chitin | (6 / 4) | Good |
+| | Light | Improved Chitin | (6.5 / 4.5) | Good |
+| | Light | Bonemold | (7 / 5) | Good |
+| | Light | Light Stalhrim | (7.5 / 5.5) | Good |
+| | Heavy | Improved Bonemold | (6 / 4) | Good |
+| | Heavy | Heavy Chitin | (6.5 / 4.5) | Good |
+| | Heavy | Nordic | (7 / 5) | Good |
+| | Heavy | Heavy Stalhrim | (7.5 / 5.5) | Good |
+| | Heavy | Ebony | (8 / 6) | Good |
+| **Tier 4** | Light | Dragonscale | (8 / 6) | Excellent |
+| | Heavy | Dragonbone | (8.5 / 6.5) | Excellent |
+| **Tier 5** | Light | Glass & Amber | (8.5 / 6.5) | Max |
+| | Heavy | Daedric & Madness | (9 / 7) | Max |
