@@ -876,7 +876,7 @@ This update is frankly massive in scope and encompasses a complete rebalancing a
 
 For context purposes here are the progression tables for armor and weapons:
 
-### The v1.5.0.0 Armor Progression Chart
+## The v1.5.0.0 Armor Progression Chart
 *Format: (Cuirass / Gloves / Boots / Helmet / Shield)*
 
 | Progression Step | Type | Armor Set | Base AR Matrix | Warmth & Coverage |
@@ -912,7 +912,7 @@ For context purposes here are the progression tables for armor and weapons:
 | | Heavy | Daedric | (49 / 18 / 18 / 23 / 35) | Max |
 | | Heavy | Madness | (49 / 18 / 18 / 23 / 35) | Max |
 
-### The Weapon Progression Chart
+## The Weapon Progression Chart
 *Format: (Damage / Weight / Value)*
 
 | Progression Step | Material | Type | Stat Matrix |
@@ -960,7 +960,7 @@ For context purposes here are the progression tables for armor and weapons:
 | | Daedric / Madness | Battleaxe | (28 / 27 / 4750) |
 | | Daedric / Madness | Warhammer | (30 / 31 / 6000) |
 
-### The Helgen Gear Additional Armors Progression
+## The Helgen Gear Additional Armors Progression
 
 *Format: (Pauldrons / Belt)*
 
@@ -988,3 +988,168 @@ For context purposes here are the progression tables for armor and weapons:
 | | Heavy | Dragonbone | (8.5 / 6.5) | Excellent |
 | **Tier 5** | Light | Glass & Amber | (8.5 / 6.5) | Max |
 | | Heavy | Daedric & Madness | (9 / 7) | Max |
+
+## The Hidden Unique Gear Upgrade Formulas
+*Naming Format: (Unique Gear Tier Name = Actual Tier - 1)*
+*NOTE: If there are steps between tiers it is denoted by the P(N) suffix where N is the percentage of the step progression to the next tier (ie. T1P5 = Tier 1.5)*
+
+*Matrix Format: (Material 1 / Material 2 / Material 3 / Material 4 / Material 5)*
+
+### Helgen Gear Light Armor Progression
+
+| Progression Step | Armor Set | Type | Armor Piece | Materials Matrix |
+| :--- | :--- | :--- | :--- | :--- |
+| &nbsp; | &nbsp; | **---[ PAULDRONS ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Elven | Light | Pauldrons | (1x Quicksilver Ingot / 2x Calcinium Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1 Light Pauldrons) |
+| T1P5 -> T2 | Scaled | Light | Pauldrons | (1x Copper Ingot / 2x Corundum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1P5 Light Pauldrons) |
+| T2 -> T2P5 | Nordic Chainmail | Light | Pauldrons | (1x Steel Ingot / 2x Galatite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T2 Light Pauldrons) |
+| T2P5 -> T3 | Gilded Elven | Light | Pauldrons | (1x Gold Ingot / 2x Moonstone Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T2P5 Light Pauldrons) |
+| T3 -> T3P2 | Light Chitin | Light | Pauldrons | (1x Netch Resin / 2x Chitin Plate / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3 Light Pauldrons) |
+| T3P2 -> T3P4 | Improved Chitin | Light | Pauldrons | (4x Chitin Plate / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3P2 Light Pauldrons / NULL) |
+| T3P4 -> T3P6 | Bonemold | Light | Pauldrons | (1x Netch Resin / 2x Bonemold Resin / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3P4 Light Pauldrons) |
+| T3P6 -> T3P8 | Light Stalhrim | Light | Pauldrons | (1x Stalhrim Ore / 2x Refined Stalhrim / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3P6 Light Pauldrons) |
+| T3P8 -> T4 | Dragonscale | Light | Pauldrons | (1x Bonemold Resin / 2x Dragon Scales / 1x Spellwoven Ingot / 2x Leather Strips / 1x T3P8 Light Pauldrons) |
+| T4 -> T5 | Glass | Light | Pauldrons | (1x Refined Stalhrim / 2x Malachite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T4 Light Pauldrons) |
+| &nbsp; | &nbsp; | **---[ BODY ARMOR ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Elven | Light | Armor | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1 Light Armor) |
+| T1P5 -> T2 | Scaled | Light | Armor | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1P5 Light Armor) |
+| T2 -> T2P5 | Nordic Chainmail | Light | Armor | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T2 Light Armor) |
+| T2P5 -> T3 | Gilded Elven | Light | Armor | (1x Gold Ingot / 1x Moonstone Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T2P5 Light Armor) |
+| T3 -> T3P2 | Light Chitin | Light | Armor | (1x Netch Resin / 1x Chitin Plate / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3 Light Armor) |
+| T3P2 -> T3P4 | Improved Chitin | Light | Armor | (2x Chitin Plate / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3P2 Light Armor) |
+| T3P4 -> T3P6 | Bonemold | Light | Armor | (1x Netch Resin / 1x Bonemold Resin / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3P4 Light Armor) |
+| T3P6 -> T3P8 | Light Stalhrim | Light | Armor | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3P6 Light Armor) |
+| T3P8 -> T4 | Dragonscale | Light | Armor | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T3P8 Light Armor) |
+| T4 -> T5 | Glass | Light | Armor | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T4 Light Armor) |
+| &nbsp; | &nbsp; | **---[ BOOTS ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Elven | Light | Boots | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Light Boots) |
+| T1P5 -> T2 | Scaled | Light | Boots | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Light Boots) |
+| T2 -> T2P5 | Nordic Chainmail | Light | Boots | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Light Boots) |
+| T2P5 -> T3 | Gilded Elven | Light | Boots | (1x Gold Ingot / 1x Moonstone Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2P5 Light Boots) |
+| T3 -> T3P2 | Light Chitin | Light | Boots | (1x Netch Resin / 1x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3 Light Boots) |
+| T3P2 -> T3P4 | Improved Chitin | Light | Boots | (2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P2 Light Boots) |
+| T3P4 -> T3P6 | Bonemold | Light | Boots | (1x Netch Resin / 1x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P4 Light Boots) |
+| T3P6 -> T3P8 | Light Stalhrim | Light | Boots | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P6 Light Boots) |
+| T3P8 -> T4 | Dragonscale | Light | Boots | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Light Boots) |
+| T4 -> T5 | Glass | Light | Boots | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Light Boots) |
+| &nbsp; | &nbsp; | **---[ GLOVES ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Elven | Light | Gloves | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Light Gloves) |
+| T1P5 -> T2 | Scaled | Light | Gloves | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Light Gloves) |
+| T2 -> T2P5 | Nordic Chainmail | Light | Gloves | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Light Gloves) |
+| T2P5 -> T3 | Gilded Elven | Light | Gloves | (1x Gold Ingot / 1x Moonstone Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2P5 Light Gloves) |
+| T3 -> T3P2 | Light Chitin | Light | Gloves | (1x Netch Resin / 1x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3 Light Gloves) |
+| T3P2 -> T3P4 | Improved Chitin | Light | Gloves | (2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P2 Light Gloves) |
+| T3P4 -> T3P6 | Bonemold | Light | Gloves | (1x Netch Resin / 1x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P4 Light Gloves) |
+| T3P6 -> T3P8 | Light Stalhrim | Light | Gloves | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P6 Light Gloves) |
+| T3P8 -> T4 | Dragonscale | Light | Gloves | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Light Gloves) |
+| T4 -> T5 | Glass | Light | Gloves | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Light Gloves) |
+| &nbsp; | &nbsp; | **---[ HOOD ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Elven | Light | Hood | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1 Light Hood) |
+| T1P5 -> T2 | Scaled | Light | Hood | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1P5 Light Hood) |
+| T2 -> T2P5 | Nordic Chainmail | Light | Hood | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T2 Light Hood) |
+| T2P5 -> T3 | Gilded Elven | Light | Hood | (1x Gold Ingot / 1x Moonstone Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T2P5 Light Hood) |
+| T3 -> T3P2 | Light Chitin | Light | Hood | (1x Netch Resin / 1x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3 Light Hood) |
+| T3P2 -> T3P4 | Improved Chitin | Light | Hood | (2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3P2 Light Hood) |
+| T3P4 -> T3P6 | Bonemold | Light | Hood | (1x Netch Resin / 1x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3P4 Light Hood) |
+| T3P6 -> T3P8 | Light Stalhrim | Light | Hood | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3P6 Light Hood) |
+| T3P8 -> T4 | Dragonscale | Light | Hood | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather / 1x T3P8 Light Hood) |
+| T4 -> T5 | Glass | Light | Hood | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T4 Light Hood) |
+| &nbsp; | &nbsp; | **---[ BELT ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Elven | Light | Belt | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Light Belt) |
+| T1P5 -> T2 | Scaled | Light | Belt | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Light Belt) |
+| T2 -> T2P5 | Nordic Chainmail | Light | Belt | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Light Belt) |
+| T2P5 -> T3 | Gilded Elven | Light | Belt | (1x Gold Ingot / 1x Moonstone Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2P5 Light Belt) |
+| T3 -> T3P2 | Light Chitin | Light | Belt | (1x Netch Resin / 1x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3 Light Belt) |
+| T3P2 -> T3P4 | Improved Chitin | Light | Belt | (2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P2 Light Belt) |
+| T3P4 -> T3P6 | Bonemold | Light | Belt | (1x Netch Resin / 1x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P4 Light Belt) |
+| T3P6 -> T3P8 | Light Stalhrim | Light | Belt | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P6 Light Belt) |
+| T3P8 -> T4 | Dragonscale | Light | Belt | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Light Belt) |
+| T4 -> T5 | Glass | Light | Belt | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Light Belt) |
+
+---
+
+### Helgen Gear Heavy Armor Progression
+
+| Progression Step | Armor Set | Type | Armor Piece | Materials Matrix |
+| :--- | :--- | :--- | :--- | :--- |
+| &nbsp; | &nbsp; | **---[ PAULDRONS ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Gilded Dwarven | Heavy | Pauldrons | (1x Gold Ingot / 2x Dwarven Metal Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1 Heavy Pauldrons) |
+| T1P5 -> T2 | Steel Plate | Heavy | Pauldrons | (1x Corundum Ingot / 2x Steel Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1P5 Heavy Pauldrons) |
+| T2 -> T2P5 | Orcish | Heavy | Pauldrons | (1x Steel Ingot / 2x Orichalcum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T2 Heavy Pauldrons) |
+| T2P5 -> T3 | Improved Bonemold | Heavy | Pauldrons | (1x Netch Resin / 4x Bonemold Resin / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T2P5 Heavy Pauldrons) |
+| T3 -> T3P2 | Heavy Chitin | Heavy | Pauldrons | (1x Netch Resin / 4x Chitin Plate / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3 Heavy Pauldrons) |
+| T3P2 -> T3P4 | Nordic Heavy | Heavy | Pauldrons | (1x Quicksilver Ingot / 2x Galatite Ingot / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3P2 Heavy Pauldrons) |
+| T3P4 -> T3P6 | Heavy Stalhrim | Heavy | Pauldrons | (1x Stalhrim Ore / 2x Refined Stalhrim / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3P4 Heavy Pauldrons) |
+| T3P6 -> T3P8 | Ebony | Heavy | Pauldrons | (1x Refined Stalhrim / 2x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T3P6 Heavy Pauldrons) |
+| T3P8 -> T4 | Dragonbone | Heavy | Pauldrons | (1x Ebony Ingot / 2x Dragon Bone / 1x Spellwoven Ingot / 2x Leather Strips / 1x T3P8 Heavy Pauldrons) |
+| T4 -> T5 | Daedric | Heavy | Pauldrons | (1x Daedra Heart / 2x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T4 Heavy Pauldrons) |
+| &nbsp; | &nbsp; | **---[ BODY ARMOR ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Gilded Dwarven | Heavy | Armor | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1 Heavy Armor) |
+| T1P5 -> T2 | Steel Plate | Heavy | Armor | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1P5 Heavy Armor) |
+| T2 -> T2P5 | Orcish | Heavy | Armor | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T2 Heavy Armor) |
+| T2P5 -> T3 | Improved Bonemold | Heavy | Armor | (1x Netch Resin / 2x Bonemold Resin / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T2P5 Heavy Armor) |
+| T3 -> T3P2 | Heavy Chitin | Heavy | Armor | (1x Netch Resin / 2x Chitin Plate / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3 Heavy Armor) |
+| T3P2 -> T3P4 | Nordic Heavy | Heavy | Armor | (1x Quicksilver Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3P2 Heavy Armor) |
+| T3P4 -> T3P6 | Heavy Stalhrim | Heavy | Armor | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3P4 Heavy Armor) |
+| T3P6 -> T3P8 | Ebony | Heavy | Armor | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T3P6 Heavy Armor) |
+| T3P8 -> T4 | Dragonbone | Heavy | Armor | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T3P8 Heavy Armor) |
+| T4 -> T5 | Daedric | Heavy | Armor | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T4 Heavy Armor) |
+| &nbsp; | &nbsp; | **---[ BOOTS ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Gilded Dwarven | Heavy | Boots | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Heavy Boots) |
+| T1P5 -> T2 | Steel Plate | Heavy | Boots | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Heavy Boots) |
+| T2 -> T2P5 | Orcish | Heavy | Boots | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Heavy Boots) |
+| T2P5 -> T3 | Improved Bonemold | Heavy | Boots | (1x Netch Resin / 2x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T2P5 Heavy Boots) |
+| T3 -> T3P2 | Heavy Chitin | Heavy | Boots | (1x Netch Resin / 2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3 Heavy Boots) |
+| T3P2 -> T3P4 | Nordic Heavy | Heavy | Boots | (1x Quicksilver Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P2 Heavy Boots) |
+| T3P4 -> T3P6 | Heavy Stalhrim | Heavy | Boots | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P4 Heavy Boots) |
+| T3P6 -> T3P8 | Ebony | Heavy | Boots | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P6 Heavy Boots) |
+| T3P8 -> T4 | Dragonbone | Heavy | Boots | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Heavy Boots) |
+| T4 -> T5 | Daedric | Heavy | Boots | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Heavy Boots) |
+| &nbsp; | &nbsp; | **---[ GLOVES ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Gilded Dwarven | Heavy | Gloves | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Heavy Gloves) |
+| T1P5 -> T2 | Steel Plate | Heavy | Gloves | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Heavy Gloves) |
+| T2 -> T2P5 | Orcish | Heavy | Gloves | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Heavy Gloves) |
+| T2P5 -> T3 | Improved Bonemold | Heavy | Gloves | (1x Netch Resin / 2x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T2P5 Heavy Gloves) |
+| T3 -> T3P2 | Heavy Chitin | Heavy | Gloves | (1x Netch Resin / 2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3 Heavy Gloves) |
+| T3P2 -> T3P4 | Nordic Heavy | Heavy | Gloves | (1x Quicksilver Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P2 Heavy Gloves) |
+| T3P4 -> T3P6 | Heavy Stalhrim | Heavy | Gloves | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P4 Heavy Gloves) |
+| T3P6 -> T3P8 | Ebony | Heavy | Gloves | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P6 Heavy Gloves) |
+| T3P8 -> T4 | Dragonbone | Heavy | Gloves | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Heavy Gloves) |
+| T4 -> T5 | Daedric | Heavy | Gloves | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Heavy Gloves) |
+| &nbsp; | &nbsp; | **---[ HOOD ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Gilded Dwarven | Heavy | Hood | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1 Heavy Hood) |
+| T1P5 -> T2 | Steel Plate | Heavy | Hood | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1P5 Heavy Hood) |
+| T2 -> T2P5 | Orcish | Heavy | Hood | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T2 Heavy Hood) |
+| T2P5 -> T3 | Improved Bonemold | Heavy | Hood | (1x Netch Resin / 2x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather / 1x T2P5 Heavy Hood) |
+| T3 -> T3P2 | Heavy Chitin | Heavy | Hood | (1x Netch Resin / 2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3 Heavy Hood) |
+| T3P2 -> T3P4 | Nordic Heavy | Heavy | Hood | (1x Quicksilver Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3P2 Heavy Hood) |
+| T3P4 -> T3P6 | Heavy Stalhrim | Heavy | Hood | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3P4 Heavy Hood) |
+| T3P6 -> T3P8 | Ebony | Heavy | Hood | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T3P6 Heavy Hood) |
+| T3P8 -> T4 | Dragonbone | Heavy | Hood | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather / 1x T3P8 Heavy Hood) |
+| T4 -> T5 | Daedric | Heavy | Hood | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T4 Heavy Hood) |
+| &nbsp; | &nbsp; | **---[ BELT ]---** | &nbsp; | &nbsp; |
+| T1 -> T1P5 | Gilded Dwarven | Heavy | Belt | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Heavy Belt) |
+| T1P5 -> T2 | Steel Plate | Heavy | Belt | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Heavy Belt) |
+| T2 -> T2P5 | Orcish | Heavy | Belt | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Heavy Belt) |
+| T2P5 -> T3 | Improved Bonemold | Heavy | Belt | (1x Netch Resin / 2x Bonemold Resin / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T2P5 Heavy Belt) |
+| T3 -> T3P2 | Heavy Chitin | Heavy | Belt | (1x Netch Resin / 2x Chitin Plate / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3 Heavy Belt) |
+| T3P2 -> T3P4 | Nordic Heavy | Heavy | Belt | (1x Quicksilver Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P2 Heavy Belt) |
+| T3P4 -> T3P6 | Heavy Stalhrim | Heavy | Belt | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P4 Heavy Belt) |
+| T3P6 -> T3P8 | Ebony | Heavy | Belt | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P6 Heavy Belt) |
+| T3P8 -> T4 | Dragonbone | Heavy | Belt | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Heavy Belt) |
+| T4 -> T5 | Daedric | Heavy | Belt | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Heavy Belt) |
+
+### Helgen Weapon Progression
+
+| Progression Step | Weapon Type | Materials Matrix |
+| :--- | :--- | :--- |
+| &nbsp; | **---[ ONE-HANDED ]---** | &nbsp; |
+| T1 -> T2 | Sword | (1x Copper Ingot / 1x Corundum Ingot / 1x Galatite Ingot / 1x T1 Sword) |
+| T2 -> T3 | Sword | (1x Gold Ingot / 1x Moonstone Ingot / 1x Refined Stalhrim / 1x T2 Sword) |
+| T3 -> T4 | Sword | (1x Bonemold Resin / 1x Dragon Bone / 1x T3 Sword) |
+| T4 -> T5 | Sword | (1x Refined Stalhrim / 1x Malachite Ingot / 1x T4 Sword) |
+| &nbsp; | **---[ TWO-HANDED ]---** | &nbsp; |
+| T1 -> T2 | Greatsword | (1x Gold Ingot / 1x Steel Ingot / 1x Orichalcum Ingot / 1x T1 Greatsword) |
+| T2 -> T3 | Greatsword | (1x Bonemold Resin / 1x Galatite Ingot / 1x Refined Stalhrim / 1x T2 Greatsword) |
+| T3 -> T4 | Greatsword | (1x Bonemold Resin / 1x Dragon Bone / 1x T3 Greatsword) |
+| T4 -> T5 | Greatsword | (1x Daedra Heart / 1x Ebony Ingot / 1x T4 Greatsword) |
