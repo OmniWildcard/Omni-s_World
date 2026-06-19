@@ -999,7 +999,6 @@ For context purposes here are the progression tables for armor and weapons:
 
 | Progression Step | Armor Set | Type | Armor Piece | Materials Matrix |
 | :--- | :--- | :--- | :--- | :--- |
-| &nbsp; | &nbsp; | **---[ PAULDRONS ]---** | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Elven | Light | Pauldrons | (1x Quicksilver Ingot / 2x Calcinium Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1 Light Pauldrons) |
 | T1P5 -> T2 | Scaled | Light | Pauldrons | (1x Copper Ingot / 2x Corundum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1P5 Light Pauldrons) |
 | T2 -> T2P5 | Nordic Chainmail | Light | Pauldrons | (1x Steel Ingot / 2x Galatite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T2 Light Pauldrons) |
@@ -1010,7 +1009,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Light Stalhrim | Light | Pauldrons | (1x Stalhrim Ore / 2x Refined Stalhrim / 1x Spellwoven Ingot / 2x Netch Leather Strips / 1x T3P6 Light Pauldrons) |
 | T3P8 -> T4 | Dragonscale | Light | Pauldrons | (1x Bonemold Resin / 2x Dragon Scales / 1x Spellwoven Ingot / 2x Leather Strips / 1x T3P8 Light Pauldrons) |
 | T4 -> T5 | Glass | Light | Pauldrons | (1x Refined Stalhrim / 2x Malachite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T4 Light Pauldrons) |
-| &nbsp; | &nbsp; | **---[ BODY ARMOR ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Elven | Light | Armor | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1 Light Armor) |
 | T1P5 -> T2 | Scaled | Light | Armor | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1P5 Light Armor) |
 | T2 -> T2P5 | Nordic Chainmail | Light | Armor | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T2 Light Armor) |
@@ -1021,7 +1020,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Light Stalhrim | Light | Armor | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 2x Netch Leather Strips / 2x Netch Leather / 1x T3P6 Light Armor) |
 | T3P8 -> T4 | Dragonscale | Light | Armor | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T3P8 Light Armor) |
 | T4 -> T5 | Glass | Light | Armor | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T4 Light Armor) |
-| &nbsp; | &nbsp; | **---[ BOOTS ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Elven | Light | Boots | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Light Boots) |
 | T1P5 -> T2 | Scaled | Light | Boots | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Light Boots) |
 | T2 -> T2P5 | Nordic Chainmail | Light | Boots | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Light Boots) |
@@ -1032,7 +1031,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Light Stalhrim | Light | Boots | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P6 Light Boots) |
 | T3P8 -> T4 | Dragonscale | Light | Boots | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Light Boots) |
 | T4 -> T5 | Glass | Light | Boots | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Light Boots) |
-| &nbsp; | &nbsp; | **---[ GLOVES ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Elven | Light | Gloves | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Light Gloves) |
 | T1P5 -> T2 | Scaled | Light | Gloves | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Light Gloves) |
 | T2 -> T2P5 | Nordic Chainmail | Light | Gloves | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Light Gloves) |
@@ -1043,7 +1042,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Light Stalhrim | Light | Gloves | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather Strips / 1x Netch Leather / 1x T3P6 Light Gloves) |
 | T3P8 -> T4 | Dragonscale | Light | Gloves | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Light Gloves) |
 | T4 -> T5 | Glass | Light | Gloves | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Light Gloves) |
-| &nbsp; | &nbsp; | **---[ HOOD ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Elven | Light | Hood | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1 Light Hood) |
 | T1P5 -> T2 | Scaled | Light | Hood | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1P5 Light Hood) |
 | T2 -> T2P5 | Nordic Chainmail | Light | Hood | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T2 Light Hood) |
@@ -1054,7 +1053,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Light Stalhrim | Light | Hood | (1x Stalhrim Ore / 1x Refined Stalhrim / 1x Spellwoven Ingot / 1x Netch Leather / 1x T3P6 Light Hood) |
 | T3P8 -> T4 | Dragonscale | Light | Hood | (1x Bonemold Resin / 1x Dragon Scales / 1x Spellwoven Ingot / 1x Leather / 1x T3P8 Light Hood) |
 | T4 -> T5 | Glass | Light | Hood | (1x Refined Stalhrim / 1x Malachite Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T4 Light Hood) |
-| &nbsp; | &nbsp; | **---[ BELT ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Elven | Light | Belt | (1x Quicksilver Ingot / 1x Calcinium Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Light Belt) |
 | T1P5 -> T2 | Scaled | Light | Belt | (1x Copper Ingot / 1x Corundum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Light Belt) |
 | T2 -> T2P5 | Nordic Chainmail | Light | Belt | (1x Steel Ingot / 1x Galatite Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Light Belt) |
@@ -1072,7 +1071,6 @@ For context purposes here are the progression tables for armor and weapons:
 
 | Progression Step | Armor Set | Type | Armor Piece | Materials Matrix |
 | :--- | :--- | :--- | :--- | :--- |
-| &nbsp; | &nbsp; | **---[ PAULDRONS ]---** | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Gilded Dwarven | Heavy | Pauldrons | (1x Gold Ingot / 2x Dwarven Metal Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1 Heavy Pauldrons) |
 | T1P5 -> T2 | Steel Plate | Heavy | Pauldrons | (1x Corundum Ingot / 2x Steel Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T1P5 Heavy Pauldrons) |
 | T2 -> T2P5 | Orcish | Heavy | Pauldrons | (1x Steel Ingot / 2x Orichalcum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T2 Heavy Pauldrons) |
@@ -1083,7 +1081,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Ebony | Heavy | Pauldrons | (1x Refined Stalhrim / 2x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T3P6 Heavy Pauldrons) |
 | T3P8 -> T4 | Dragonbone | Heavy | Pauldrons | (1x Ebony Ingot / 2x Dragon Bone / 1x Spellwoven Ingot / 2x Leather Strips / 1x T3P8 Heavy Pauldrons) |
 | T4 -> T5 | Daedric | Heavy | Pauldrons | (1x Daedra Heart / 2x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 1x T4 Heavy Pauldrons) |
-| &nbsp; | &nbsp; | **---[ BODY ARMOR ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Gilded Dwarven | Heavy | Armor | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1 Heavy Armor) |
 | T1P5 -> T2 | Steel Plate | Heavy | Armor | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T1P5 Heavy Armor) |
 | T2 -> T2P5 | Orcish | Heavy | Armor | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T2 Heavy Armor) |
@@ -1094,7 +1092,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Ebony | Heavy | Armor | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T3P6 Heavy Armor) |
 | T3P8 -> T4 | Dragonbone | Heavy | Armor | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T3P8 Heavy Armor) |
 | T4 -> T5 | Daedric | Heavy | Armor | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 2x Leather Strips / 2x Leather / 1x T4 Heavy Armor) |
-| &nbsp; | &nbsp; | **---[ BOOTS ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Gilded Dwarven | Heavy | Boots | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Heavy Boots) |
 | T1P5 -> T2 | Steel Plate | Heavy | Boots | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Heavy Boots) |
 | T2 -> T2P5 | Orcish | Heavy | Boots | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Heavy Boots) |
@@ -1105,7 +1103,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Ebony | Heavy | Boots | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P6 Heavy Boots) |
 | T3P8 -> T4 | Dragonbone | Heavy | Boots | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Heavy Boots) |
 | T4 -> T5 | Daedric | Heavy | Boots | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Heavy Boots) |
-| &nbsp; | &nbsp; | **---[ GLOVES ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Gilded Dwarven | Heavy | Gloves | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Heavy Gloves) |
 | T1P5 -> T2 | Steel Plate | Heavy | Gloves | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Heavy Gloves) |
 | T2 -> T2P5 | Orcish | Heavy | Gloves | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Heavy Gloves) |
@@ -1116,7 +1114,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Ebony | Heavy | Gloves | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P6 Heavy Gloves) |
 | T3P8 -> T4 | Dragonbone | Heavy | Gloves | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T3P8 Heavy Gloves) |
 | T4 -> T5 | Daedric | Heavy | Gloves | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T4 Heavy Gloves) |
-| &nbsp; | &nbsp; | **---[ HOOD ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Gilded Dwarven | Heavy | Hood | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1 Heavy Hood) |
 | T1P5 -> T2 | Steel Plate | Heavy | Hood | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T1P5 Heavy Hood) |
 | T2 -> T2P5 | Orcish | Heavy | Hood | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T2 Heavy Hood) |
@@ -1127,7 +1125,7 @@ For context purposes here are the progression tables for armor and weapons:
 | T3P6 -> T3P8 | Ebony | Heavy | Hood | (1x Refined Stalhrim / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T3P6 Heavy Hood) |
 | T3P8 -> T4 | Dragonbone | Heavy | Hood | (1x Ebony Ingot / 1x Dragon Bone / 1x Spellwoven Ingot / 1x Leather / 1x T3P8 Heavy Hood) |
 | T4 -> T5 | Daedric | Heavy | Hood | (1x Daedra Heart / 1x Ebony Ingot / 1x Spellwoven Ingot / 1x Leather / 1x T4 Heavy Hood) |
-| &nbsp; | &nbsp; | **---[ BELT ]---** | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T1P5 | Gilded Dwarven | Heavy | Belt | (1x Gold Ingot / 1x Dwarven Metal Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1 Heavy Belt) |
 | T1P5 -> T2 | Steel Plate | Heavy | Belt | (1x Corundum Ingot / 1x Steel Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T1P5 Heavy Belt) |
 | T2 -> T2P5 | Orcish | Heavy | Belt | (1x Steel Ingot / 1x Orichalcum Ingot / 1x Spellwoven Ingot / 1x Leather Strips / 1x Leather / 1x T2 Heavy Belt) |
@@ -1143,12 +1141,11 @@ For context purposes here are the progression tables for armor and weapons:
 
 | Progression Step | Weapon Type | Materials Matrix |
 | :--- | :--- | :--- |
-| &nbsp; | **---[ ONE-HANDED ]---** | &nbsp; |
 | T1 -> T2 | Sword | (1x Copper Ingot / 1x Corundum Ingot / 1x Galatite Ingot / 1x T1 Sword) |
 | T2 -> T3 | Sword | (1x Gold Ingot / 1x Moonstone Ingot / 1x Refined Stalhrim / 1x T2 Sword) |
 | T3 -> T4 | Sword | (1x Bonemold Resin / 1x Dragon Bone / 1x T3 Sword) |
 | T4 -> T5 | Sword | (1x Refined Stalhrim / 1x Malachite Ingot / 1x T4 Sword) |
-| &nbsp; | **---[ TWO-HANDED ]---** | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | T1 -> T2 | Greatsword | (1x Gold Ingot / 1x Steel Ingot / 1x Orichalcum Ingot / 1x T1 Greatsword) |
 | T2 -> T3 | Greatsword | (1x Bonemold Resin / 1x Galatite Ingot / 1x Refined Stalhrim / 1x T2 Greatsword) |
 | T3 -> T4 | Greatsword | (1x Bonemold Resin / 1x Dragon Bone / 1x T3 Greatsword) |
