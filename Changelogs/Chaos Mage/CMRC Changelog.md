@@ -804,8 +804,12 @@ This update is mostly a performance and bug fix update but I have also made the 
 [+] [BGSWaterCollision - CrashFix](https://www.nexusmods.com/skyrimspecialedition/mods/181562)<br>
 [+] [Collision Sentinel - Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/181445)<br>
 [+] [Keep Up - Follower Locomotion Fix](https://www.nexusmods.com/skyrimspecialedition/mods/173685)<br>
+[+] [Salma Replacer and Follower](https://www.nexusmods.com/skyrimspecialedition/mods/149206)<br>
+[+] [Tilael - Follower (Optional SKSE Plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/171582)<br>
+[+] [Aurlyn Dawnstone Follower or Faralda Replacer Skypatcher](https://www.nexusmods.com/skyrimspecialedition/mods/178498)<br>
 
 **REMOVED MODS:** <br>
+[-] Outfit for Salma<br>
 [-] ImmersiveHUD SKSE<br>
 [-] Skyrim Save System Overhaul 3 (SSSO 3)<br>
 [-] Dragon War<br>
